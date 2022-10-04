@@ -1248,7 +1248,7 @@ display: inline-flex;
 
 /* footer section  */
 .footer-wrapper{
-    background-image: url(https://cdn.statically.io/gh/saeedane/tadamseFileAsset/main/img/bg-footer.png);
+    background-image: url("https://cdn.statically.io/gh/saeedane/tadamseFileAsset/main/img/bg-footer.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
