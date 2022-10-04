@@ -1216,7 +1216,7 @@ display: inline-flex;
 }
 
 .auther-section .bg-image{
-    background-image: url(assets/img/cover-auther.png);
+    background-image: url('https://cdn.statically.io/gh/saeedane/tadamseFileAsset/main/img/opinion.png');
     background-size: contain;
     background-repeat: no-repeat;
         object-fit: cover;
