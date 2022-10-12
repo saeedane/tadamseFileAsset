@@ -772,6 +772,22 @@ align-items: center;
 
 /*==== archive style =====*/
 
+.content-archive .page-title{
+    font-size: 24px;
+padding-bottom: 8px;
+background: #001b68;
+width: 122px;
+text-align: center;
+color: white;
+border-bottom-right-radius: 100px;
+display: flex;
+border-bottom-left-radius: 100px;
+border-top-left-radius: 100px;
+justify-content: center;
+align-items: center;
+height: 100%;
+}
+
 .content-area .site-main {
     width: 70%;
     float: right;
