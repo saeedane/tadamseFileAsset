@@ -132,31 +132,6 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 
 
 
-
-.news-ticker-controls  .news-ticker-pause{
-position: absolute;
-    right: 0;
-    top: 0;
-    height: 100%;
-    width: 42px;
-    z-index: 2;
-    border-left: 1px solid #444;
-    display: inline-block;
-    line-height: 37px;
-    text-align: center;
-    font-size: 16px;
-    background-color: #fff;
-    cursor: pointer;
-}
-
-
-
-
-.dropdown-toggle::after{
-    display: none;
-}
-
-
 /*-----------------------------
     News Ticker
 ------------------------------*/
@@ -187,106 +162,8 @@ background-color:black;
   height: 40px;
   border: 1px solid #000000;
  }
-  @media (min-width: 768px) {
-    .news-ticker {
-      margin-top: 0; } }
-  .latest-ticker-label {
-    background: #001b68;
-    padding: 10px;
-    width: auto;
-    float: right;
-    line-height: normal;
-    height: 100%;
-    color: #fff;
-font-size: 28px;
-    font-family: 'alhassadeR';
-
-
-     }
-    @media (max-width: 575px) {
-      .news-ticker-label {
-        position: absolute;
-        top: -45px; } }
-  .news-ticker-box ,.latest-ticker-box{
-    height: 100%;
-    padding-top: 5px;
-    overflow: hidden; }
-
-    .latest-ticker-box{
-    background: #e9ecef;
-
-
-
-    }
-    @media (max-width: 575px) {
-      .news-ticker-box {
-        padding-left: 10px;
-        padding-right: 120px; } }
-    .news-ticker-box ul {
-      width: 100%;
-      list-style-type: none !important;
-      padding: 0;
-      margin: 0; }
-      .news-ticker-box ul li a {
-        text-decoration: none; }
-  .news-ticker-controls {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    position: absolute;
-    height: 100%;
-    right: 0;
-    top: 0; }
-    .news-ticker-controls button {
-      height: 100%;
-      background: #f6f6f6;
-      padding: 0;
-      width: 40px;
-      border-color: #eeeeee;
-      border-style: solid;
-      border-width: 0 0 0 1px;
-      cursor: pointer;
-      display: inline-block; }
-
  
-      
-      .news-ticker-controls button .news-ticker-pause {
-        position: relative;
-        display: inline-block; }
-        .news-ticker-controls button.news-ticker-pause:before {
-          position: absolute;
-          content: "";
-          width: 13px;
-          height: 16px;
-          border-color: #001b68;
-          border-style: solid;
-          border-width: 0 4px 0;
-          -webkit-transform: translate(-50%, -50%);
-              -ms-transform: translate(-50%, -50%);
-                  transform: translate(-50%, -50%);
-          left: 50%;
-          top: 50%; }
    
-
-
-
-.item__ticker a .bg-up span {
-    background-color: rgba(93,245,195,.2) !important;
-}
-
-.item__ticker  a .bg-down span {
-    background-color: rgba(255,67,60,.2);
-}
-
-.item__ticker  a .t-number {
-    font-family: alhassadeR;
-    color: #111;
-    font-size: 13px;
-    font-weight: normal;
-    display: block;
-    margin-top: 5px;
-}
-
 
 .arrow-down, .arrow-up {
     width: 0;
@@ -332,9 +209,6 @@ font-size: 28px;
 
  /* tricker bottom  */
 
-.header-bottom .shart-contianer{
-
-}
 
 .header-bottom .shart-contianer .shart-box .market--ticker{
     background-image: linear-gradient(to right, #e71d2500, rgb(0 0 0 / 8%),#db1d2405);
