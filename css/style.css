@@ -792,6 +792,7 @@ align-items: center;
 /* pagination style */
 .page-link{
     color: black !important;
+    padding: 0.5rem 1rem !important;
 
 }
 
