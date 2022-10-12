@@ -830,8 +830,14 @@ height: 100%;
 color: black;
 font-size: 17px;
 padding-left: 10px;
-padding-right: 10px;
 }
+
+.archive_post_meta span img{
+    padding-left: 10px;
+
+}
+
+
 .archive_post_meta img{
     width: 14px;
 
