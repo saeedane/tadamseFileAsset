@@ -830,9 +830,10 @@ height: 100%;
 color: black;
 font-size: 17px;
 padding-left: 10px;
+padding-right: 10px;
 }
 .archive_post_meta img{
-    width: 16px;
+    width: 14px;
 
 } 
 
