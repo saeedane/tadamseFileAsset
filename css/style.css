@@ -770,6 +770,31 @@ display: flex;
 align-items: center;
 }
 
+/*==== archive style =====*/
+
+.content-area .site-main {
+    width: 70%;
+    float: right;
+    box-shadow: 1px 1px 10px #e5e5e5;
+    margin-bottom: 20px;
+}
+
+.content-area .sidebar-column {
+    width: 27%;
+    margin-right: auto;
+    overflow: hidden;
+    padding: 4px;
+    margin-bottom: 20px;
+}
+
+/* retangle card style */
+
+/* pagination style */
+.page-link{
+    color: black !important;
+
+}
+
 
 /* section category style */
 .article__heading {
