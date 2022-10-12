@@ -817,6 +817,11 @@ height: 100%;
     right: 0;
 }
 
+
+.archive_post_img .newsBanar_Img{
+    padding-bottom: 67% !important;
+}
+
 /* pagination style */
 .page-link{
     color: black !important;
