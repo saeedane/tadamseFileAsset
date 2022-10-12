@@ -191,17 +191,6 @@ background-color:black;
     border-width: 12px 6px 0;
 }
 
-/* last news  */
- .latest-ticker{
-        background: #fff;
-    height: 45px;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    z-index: 99;
-
- }
-
 
 /**/
 
@@ -302,6 +291,8 @@ background: #03d9d9 !important;
 }
 
 
+
+
 .newsWithSidebar .newsCont .article__hero .article__body {
     display: flex;
     flex-direction: column;
@@ -335,9 +326,17 @@ background: #03d9d9 !important;
     padding: 6px 0px;
 }
 
+/* article hero */
+.article__hero  .image-thumbnail img{
+	width:445px;
+	height:330px;
+}
+
 .newsWithSidebar .newsCont .article-list .card__art .image-thumbnail {
     position: relative;
 }
+
+
 
 /*.newsWithSidebar .newsCont .article-list .card__art .image-thumbnail .mostReadeIcon{
        position: absolute;
@@ -784,10 +783,12 @@ align-items: center;
     font-family: alhassade;
     display: flex;
 }
+
+
 .cat__link:after {
     content: " ";
     width: 30px;
-    background-image: url(https://asset1.skynewsarabia.com/asset/1643183802/C30BB2E4FD0AD89891EE0B7AC12322A0/assets/img/svg-icons/content_go_arrow.svg);
+    background-image: url('https://asset1.skynewsarabia.com/asset/1643183802/C30BB2E4FD0AD89891EE0B7AC12322A0/assets/img/svg-icons/content_go_arrow.svg');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 15px 19px;
@@ -799,7 +800,7 @@ align-items: center;
 
     content: " ";
     width: 60px;
-    background-image: url('assets/img/icons/VÃ©rgule.svg');
+    background-image: url('https://cdn.statically.io/gh/saeedane/tadamseFileAsset/main/img/icons/V%C3%A9rgule.svg');
     background-repeat: no-repeat;
     background-position: center center;
         background-size: 57px 40px;
@@ -977,6 +978,8 @@ align-items: center;
     border-radius: 10px;
         transition: 0.5s ease-in-out all;
     background: linear-gradient(to bottom, rgb(125 0 0 / 0%) 0%, #03d9d694 49%, #02d8d8 100%) ;
+    right:0px;
+	left:0px;
 
 
 
@@ -1645,6 +1648,8 @@ display: inline-flex;
 .newsWithSidebar .newsCont .article-list .article__hero .image-thumbnail{
     float: unset !important;
 }
+
+
 
 .newsWithSidebar .newsCont .article__hero .article__body{
     padding-right: 0px !important;
