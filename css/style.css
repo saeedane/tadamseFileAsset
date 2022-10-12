@@ -888,6 +888,7 @@ width: 21px;
 .svg-icon {
 width: 1.5em;
 height: auto;
+
 }
 
 .rb-weather-highlow > *:not(:first-child), .rb-w-humidity > *:not(:first-child), .ruby-weather-wind > *:not(:first-child) {
