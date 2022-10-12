@@ -828,6 +828,8 @@ height: 100%;
 }
 .archive_post_meta span, .archive_post_meta a{
 color: black;
+font-size: 17px;
+padding-left: 10px;
 }
 .archive_post_meta img{
     width: 16px;
