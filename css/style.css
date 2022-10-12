@@ -822,6 +822,20 @@ height: 100%;
     padding-bottom: 67% !important;
 }
 
+.archive_post_meta {
+    list-style: none;
+
+}
+.archive_post_meta span, .archive_post_meta a{
+color: black;
+}
+.archive_post_meta img{
+    width: 16px;
+
+} 
+
+
+
 /* pagination style */
 .page-link{
     color: black !important;
