@@ -106,10 +106,6 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 }
 
 
-.dropdown-toggle::after{
-    display: none;
-}
-
 
 .overDark{
         display: block;
