@@ -900,7 +900,7 @@ padding-left: 10px;
     font-family: sadan-toshiba;
 }
 
-.post-content .entry-content p strong{
+.post-content .entry-content p strong,.post-content .entry-content h4{
     font-size: 30px;
     font-family: 'alhassade';
 
