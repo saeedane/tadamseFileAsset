@@ -915,7 +915,23 @@ padding-left: 10px;
 /* related  */
 /* read also  */
 
+.readAlsoBox {
+        box-shadow: 1px 1px 10px #e5e5e5;
+padding: 15px;
+}
 
+.readAlsoBox h2{
+        line-height: 1.1;
+    display: inline-block;
+    width: auto;
+    margin-bottom: 15px;
+    padding: 4px 20px;
+    color: #fff;
+    background-color: #001b68;
+    border-bottom-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-top-left-radius: 100px;
+}
 
 
 
