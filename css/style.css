@@ -813,7 +813,10 @@ height: 100%;
     margin-bottom: 20px;
 }
 
-
+.sidebar-column .widget_tadamsa_posts_list_latest h2 {
+    font-size: 24px;
+    font-family: alhassade;
+}
 
 /* retangle card style */
 
