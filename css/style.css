@@ -828,6 +828,7 @@ height: 100%;
 .content-area .mostInportNewsList a{
        font-size: 19px;
     font-family: alhassadeR;
+    color: black;
 }
 .news_img {
     margin: 0;
