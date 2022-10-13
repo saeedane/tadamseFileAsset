@@ -826,8 +826,8 @@ height: 100%;
     min-height: 90px;
 }
 .content-area .mostInportNewsList a{
-    color: black;
-    font-size: 21px;
+       font-size: 19px;
+    font-family: alhassadeR;
 }
 .news_img {
     margin: 0;
