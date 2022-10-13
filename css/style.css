@@ -811,6 +811,7 @@ height: 100%;
 .sidebar-column .widget_tadamsa_posts_list_latest{
     box-shadow: 1px 1px 10px #e5e5e5;
     margin-bottom: 20px;
+    padding-bottom: 20px;
 }
 
 .sidebar-column .widget_tadamsa_posts_list_latest h2 {
