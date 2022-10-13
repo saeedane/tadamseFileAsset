@@ -894,7 +894,7 @@ padding-left: 10px;
     padding: 0px 20px;
 }
 
-.post-content .entry-content p,.post-content .entry-content h4{
+.post-content .entry-content p,.post-content .entry-content h4,.post-content .entry-content h2{
     font-size: 22px;
     color: black;
     font-family: sadan-toshiba;
@@ -902,7 +902,7 @@ padding-left: 10px;
     line-height: 2.5rem;
 }
 
-.post-content .entry-content p strong,.post-content .entry-content h4 strong{
+.post-content .entry-content p strong,.post-content .entry-content h4 strong,.post-content .entry-content h2 strong{
     font-size: 40px;
     font-family: 'alhassade';
 
