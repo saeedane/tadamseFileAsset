@@ -857,6 +857,14 @@ padding-left: 10px;
 /* auther box  */
 /* meta box info   */
 
+.border-bottom{
+        border-bottom: 1px solid#eee !important;
+
+}
+.genPostMetaInfo{
+        border-bottom: 1px solid#eee;
+
+}
 .genPostMetaInfo time, .genPostMetaInfo ul li a{
     font-size: 17px;
         font-family: alhassadeR;
