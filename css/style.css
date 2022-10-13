@@ -771,7 +771,10 @@ align-items: center;
 }
 
 /*==== archive style =====*/
+.content-archive .site-main {
+    box-shadow: 1px 1px 10px #e5e5e5;
 
+}
 .content-archive .page-title{
     font-size: 24px;
 padding-bottom: 8px;
