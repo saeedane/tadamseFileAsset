@@ -861,6 +861,9 @@ padding-left: 10px;
         border-bottom: 1px solid#eee !important;
 
 }
+.heading__img{
+    color: black;
+}
 .genPostMetaInfo{
         border-bottom: 1px solid#eee;
         margin-bottom: 20px;
