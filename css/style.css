@@ -895,8 +895,15 @@ padding-left: 10px;
 }
 
 .post-content .entry-content p{
-    font-size: 20px;
+    font-size: 19px;
     color: black;
+    font-family: sadan-toshiba;
+}
+
+.post-content .entry-content p strong{
+    font-size: 35px;
+    font-family: 'sadan-toshiba'
+
 }
 
 /* related  */
