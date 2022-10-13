@@ -891,7 +891,7 @@ padding-left: 10px;
 /* the content  */
 .single-page{
         box-shadow: 1px 1px 10px #e5e5e5;
-        margin-bottom: 20px;
+        padding-bottom: 20px;
 
 }
 .post-content .entry-content{
