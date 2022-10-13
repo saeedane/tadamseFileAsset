@@ -862,6 +862,10 @@ padding-left: 10px;
 
 }
 
+.genPostMetaInfo ul li:last-child img{
+    margin-right: 10px;
+}
+
 .genPostMetaInfo ul li a{
     color: black;
     font-size: 16px;
