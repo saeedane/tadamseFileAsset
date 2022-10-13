@@ -852,6 +852,27 @@ padding-left: 10px;
 
 }
 
+/*=====  single page style =======*/
+
+/* auther box  */
+/* meta box info   */
+.genPostMetaInfo ul li img{
+    width: 17px;
+
+}
+
+.genPostMetaInfo ul li a{
+    color: black;
+    font-size: 16px;
+
+}
+/* the content  */
+/* related  */
+/* read also  */
+
+
+
+
 
 /* section category style */
 .article__heading {
