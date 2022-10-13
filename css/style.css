@@ -907,7 +907,10 @@ padding-left: 10px;
     line-height: 2.5rem;
 }
 
-.post-content .entry-content p strong,.post-content .entry-content h4 strong,.post-content .entry-content h2 strong{
+.post-content .entry-content p strong{
+    font-family: alhassade;
+}
+.post-content .entry-content h4 strong,.post-content .entry-content h2 strong{
     font-size: 40px;
     font-family: 'alhassade';
 
