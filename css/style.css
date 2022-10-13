@@ -887,6 +887,15 @@ padding-left: 10px;
 
 
 /* the content  */
+.post-content .entry-content{
+    padding: 0px 20px;
+}
+
+.post-content .entry-content p{
+    font-size: 20px;
+    color: black;
+}
+
 /* related  */
 /* read also  */
 
