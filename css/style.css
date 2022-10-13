@@ -836,8 +836,7 @@ height: 100%;
     flex-shrink: inherit;
     width: 120px;
     height: 67.5px;
-    float: right;
-    margin-left: 10px;
+    float: left;
 }
 
 .news_img img{
