@@ -895,13 +895,15 @@ padding-left: 10px;
 }
 
 .post-content .entry-content p,.post-content .entry-content h4{
-    font-size: 20px;
+    font-size: 21px;
     color: black;
     font-family: sadan-toshiba;
+    margin-bottom: 30px;
+    line-height: 2;
 }
 
 .post-content .entry-content p strong,.post-content .entry-content h4 strong{
-    font-size: 30px;
+    font-size: 35px;
     font-family: 'alhassade';
 
 }
