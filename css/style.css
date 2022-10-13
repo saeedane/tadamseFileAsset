@@ -868,7 +868,7 @@ padding-left: 10px;
         margin-bottom: 20px;
 
 }
-.genPostMetaInfo time, .genPostMetaInfo ul li a{
+.genPostMetaInfo time,.genPostMetaInfo span ,.genPostMetaInfo ul li a{
     font-size: 17px;
         font-family: alhassadeR;
         color: black;
@@ -899,7 +899,7 @@ padding-left: 10px;
     padding: 0px 20px;
 }
 
-.post-content .entry-content p,.post-content .entry-content h4,.post-content .entry-content h2{
+.post-content .entry-content p,.post-content .entry-content .post--content,.post-content .entry-content h4,.post-content .entry-content h2{
     font-size: 22px;
     color: black;
     font-family: sadan-toshiba;
