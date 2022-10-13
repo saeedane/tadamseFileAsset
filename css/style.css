@@ -856,6 +856,11 @@ padding-left: 10px;
 
 /* auther box  */
 /* meta box info   */
+
+.genPostMetaInfo time{
+    font-size: 17px;
+}
+
 .genPostMetaInfo ul li img{
     width: 17px;
     margin-left: 10px;
@@ -869,8 +874,11 @@ padding-left: 10px;
 .genPostMetaInfo ul li a{
     color: black;
     font-size: 16px;
+    font-family: alhassadeR;
 
 }
+
+
 /* the content  */
 /* related  */
 /* read also  */
