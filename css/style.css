@@ -825,7 +825,10 @@ height: 100%;
     border-bottom: 1px #eee solid;
     min-height: 90px;
 }
-
+.content-area .mostInportNewsList a{
+    color: black;
+    font-size: 21px;
+}
 .news_img {
     margin: 0;
     padding: 0;
