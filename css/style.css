@@ -829,6 +829,16 @@ height: 100%;
     margin-left: 10px;
 }
 
+.news_img img{
+        display: block;
+    width: 100%;
+    height: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+    position: absolute;
+    border-radius: 20px;
+}
+
 /* retangle card style */
 
 .archive_post_img {
