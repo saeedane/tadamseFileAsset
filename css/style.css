@@ -894,13 +894,13 @@ padding-left: 10px;
     padding: 0px 20px;
 }
 
-.post-content .entry-content p{
+.post-content .entry-content p,.post-content .entry-content h4{
     font-size: 20px;
     color: black;
     font-family: sadan-toshiba;
 }
 
-.post-content .entry-content p strong,.post-content .entry-content h4{
+.post-content .entry-content p strong,.post-content .entry-content h4 strong{
     font-size: 30px;
     font-family: 'alhassade';
 
