@@ -977,6 +977,12 @@ padding: 15px;
 overflow: hidden;
 }
 
+.readAlsoBox img{
+    width: 303px;
+    height: 190px;
+    object-fit: cover;
+    
+}
 .readAlsoBox h2{
         line-height: 1.1;
     display: inline-block;
