@@ -974,6 +974,7 @@ padding-left: 10px;
 .readAlsoBox {
         box-shadow: 1px 1px 10px #e5e5e5;
 padding: 15px;
+overflow: hidden;
 }
 
 .readAlsoBox h2{
