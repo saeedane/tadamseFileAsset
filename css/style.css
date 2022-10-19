@@ -969,6 +969,8 @@ padding-left: 10px;
 }
 
 /* related  */
+
+
 /* read also  */
 
 .readAlsoBox {
@@ -998,7 +1000,23 @@ overflow: hidden;
 
 }
 
+.readAlsoBox .article__list  {
+    flex-wrap: wrap;
+    display: flex;
+    padding-right:0px ;
+}
 
+.readAlsoBox .article__list li{
+        flex: 0 0 33.3333%;
+
+}
+
+.readAlsoBox .article__list li 
+.article__body  .card-title{
+    color: black;
+    font-size: 24px;
+    font-family: 'alhassade';
+}
 
 /* section category style */
 .article__heading {
