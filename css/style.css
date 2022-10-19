@@ -1012,7 +1012,7 @@ overflow: hidden;
 }
 
 .readAlsoBox .article__list li 
-.article__body  .card-title{
+.article__body  .card-title a{
     color: black;
     font-size: 24px;
     font-family: 'alhassade';
