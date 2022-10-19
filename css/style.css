@@ -980,9 +980,10 @@ overflow: hidden;
 }
 
 .readAlsoBox img{
-    width: 275px;
-    height: 190px;
+    width: 270px;
+    height: 180px;
     object-fit: cover;
+    border-radius: 6px;
     
 }
 .readAlsoBox h2{
