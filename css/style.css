@@ -114,7 +114,8 @@ position: absolute;
     height: 100%;
     display: block;
     content: "";
-    background: rgb(52 52 52 / 86%);
+        background: rgb(0 178 196 / 86%);
+
     z-index: 1;
     transition: .3s;
     width: 0%;
@@ -301,7 +302,8 @@ background: #03d9d9 !important;
 }
 .menu_side .mobile_content  {
     width: 428px;
-    background: #262626;
+    background: #001b68;
+
     height: 100vh;
     overflow: auto;
     padding: 65px 37px 14px;
