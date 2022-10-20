@@ -289,7 +289,7 @@ background: #03d9d9 !important;
 }
 
 .menu_side.active{
-    right: 100%;
+    right: 0px;
 }
 
 .menu_side.active .overDark {
