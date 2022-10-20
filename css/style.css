@@ -293,6 +293,11 @@ background: #03d9d9 !important;
     transition: .3s ease all;
 
 }
+
+.menu_side.active {
+    opacity: 1;
+    visibility: visible;
+}
 .menu_side .mobile_content  {
     width: 428px;
     background: #262626;
@@ -317,7 +322,7 @@ background: #03d9d9 !important;
 
 }
 
-.menu_side.active .mobile_content  .overDark {
+.menu_side.active   .overDark {
 opacity: 1;
     visibility: visible;
     width: 100%;
