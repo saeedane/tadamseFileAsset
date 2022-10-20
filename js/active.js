@@ -37,8 +37,7 @@ jQuery(window).scroll(function() {
         jQuery('.header-wrapper').addClass('sticky');
     } else {
         jQuery('.header-wrapper').removeClass('sticky');
-                jQuery('.header-wrapper').removeClass('sticky');
-
+        
     }
 
 
