@@ -55,18 +55,18 @@ jQuery(window).scroll(function() {
     });
 
 
-   $(".menu_bar").click(function(){
-    $(".menu_side").addClass("active");
-    $("body").addClass("oveflow");
+   jQuery(".menu_bar").click(function(){
+    jQuery(".menu_side").addClass("active");
+    jQuery("body").addClass("oveflow");
   });
 
-  $(".close_menu").click(function(){
-    $(".menu_side").removeClass("active");
-    $("body").removeClass("oveflow");
+  jQuery(".close_menu").click(function(){
+    jQuery(".menu_side").removeClass("active");
+    jQuery("body").removeClass("oveflow");
   });
 
-  $(".close_news").click(function(){
-    $(this).parent(".menu_side").fadeOut();
+  jQuery(".close_news").click(function(){
+    jQuery(this).parent(".menu_side").fadeOut();
   });
 
 /*
