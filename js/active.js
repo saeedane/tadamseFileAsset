@@ -32,7 +32,7 @@ var swiper = new Swiper(".categoryCont", {
       });
 
 jQuery(window).scroll(function() {
-    var $height = $(window).scrollTop();
+    var $height = jQuery(window).scrollTop();
   if($height > 5) {
         jQuery('.header-wrapper').addClass('sticky');
     } else {
