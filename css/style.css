@@ -1002,6 +1002,10 @@ padding-left: 10px;
     font-size: 22px !important;
 }
 
+.relatedPost .mostInportNewsList li{
+    border: 0px !important;
+}
+
 /* read also  */
 
 .readAlsoBox {
