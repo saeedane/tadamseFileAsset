@@ -282,13 +282,12 @@ background: #03d9d9 !important;
 /* menu side  */
 .menu_side {
     width: 428px;
-    margin-right: auto;
     background: #262626;
     height: 100vh;
     overflow: auto;
     padding: 65px 37px 14px;
     position: relative;
-    left: -200px;
+    right: -200px;
     opacity: 0;
     visibility: hidden;
     -webkit-transition: .3s all ease;
