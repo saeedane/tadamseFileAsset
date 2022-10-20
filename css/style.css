@@ -276,6 +276,26 @@ background: #03d9d9 !important;
 }
 
 
+/* menu side  */
+.menu_side {
+        width: 280px;
+    right: -100px;
+    height: 100%;
+    position: fixed;
+    top: 0px;
+    background-color: white;
+    z-index: 9;
+    transition: all .5s ease-in-out;
+
+}
+
+.menu_side .active{
+    right: 0px;
+}
+
+.menu_side .overDark {
+    display: block !important;
+}
 
 
 
