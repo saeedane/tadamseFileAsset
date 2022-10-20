@@ -974,7 +974,7 @@ padding-left: 10px;
     max-width: 518px;
     margin: 50px auto 50px auto;
     padding-top: 10px;
-    border-bottom: 1px dotted; #A5A5A5;
+    border-bottom: 1px dotted #A5A5A5;
     border-top: 1px dotted #A5A5A5;
 }
 .relatedPost .relatedTitle {
