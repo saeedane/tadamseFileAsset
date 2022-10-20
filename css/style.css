@@ -289,11 +289,11 @@ background: #03d9d9 !important;
 
 }
 
-.menu_side .active{
+.menu_side.active{
     right: 0px;
 }
 
-.menu_side .overDark {
+.menu_side.active .overDark {
     display: block !important;
 }
 
