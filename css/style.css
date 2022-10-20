@@ -830,11 +830,19 @@ height: 100%;
 .content-archive  ul.mostInportNewsList li:last-child {
     border-bottom: 0;
 }
+
+
 .content-area .mostInportNewsList a{
        font-size: 18px;
     font-family: alhassade;
     color: black;
+    display: flex;
+
     
+}
+
+.content-area .mostInportNewsList p{
+    margin-left: 10px;
 }
 .news_img {
     margin: 0;
