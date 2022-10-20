@@ -54,6 +54,21 @@ jQuery(window).scroll(function() {
         jQuery(this).parent().toggleClass("active");
     });
 
+
+   $(".menu_bar").click(function(){
+    $(".menu_side").addClass("active");
+    $("body").addClass("oveflow");
+  });
+
+  $(".close_menu").click(function(){
+    $(".menu_side").removeClass("active");
+    $("body").removeClass("oveflow");
+  });
+
+  $(".close_news").click(function(){
+    $(this).parent(".menu_side").fadeOut();
+  });
+
 /*
   var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
 if (isMobile) {
