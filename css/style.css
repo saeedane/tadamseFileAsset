@@ -123,6 +123,10 @@ position: absolute;
     visibility: hidden;
 }
 
+body.oveflow {
+    overflow: hidden;
+}
+
 
 /* header section style  */
 .app-header {
