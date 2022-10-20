@@ -280,6 +280,19 @@ background: #03d9d9 !important;
 
 
 /* menu side  */
+.menu_side   {
+
+    position: fixed;
+    z-index: 11111;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    opacity: 0;
+    visibility: hidden;
+    transition: .3s ease all;
+
+}
 .menu_side .mobile_content  {
     width: 428px;
     background: #262626;
