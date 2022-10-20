@@ -330,6 +330,21 @@ opacity: 1;
 
 }
 
+.menu_side {
+    margin-bottom: 44px;
+}
+.menu_side li a {
+    display: block;
+    width: 100%;
+    font-size: 18px;
+    color: #F5F5F5;
+    line-height: 1;
+    padding: 15px 0 17px;
+    border-bottom: 1px solid rgb(112 112 112 / 50%);
+    position: relative;
+    overflow: hidden;
+}
+
 
 
 /* content section style  */
