@@ -29,7 +29,10 @@ body{
     max-width: 1280px !important;
 }
 
-
+ul {
+    list-style: none;
+    margin: 0;
+}
 
 .radio-item input[type='radio'] {
   display: none;
@@ -351,6 +354,12 @@ opacity: 1;
     overflow: hidden;
 }
 
+
+
+@media only screen and (max-width: 425px)
+.mobile_content {
+    width: 100%;
+}
 
 
 /* content section style  */
