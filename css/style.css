@@ -280,7 +280,7 @@ background: #03d9d9 !important;
 
 
 /* menu side  */
-.menu_side {
+.mobile_content  {
     width: 428px;
     background: #262626;
     height: 100vh;
@@ -297,14 +297,14 @@ background: #03d9d9 !important;
 
 }
 
-.menu_side.active{
+.mobile_content .active{
    opacity: 1;
     left: 0px;
     visibility: visible;
 
 }
 
-.menu_side.active .overDark {
+.mobile_content .active .overDark {
 opacity: 1;
     visibility: visible;
     width: 100%;
