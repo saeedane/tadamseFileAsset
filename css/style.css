@@ -998,8 +998,8 @@ padding-left: 10px;
 }
 
 .relatedPost  p{
-    font-family: 'alhassade';
-    font-size: 22px;
+    font-family: 'alhassade' !important;
+    font-size: 22px !important;
 }
 
 /* read also  */
