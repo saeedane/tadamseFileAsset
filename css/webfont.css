@@ -12,7 +12,7 @@
 
 @font-face {
     font-family: 'tadamsa-normal';
-    src:url('../web-fonts/Alhurra-Regular.ttf')format('ttf');
+    src:url('../web-fonts/AlHurra-light.woff2')format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -22,7 +22,7 @@
 
 @font-face {
     font-family: 'tadamsa-bold';
-    src:url('../web-fonts/Alhurra-Bold.ttf')format('ttf');
+    src:url('../web-fonts/AlHurraBold.woff2')format('woff2');
     font-weight: 900;
     font-style: bold;
     font-display: swap;
