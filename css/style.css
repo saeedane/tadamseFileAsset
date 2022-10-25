@@ -603,7 +603,6 @@ position: relative;
 .newsWithSidebar .newsCont .article-list .card__art a,.banarSectionHorizontal .article-list .card__art a,.banarSectionSquare .article-list .card__art a{
     color: black;
         display: block;
-            font-size: 21px;
             padding: 13px 0px;
 
 
@@ -669,8 +668,7 @@ display: grid;
 
 .newsWithSidebar .widgetColum .sidebarWidget .nav-link {
     color: black;
-       font-size: 20px;
-    font-family: 'alhassadeR';
+       font-size: 14px;
     padding-right: 0px;
 
 }
@@ -1701,8 +1699,9 @@ display: inline-flex;
 }
 
 .footer-wrapper .footerWidgetColum  h6,.footer-wrapper  .titleWidgetCat{
-    font-size: 35px;
-    font-family: alhassade;
+    font-size: 30px;
+    font-family: 'tadamsa-bold';
+
 }
 
 .footer-wrapper .footerWidgetCont  .text-about:after{
@@ -1726,7 +1725,9 @@ display: inline-flex;
 }
 
 .footer-wrapper .footerWidgetColum .textwidget  a{
- font-size: 18px;
+ font-size: 15px;
+ line-height: 2rem;
+
 }
 
 
