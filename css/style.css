@@ -2108,7 +2108,6 @@ display: inline-flex;
 }
 
 .banarSectionVideo .article-list .card__art p{
-    font-size: 17px;
         line-height: 2;
 
 }
@@ -2117,9 +2116,7 @@ display: inline-flex;
     display: grid !important;
 }
 
-.banarSectionVideo .article-list .card__art a{
-    font-size: 20px;
-}
+
 
 
 /* section infographic for mobile  */
