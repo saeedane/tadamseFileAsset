@@ -19,11 +19,11 @@ font-family: 'Awras-Emir';
 
 
 body{
-    font-size: 20px;
+    font-size: 19px;
     line-height: 1.5;
     color: white;
     text-align: right;
-    font-family: 'alhassade';
+    font-family: 'tadamsa-bold';
 }
 .container{
     max-width: 1280px !important;
@@ -151,7 +151,6 @@ body.oveflow {
 
 .latestnews .market--ticker .control--ticker .btn-control{
     width: 100px !important;
-font-size: 24px;
 color: white;
 background-color:black;
 
@@ -164,7 +163,6 @@ background-color:black;
 }
 
 .latestnews .list--ticker .item--ticker a{
-    font-size: 20px;
     padding: 0px;
 }
 
@@ -257,7 +255,6 @@ background-color:black;
 .menuNews .menuNewsCont .nav-link{
         color: #000000;
     font-weight: normal;
-    font-size: 22px;
     position: relative;
 }
 
@@ -400,7 +397,7 @@ opacity: 1;
 
 
 .newsWithSidebar .newsCont .article__hero .listNewsCont .article__list .article__item a{
-    font-size: 16px;
+    font-size: 13px;
     color: black;
 
 }
@@ -2017,20 +2014,10 @@ display: inline-flex;
     height: 100px;
 }
 
-.newsWithSidebar .newsCont .article-list .card__art a, .banarSectionHorizontal .article-list .card__art a, .banarSectionSquare .article-list .card__art a{
-        font-size: 17px;
-
-}
-
-.newsWithSidebar .newsCont .article-list .card__art .article-date, .banarSectionHorizontal .article-list .card__art .article-date, .banarSectionVideo .article-list .card__art .article-date, .banarSectionSquare .article-list .card__art .article-date{
-    font-size: 15px;
-}
 
 
-.newsWithSidebar .newsCont .article-list .card__art .article__links .cat__link{
-        font-size: 20px !important;
 
-}
+
 
 
 .newsWithSidebar .newsCont .article-list .article__hero .image-thumbnail{
@@ -2222,7 +2209,7 @@ color: #03cab8;
 }
 
 .list--ticker .item--ticker a {
-    font-size: 15px;
+    font-size: 13px;
     padding: 5px;
     color: black;
 }
