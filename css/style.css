@@ -1579,16 +1579,15 @@ color: black;
 
 .banarSectionSquare .infographicContainer .infographicCont .swiper-slide .card__art a{
     color: black;
-    font-size: 24px;
     margin-top: 10px;
 }
 
 .banarSectionSquare .infographicContainer .infographicCont .swiper-slide .card__art time{
 
-font-size: 18px;
+font-size: 16px;
 color: #98a3c0;
 display: block;
-font-family: 'IBMPlexSansArabicR';
+font-family: 'tadamsa-normal';
 }
 
 
