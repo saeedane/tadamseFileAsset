@@ -22,9 +22,9 @@
 
 @font-face {
     font-family: 'tadamsa-bold';
-    src:url('../web-fonts/AlHurraBold.woff2')format('woff2');
+    src:url('../web-fonts/AlHurraBold.woff')format('woff');
     font-weight: 500;
-    font-style: bold;
+    font-style: normal;
     font-display: swap;
  
 }
