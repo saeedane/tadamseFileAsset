@@ -634,9 +634,7 @@ position: relative;
 }
 .newsWithSidebar .newsCont .article-list .card__art .article-date,.banarSectionHorizontal .article-list .card__art .article-date,.banarSectionVideo .article-list .card__art .article-date,.banarSectionSquare .article-list .card__art .article-date{
     color: #000000;
-    font-size: 19px;
-        font-family: 'alhassadeR';
-        font-weight: normal;
+    font-family: 'tadamsa-normal';
 
 }
 
