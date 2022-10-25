@@ -1162,9 +1162,8 @@ overflow: hidden;
 }
 .cat__link {
     position: relative;
-    font-size: 34px;
+    font-size: 26px;
     color: black;
-    font-family: alhassade;
     display: flex;
 }
 
