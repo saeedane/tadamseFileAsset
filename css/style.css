@@ -19,7 +19,7 @@ font-family: 'Awras-Emir';
 
 
 body{
-    font-size: 19px;
+    font-size: 16px;
     line-height: 1.5;
     color: white;
     text-align: right;
@@ -387,11 +387,10 @@ opacity: 1;
 }
 
 .newsWithSidebar .newsCont .article__hero .article__body p{
-   font-size: 19px;
+   font-size: 18px;
    color: black;
-    font-family: 'alhassadeR';
+   font-family: 'tadamsa-normal';
    margin-top: 15px;
-   font-weight: normal;
 
 }
 
