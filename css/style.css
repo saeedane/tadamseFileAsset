@@ -1235,7 +1235,6 @@ overflow: hidden;
     color: white;
     display: block;
     margin-top: 20px;
-    font-size: 24px;
 }
 
 
@@ -1249,8 +1248,8 @@ overflow: hidden;
 .banarSectionVideo .article-list .card__art p{
     color: #767676;
     margin-top: 20px;
-        font-family: 'IBMPlexSansArabicR';
-        font-size: 20px;
+        font-size: 16px;
+        font-family: 'tadamsa-normal';
 
 }
 
