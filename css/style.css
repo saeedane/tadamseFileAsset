@@ -703,6 +703,9 @@ background-color:#001b68;
 border-bottom-right-radius: 100px;
 border-bottom-left-radius: 100px;
 border-top-left-radius: 100px;
+    font-family: 'tadamsa-bold';
+        padding-top: 10px;
+
 }
 
 .rb-w-big-icon svg {
