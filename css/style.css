@@ -671,7 +671,7 @@ font-size: 18px;
     font-size: 40px;
     margin-left: 7px;
     content: "\00AB";
-    font-family: alhassade;
+    
     color: #001b68;
 }
 
@@ -895,7 +895,7 @@ font-family: 'tadamsa-bold';
 
 .sidebar-column .widget_tadamsa_posts_list_latest h2 {
     font-size: 24px;
-    font-family: alhassade;
+    
 }
 .content-area .mostInportNewsList li {
     display: block;
@@ -913,7 +913,7 @@ font-family: 'tadamsa-bold';
 
 .content-area .mostInportNewsList a{
        font-size: 18px;
-    font-family: alhassade;
+    
     color: black;
     display: flex;
 
@@ -1094,7 +1094,7 @@ padding-left: 10px;
 }
 
 .post-content .entry-content p strong{
-    font-family: alhassade;
+    
     font-size: 24px;
 }
 .post-content .entry-content h4 strong,.post-content .entry-content h2 strong{
@@ -1479,7 +1479,7 @@ background-image: url('assets/img/opinion.png');
 
 .category-opinion .article-list  .card__art .auther-info
 h5{
-    font-size:23px; font-family: alhassade;
+    font-size:23px; 
 }
 
 .category-opinion .article-list  .card__art  .opinion_link h4{
@@ -1828,7 +1828,7 @@ display: inline-flex;
     padding-right: 20px;
     color: white;
     font-size: 24px;
-    font-family: alhassade;
+    
     position: relative;
     border-bottom: 1px dotted#02adad!important;
         padding-bottom: 15px;
