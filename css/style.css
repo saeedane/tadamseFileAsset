@@ -19,11 +19,11 @@ font-family: 'Awras-Emir';
 
 
 body{
-    font-size: 17px;
+    font-size: 22px;
     line-height: 1.9rem;
     color: white;
     text-align: right;
-    font-family: 'tadamsa-bold';
+    font-family: rabar;
 }
 .container{
     max-width: 1280px !important;
