@@ -381,8 +381,7 @@ opacity: 1;
 .newsWithSidebar .newsCont .article__hero .article__body p{
    font-size: 18px;
    color: black;
-   font-family: 'tadamsa-normal';
-   margin-top: 15px;
+      margin-top: 15px;
 
 }
 
@@ -501,8 +500,7 @@ display: flex;
 
 
 .newsWithSidebar .newsCont .article-list .card__art p{
-    font-family: 'tadamsa-normal';
-    color: black;
+        color: black;
     font-size: 18px;
     margin-bottom: auto;
 }
@@ -626,8 +624,7 @@ position: relative;
 }
 .newsWithSidebar .newsCont .article-list .card__art .article-date,.banarSectionHorizontal .article-list .card__art .article-date,.banarSectionVideo .article-list .card__art .article-date,.banarSectionSquare .article-list .card__art .article-date{
     color: #000000;
-    font-family: 'tadamsa-normal';
-
+    
 }
 
 /* custom sidebar  */
@@ -1283,8 +1280,7 @@ overflow: hidden;
     color: #767676;
     margin-top: 20px;
         font-size: 16px;
-        font-family: 'tadamsa-normal';
-
+        
 }
 
 
@@ -1424,8 +1420,7 @@ overflow: hidden;
 
 .card-small .article-list  .card__art .article-date{
     font-size: 15px;
-    font-family: 'tadamsa-normal';
-
+    
 }
 .card-small .article-list  .card__art img{
     height: 130px;
@@ -1620,7 +1615,6 @@ color: black;
 font-size: 16px;
 color: #98a3c0;
 display: block;
-font-family: 'tadamsa-normal';
 }
 
 
