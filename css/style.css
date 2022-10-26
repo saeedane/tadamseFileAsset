@@ -1167,6 +1167,9 @@ overflow: hidden;
     border-bottom-right-radius: 100px;
     border-bottom-left-radius: 100px;
     border-top-left-radius: 100px;
+    font-family: 'tadamsa-bold';
+    padding-top: 10px;
+    font-size: 20px;
 
 }
 
