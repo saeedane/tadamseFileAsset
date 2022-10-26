@@ -468,6 +468,8 @@ opacity: 1;
 }
 .newsWithSidebar .newsCont .article-list .card__art .article__links{
     position: relative;
+    align-items: center !important;
+    width: 100%;
 } 
 
 .newsWithSidebar .newsCont .article-list .card__art:nth-child(2) .article-date,.newsWithSidebar .newsCont .article-list .card__art:nth-child(3) .article-date,.newsWithSidebar .newsCont .article-list .card__art:nth-child(4) .article-date,.newsWithSidebar .newsCont .article-list .card__art:nth-child(5) .article-date{
