@@ -846,19 +846,25 @@ align-items: center;
 
 }
 .content-archive .page-title{
-    font-size: 24px;
+    font-size: 21px;
 padding-bottom: 8px;
 background: #001b68;
-width: 122px;
+width: auto;
 text-align: center;
 color: white;
 border-bottom-right-radius: 100px;
-display: flex;
+display: inline-block;
 border-bottom-left-radius: 100px;
 border-top-left-radius: 100px;
 justify-content: center;
 align-items: center;
 height: 100%;
+font-family: 'tadamsa-bold';
+    padding-top: 10px;
+        margin: 20px;
+
+
+
 }
 
 .content-area .site-main {
