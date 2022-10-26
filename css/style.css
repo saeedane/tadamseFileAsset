@@ -151,6 +151,9 @@ body.oveflow {
     width: 100px !important;
 color: white;
 background-color:black;
+font-family: 'tadamsa-bold';
+    font-size: 18px;
+    padding-top: 5px;
 
 }
 
