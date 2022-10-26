@@ -160,6 +160,7 @@ font-family: 'tadamsa-bold';
 .latestnews .market--ticker{
         position: fixed;
     bottom: 0px;
+    right: 0px;
 
 }
 
