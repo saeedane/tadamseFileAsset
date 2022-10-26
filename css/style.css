@@ -1091,7 +1091,6 @@ padding-left: 10px;
 .post-content .entry-content p,.post-content .entry-content .post--content,.post-content .entry-content h4,.post-content .entry-content h2{
     font-size: 22px;
     color: black;
-    font-family: sadan-toshiba;
     margin-bottom: 30px;
     line-height: 2.5rem;
 }
@@ -1190,8 +1189,6 @@ overflow: hidden;
 .readAlsoBox .article__list li 
 .article__body  .card-title {
     color: black;
-    font-size: 22px;
-    font-family: 'alhassade';
 }
 
 /* section category style */
