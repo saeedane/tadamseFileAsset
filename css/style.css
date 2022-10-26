@@ -954,6 +954,8 @@ font-family: 'tadamsa-bold';
 
 /* retangle card style */
 
+
+
 .archive_post_img {
     width: 285px;
     height: 100%;
@@ -965,8 +967,14 @@ font-family: 'tadamsa-bold';
 }
 
 
+
 .archive_post_img .newsBanar_Img{
     padding-bottom: 67% !important;
+}
+
+.content-archive .site-main .archive__title{
+    line-height:2.5rem;
+    margin-bottom:auto;
 }
 
 .archive_post_meta {
@@ -990,6 +998,22 @@ padding-left: 10px;
 
 } 
 
+.content-archive .site-main .archive-body{
+        -webkit-box-flex: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    padding: 15px 20px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    height: 100%;
+    min-height: 190px;
+}
+
 
 
 /* pagination style */
@@ -1000,6 +1024,17 @@ padding-left: 10px;
 }
 
 /*=====  single page style =======*/
+
+
+
+.entry-header .entry-title{
+    
+        font-size: 40px;
+    margin-bottom: 20px;
+    font-family: 'rabar';
+}
+
+
 
 /* auther box  */
 /* meta box info   */
