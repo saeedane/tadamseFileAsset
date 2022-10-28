@@ -1242,6 +1242,11 @@ overflow: hidden;
     font-size: 20px;
 }
 
+.comentForm .logged-in-as .required-field-message,.comentForm .logged-in-as a {
+    color: black;
+    font-size: 19px;
+}
+
 
 /* section category style */
 .article__heading {
