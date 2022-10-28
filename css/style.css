@@ -1229,6 +1229,9 @@ overflow: hidden;
     font-size: 26px;
     color: black;
     display: flex;
+        font-size: 25px;
+    font-family: 'tadamsa-bold';
+
 }
 
 
