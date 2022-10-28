@@ -2158,7 +2158,7 @@ display: inline-flex;
 .newsWithSidebar .newsCont .article-list .card__art:nth-child(3) .article__body, 
 .newsWithSidebar .newsCont .article-list .card__art:nth-child(4) .article__body,
  .newsWithSidebar .newsCont .article-list .card__art:nth-child(5) .article__body{
-    min-height: 100%;
+    min-height: 100% !important;
  }
 
 
