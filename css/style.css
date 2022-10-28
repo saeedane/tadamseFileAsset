@@ -1218,6 +1218,15 @@ overflow: hidden;
     color: black;
 }
 
+/* custom comment style  */
+.comentForm{
+        margin-top: 22px;
+    padding: 15px;
+    background-image: linear-gradient(to right, #e71d2500, rgb(0 0 0 / 8%),#db1d2405);
+    box-shadow: 1px 1px 10px #e5e5e5;
+}
+
+
 /* section category style */
 .article__heading {
     display: flex;
