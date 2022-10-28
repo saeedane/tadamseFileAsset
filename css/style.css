@@ -387,9 +387,11 @@ opacity: 1;
 }
 
 .newsWithSidebar .newsCont .article__hero .article__body p{
-   font-size: 18px;
+   font-size: 17px;
    color: black;
       margin-top: 15px;
+          font-family: 'tadamsa-normal';
+
 
 }
 
@@ -514,8 +516,10 @@ display: flex;
 
 .newsWithSidebar .newsCont .article-list .card__art p{
         color: black;
-    font-size: 18px;
+    font-size: 17px;
     margin-bottom: auto !important;
+        font-family: 'tadamsa-normal';
+
 }
 
 
