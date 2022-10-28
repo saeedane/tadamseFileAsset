@@ -2112,6 +2112,12 @@ display: inline-flex;
     font-size: 21px;
  }
 
+ .newsWithSidebar .newsCont .article-list .card__art .cat__link{
+        font-size: 15px;
+ }
+
+ 
+
 /* news by category section of mobile  */
 .banarSectionHorizontal .article-list .card__art{
     width: 100% !important;
