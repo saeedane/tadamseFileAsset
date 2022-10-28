@@ -2100,7 +2100,7 @@ display: inline-flex;
 /* custom link size   */
  .banarSectionHorizontal .article-list .card__art a, .banarSectionSquare .article-list .card__art a,
  .newsWithSidebar .newsCont .article-list .card__art a, .newsWithSidebar .newsCont .article-list .card__art .cat__link,
- .card-small .article-list .card__art a,.banarSectionVideo .article-list .card__art a{
+ .card-small .article-list .card__art a,.banarSectionVideo .article-list .card__art a,.sectionSlider .categoryContainer .swiper-wrapper .swiper-slide .card__art .article__body .article__title{
     font-size: 15px;
 }
 
