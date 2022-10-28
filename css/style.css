@@ -2102,7 +2102,7 @@ display: inline-flex;
 }
 
 .newsWithSidebar .newsCont .article-list .card__art .article-date, .banarSectionHorizontal .article-list .card__art .article-date, .banarSectionVideo .article-list .card__art .article-date, .banarSectionSquare .article-list .card__art .article-date{
-    font-size: 15px;
+    font-size: 15px !important;
 }
 
 .banarSectionSquare .infographicContainer .infographicCont .swiper-slide .card__art a{
