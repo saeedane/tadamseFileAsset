@@ -1249,11 +1249,11 @@ overflow: hidden;
 .cat__link:before{
 
     content: " ";
-    width: 60px;
+    width: 40px;
     background-image: url('https://cdn.statically.io/gh/saeedane/tadamseFileAsset/main/img/icons/V%C3%A9rgule.svg');
     background-repeat: no-repeat;
-    background-position: center center;
-        background-size: 57px 40px;
+    background-position: right;
+        background-size: 30px 31px;
 
 }
 
