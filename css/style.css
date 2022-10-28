@@ -645,6 +645,7 @@ position: relative;
 .newsWithSidebar .newsCont .article-list .card__art .cat__link{
     font-size: 21px;
         color: #001b68;
+    font-family: 'rabar';
 
 }
 .newsWithSidebar .newsCont .article-list .card__art .article-date,.banarSectionHorizontal .article-list .card__art .article-date,.banarSectionVideo .article-list .card__art .article-date,.banarSectionSquare .article-list .card__art .article-date{
