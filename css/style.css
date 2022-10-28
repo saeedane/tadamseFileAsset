@@ -1246,7 +1246,9 @@ overflow: hidden;
     color: #31b7bc;
     font-size: 19px;
 }
-
+.form-control {
+    border-color: black;
+}
 
 /* section category style */
 .article__heading {
