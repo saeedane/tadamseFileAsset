@@ -360,13 +360,14 @@ opacity: 1;
     -ms-flex-align: center;
     align-items: center;
     border: 1px solid #00b2c4;
-    border-radius: 3px;
+    border-radius: 100px;
     overflow: hidden;
     padding: 6px 10px;
     margin-bottom: 25px;
     position: relative;
     /* transform: translateY(-40px); */
     background: #ffffff;
+
 }
 
 
