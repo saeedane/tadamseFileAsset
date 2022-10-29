@@ -332,6 +332,27 @@ background: #03d9d9 !important;
 
 }
 
+/* width */
+.mobile_content::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+.mobile_content::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+ 
+/* Handle */
+.mobile_content::-webkit-scrollbar-thumb {
+  background: #888; 
+}
+
+/* Handle on hover */
+.mobile_content::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
+
+
 .menu_side.active   .overDark {
 opacity: 1;
     visibility: visible;
