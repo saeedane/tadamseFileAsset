@@ -406,9 +406,17 @@ opacity: 1;
     margin-top: 52px;
 }
 
-.mobile_content ul.social_links li{
+.mobile_content ul.social_links li a{
     border: 0px;
 }
+
+.mobile_content ul.social_links li a img{
+        width: 35px;
+    background: white;
+    padding: 7px;
+    border-radius: 100px;
+}
+
 
 /* content section style  */
 
