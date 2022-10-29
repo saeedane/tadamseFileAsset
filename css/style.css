@@ -382,6 +382,16 @@ opacity: 1;
 }
 
 
+.mobile_search form button img {
+    display: block;
+    height: 23px;
+}
+
+.mobile_search form button {
+    background: transparent;
+    border: 0;
+    outline: none;
+}
 
 .mobile_content ul.social_links {
     display: -webkit-box;
