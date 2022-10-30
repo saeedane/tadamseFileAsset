@@ -306,12 +306,9 @@ background: #03d9d9 !important;
 }
 .menu_side .mobile_content  {
     width: 428px;
-    background-image: url(https://cdn.statically.io/gh/saeedane/tadamseFileAsset/main/img/bg-footer.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
+  background-color: #002E5F;
     overflow: hidden;
-    height: 100vh;
+    height: 100%;
     overflow: auto;
     padding: 65px 37px 14px;
     position: relative;
