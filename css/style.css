@@ -603,9 +603,9 @@ opacity: 1;
     height: 3px;
     background: #02d8d8;
     position: absolute;
-    top: 26px;
+    top: 28px;
     transform: rotate(90deg);
-    right: 30px;
+    right: 50px;
     border-radius: 100px;
 }
 
