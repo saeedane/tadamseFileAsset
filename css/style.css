@@ -612,7 +612,7 @@ opacity: 1;
 
 
 
-.newsWithSidebar .newsCont .article-list .card__art .article__body{
+.newsWithSidebar .newsCont .article-list .card__art .article__body,.banarSectionHorizontal  .article-list .card__art .article__body{
 display: flex;
     flex-direction: column;
     min-height: 150px;
