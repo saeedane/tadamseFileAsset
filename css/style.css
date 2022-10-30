@@ -481,9 +481,22 @@ opacity: 1;
 
 
 .newsWithSidebar .newsCont .article__hero .listNewsCont .article__list .article__item a{
-    font-size: 13px;
+    font-size: 14px;
     color: black;
+    position: relative;
+    padding-right: 16px;
 
+}
+
+.newsWithSidebar .newsCont .article__hero .listNewsCont .article__list .article__item a:before {
+    content: "";
+    width: 10px;
+    height: 10px;
+    border-radius: 100px;
+    background: #31b7bc;
+    position: absolute;
+    top: 7px;
+    right: 0;
 }
 
 
