@@ -615,13 +615,13 @@ opacity: 1;
 .banarSectionHorizontal  .article-list .card__art .article__body{
 display: flex;
     flex-direction: column;
-    min-height: 150px !important;
+    min-height: 120px !important;
 
 }
 
 
  .card-small .article-list .card__art .article__body{
-        min-height: 178px ;
+        min-height: 178px !important;
 
  }
 
