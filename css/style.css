@@ -1085,14 +1085,14 @@ align-items: center;
 }
 
 .article__date {
-    font-size: 16px;
+    font-size: 14px;
     color: black;
     display: flex;
     align-items: center;
 }
 
 .article__date img{
-    width: 16px;
+    width: 13px;
     margin-left: 8px;
 }
 
