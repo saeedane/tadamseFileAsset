@@ -471,14 +471,14 @@ opacity: 1;
    font-size: 17px;
    color: black;
       margin-top: 15px;
-          font-family: 'tadamsa-normal';
+    font-family: 'Rabar-normal';
 
 
 }
 
 
 .newsWithSidebar .newsCont .article__hero .listNewsCont .article__list .article__item a{
-    font-size: 14px;
+    font-size: 13px;
     color: black;
     position: relative;
     padding-right: 16px;
@@ -537,10 +537,10 @@ opacity: 1;
 
 
 .newsWithSidebar .newsCont .article__hero .publistDate{
-    color: #767676;
+ color: #000000;
     font-size: 14px;
-    font-family: 'IBMPlexSansArabicM';
-        font-weight: normal;
+    font-family: 'Rabar-normal';
+    font-weight: 500;
 
 }
 
