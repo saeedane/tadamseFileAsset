@@ -1129,8 +1129,10 @@ align-items: center;
 }
 .archive_post_meta span, .archive_post_meta a{
 color: black;
-font-size: 17px;
+font-size: 15px;
 padding-left: 10px;
+    font-family: 'Rabar-normal';
+
 }
 
 .archive_post_meta span img{
