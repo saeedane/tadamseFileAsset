@@ -1171,7 +1171,7 @@ padding-left: 10px;
     border-bottom-left-radius: 10px;
 
 }
-.page-item:first-child .page-link{
+.page-item:first-child .page-link,.page-item:last-child .page-link{
     border-bottom-left-radius: 10px !important;
 }
 
