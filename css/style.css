@@ -1172,7 +1172,7 @@ padding-left: 10px;
 
 }
 .page-item:first-child .page-link{
-    border-radius: 0px !important;
+    border-bottom-left-radius: 10px !important;
 }
 
 /*=====  single page style =======*/
