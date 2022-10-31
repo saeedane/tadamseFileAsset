@@ -565,7 +565,11 @@ opacity: 1;
 
 
 .newsWithSidebar .newsCont .article-list .card__art:nth-child(1) .article__title,.newsWithSidebar .newsCont .article-list .card__art:nth-child(2) .article__title,.newsWithSidebar .newsCont .article-list .card__art:nth-child(3) .article__title,.newsWithSidebar .newsCont .article-list .card__art:nth-child(4) .article__title{
-    padding-right: 15px;
+    padding-right: 30px;
+        font-family: 'Rabar-normal';
+    font-size: 15px !important;
+
+
     
 }
 
@@ -2291,19 +2295,16 @@ display: inline-flex;
  .newsWithSidebar .newsCont .article-list .card__art a, .newsWithSidebar .newsCont .article-list .card__art .cat__link,
  .card-small .article-list .card__art a,.banarSectionVideo .article-list .card__art a,.sectionSlider .categoryContainer .swiper-wrapper .swiper-slide .card__art .article__body .article__title{
     font-size: 16px;
-        font-family: 'Rabar-normal';
 
 }
 
 .newsWithSidebar .newsCont .article-list .card__art .article-date, .banarSectionHorizontal .article-list .card__art .article-date, .banarSectionVideo .article-list .card__art .article-date, .banarSectionSquare .article-list .card__art .article-date{
     font-size: 16px !important;
-    font-family: 'Rabar-normal';
 
 }
 
 .banarSectionSquare .infographicContainer .infographicCont .swiper-slide .card__art a,.sectionSlider .categoryContainer .swiper-wrapper .swiper-slide .card__art .article__body .cat-link{
  font-size: 17px;   
-     font-family: 'Rabar-normal';
 
 }
 
