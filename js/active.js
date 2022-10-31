@@ -34,25 +34,17 @@ var swiper = new Swiper(".categoryCont", {
 jQuery(window).scroll(function() {
     var $height = jQuery(window).scrollTop();
   if($height > 5) {
-        jQuery('.header-wrapper').addClass('sticky');
-        jQuery('.shart-contianer').addClass('sticky');
+        jQuery('.header-wrapper').addClass('hidden');
+        jQuery('.shart-contianer').addClass('hidden');
 
     } else {
-        jQuery('.header-wrapper').removeClass('sticky');
-        jQuery('.shart-contianer').removeClass('sticky');
+        jQuery('.header-wrapper').removeClass('hidden');
+        jQuery('.shart-contianer').removeClass('hidden');
 
     }
 
 
-    if(jQuery(".header-wrapper").hasClass("sticky") || jQuery(".shart-contianer").hasClass("sticky") ){
-        jQuery('.menuNews').addClass('d-none');
-        jQuery('.shart-contianer').addClass('d-none');
-
-    }else{
-         jQuery('.menuNews').removeClass('d-none');
-         jQuery('.shart-contianer').removeClass('d-none');
-
-    }
+   
 
 
 
