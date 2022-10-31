@@ -1090,7 +1090,6 @@ height: 100%;
     font-size: 16px;
     color: black;
     display: flex;
-    font-family: 'alhassadeR';
     align-items: center;
 }
 
@@ -1178,7 +1177,7 @@ padding-left: 10px;
     
         font-size: 54px;
     margin-bottom: 20px;
-    font-family: 'rabar';
+    font-family: 'Rabar-bold';
 }
 
 
@@ -1200,7 +1199,6 @@ padding-left: 10px;
 }
 .genPostMetaInfo time,.genPostMetaInfo span ,.genPostMetaInfo ul li a{
     font-size: 17px;
-        font-family: alhassadeR;
         color: black;
 
 }
@@ -1700,7 +1698,6 @@ background-image: url('assets/img/opinion.png');
 .category-opinion .article-list  .card__art h4{
 
     font-size: 23px;
-    font-family: 'alhassade';
 }
 
 
@@ -1729,7 +1726,6 @@ h5{
 .category-opinion .article-list  .card__art
 p{
 font-size: 20px;
-font-family: alhassadeR;
 }
 
 .category-opinion .article-list  .card__art .auther-info
@@ -1799,7 +1795,6 @@ p{
 
 display: block;
 color: black;   
-    font-family: 'alhassadeR';
     font-size: 18px;
 
 
