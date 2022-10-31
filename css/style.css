@@ -1089,6 +1089,8 @@ align-items: center;
     color: black;
     display: flex;
     align-items: center;
+        font-family: 'Rabar-normal';
+
 }
 
 .article__date img{
