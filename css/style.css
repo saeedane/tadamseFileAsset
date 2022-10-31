@@ -1396,9 +1396,9 @@ overflow: hidden;
 }
 
 .colent_list  .singleComent .coment_user {
-        border-top-right-radius: 15px;
-    border-bottom-right-radius: 15px;
-    border-bottom-left-radius: 15px;
+        border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
 
 }
 
