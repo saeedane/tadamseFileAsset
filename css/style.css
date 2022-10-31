@@ -993,22 +993,19 @@ align-items: center;
 
 }
 .content-archive .page-title{
-    font-size: 21px;
-padding-bottom: 8px;
-background: #001b68;
-width: auto;
-text-align: center;
-color: white;
-border-bottom-right-radius: 100px;
-display: inline-block;
-border-bottom-left-radius: 100px;
-border-top-left-radius: 100px;
-justify-content: center;
-align-items: center;
-height: 100%;
-
+    line-height: 1.1;
+    display: inline-block;
+    width: auto;
+    margin-bottom: 15px;
+    padding: 4px 20px;
+    color: #fff;
+    background-color: #001b68;
+    border-bottom-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-top-left-radius: 100px;
     padding-top: 10px;
-        margin: 20px;
+    font-size: 20px;
+    margin:20px;
 
 
 
