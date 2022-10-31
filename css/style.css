@@ -619,7 +619,7 @@ display: flex;
 
 
  .banarSectionHorizontal .article-list .card__art .article__body{
-        min-height: 178px !important;
+        min-height: 178px ;
 
  }
 
@@ -1392,7 +1392,6 @@ overflow: hidden;
 .colent_list .header__comment {
     border-bottom: 1px solid#e5e5e5;
     margin-bottom: 20px;
-    font-size: 24px;
 }
 
 .colent_list  .singleComent .coment_user {
