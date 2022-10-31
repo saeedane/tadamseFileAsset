@@ -31,8 +31,17 @@
 
 
 @font-face {
-    font-family: 'Rabar';
-    src:url('../web-fonts/Rabar.woff')format('woff');
+    font-family: 'Rabar-normal';
+    src:url('../web-fonts/Rabar_040.woff')format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+ 
+}
+
+@font-face {
+    font-family: 'Rabar-bold';
+    src:url('../web-fonts/Rabar_038.woff')format('woff');
     font-weight: 900;
     font-style: normal;
     font-display: swap;
