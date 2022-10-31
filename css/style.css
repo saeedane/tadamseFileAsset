@@ -1395,6 +1395,10 @@ overflow: hidden;
     font-size: 24px;
 }
 
+.colent_list .children{
+    padding-right: 0px;
+}
+
 /* section category style */
 .article__heading {
     display: flex;
