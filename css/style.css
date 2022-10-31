@@ -1385,6 +1385,14 @@ overflow: hidden;
 }
 .form-control {
     border-color: black;
+
+}
+
+/**=== comment list ====**/
+.colent_list .coment_title {
+    border-bottom: 1px solid#e5e5e5;
+    margin-bottom: 20px;
+    font-size: 24px;
 }
 
 /* section category style */
