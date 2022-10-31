@@ -2250,10 +2250,7 @@ display: inline-flex;
 
 }
 
-.banarSectionHorizontal  .article-list .card__art .image-thumbnail{
-        align-items: end !important;
 
-}
 
 .newsWithSidebar .newsCont .article-list .card__art .image-thumbnail img,.banarSectionHorizontal  .article-list .card__art .image-thumbnail img{
     height: 100px;
