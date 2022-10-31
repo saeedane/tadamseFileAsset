@@ -625,9 +625,9 @@ display: flex;
 
 .newsWithSidebar .newsCont .article-list .card__art p{
         color: black;
-    font-size: 17px;
+    font-size: 19px;
     margin-bottom: auto !important;
-        font-family: 'tadamsa-normal';
+    font-family: 'Rabar-normal';
 
 }
 
@@ -743,9 +743,9 @@ position: relative;
 
 
 .newsWithSidebar .newsCont .article-list .card__art .cat__link{
-    font-size: 21px;
+    font-size: 15px;
         color: #001b68;
-    font-family: 'rabar';
+    font-family: 'Rabar-bold';
 
 }
 .newsWithSidebar .newsCont .article-list .card__art .article-date,.banarSectionHorizontal .article-list .card__art .article-date,.banarSectionVideo .article-list .card__art .article-date,.banarSectionSquare .article-list .card__art .article-date{
@@ -1419,11 +1419,9 @@ overflow: hidden;
 }
 .cat__link {
     position: relative;
-    font-size: 26px;
+    font-size: 27px;
     color: black;
     display: flex;
-        font-size: 25px;
-    font-family: 'tadamsa-bold';
 
 }
 
@@ -2293,14 +2291,20 @@ display: inline-flex;
  .newsWithSidebar .newsCont .article-list .card__art a, .newsWithSidebar .newsCont .article-list .card__art .cat__link,
  .card-small .article-list .card__art a,.banarSectionVideo .article-list .card__art a,.sectionSlider .categoryContainer .swiper-wrapper .swiper-slide .card__art .article__body .article__title{
     font-size: 16px;
+        font-family: 'Rabar-normal';
+
 }
 
 .newsWithSidebar .newsCont .article-list .card__art .article-date, .banarSectionHorizontal .article-list .card__art .article-date, .banarSectionVideo .article-list .card__art .article-date, .banarSectionSquare .article-list .card__art .article-date{
     font-size: 16px !important;
+    font-family: 'Rabar-normal';
+
 }
 
 .banarSectionSquare .infographicContainer .infographicCont .swiper-slide .card__art a,.sectionSlider .categoryContainer .swiper-wrapper .swiper-slide .card__art .article__body .cat-link{
  font-size: 17px;   
+     font-family: 'Rabar-normal';
+
 }
 
 .newsWithSidebar .newsCont .article-list .card__art:nth-child(1) .article__title, 
