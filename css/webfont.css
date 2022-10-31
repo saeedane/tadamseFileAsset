@@ -30,4 +30,23 @@
 }
 
 
+@font-face {
+    font-family: 'Insan';
+    src:url('../web-fonts/Insan.woff')format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+ 
+}
+
+
+@font-face {
+    font-family: 'Insan2';
+    src:url('../web-fonts/Insan.woff2')format('woff2');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+ 
+}
+
 
