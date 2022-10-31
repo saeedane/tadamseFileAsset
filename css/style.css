@@ -1292,9 +1292,16 @@ padding-left: 10px;
     margin-left: 10px;
     margin-bottom: 10px;
         font-size: 19px;
+            transition: .3s all ease-in-out;
+
 
 }
 
+
+.tags-block .nav a:hover {
+    background: #31b7bc;
+    color: white;
+}
 
 
 /* read also  */
