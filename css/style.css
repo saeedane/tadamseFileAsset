@@ -154,7 +154,7 @@ body.oveflow {
     width: 100px !important;
 color: white;
 background-color:black;
-font-family: 'tadamsa-bold';
+
     font-size: 18px;
     padding-top: 5px;
 
@@ -780,7 +780,7 @@ display: grid;
     padding-top: 10px !important;
     padding-bottom: 5px !important;
     padding:0px 15px;
-    font-family: 'tadamsa-bold';
+    
 
 }
 
@@ -843,7 +843,6 @@ background-color:#001b68;
 border-bottom-right-radius: 100px;
 border-bottom-left-radius: 100px;
 border-top-left-radius: 100px;
-    font-family: 'tadamsa-bold';
         padding-top: 10px;
 font-size: 20px;
 }
@@ -1007,7 +1006,7 @@ border-top-left-radius: 100px;
 justify-content: center;
 align-items: center;
 height: 100%;
-font-family: 'tadamsa-bold';
+
     padding-top: 10px;
         margin: 20px;
 
@@ -1333,7 +1332,7 @@ overflow: hidden;
     border-bottom-right-radius: 100px;
     border-bottom-left-radius: 100px;
     border-top-left-radius: 100px;
-    font-family: 'tadamsa-bold';
+    
     padding-top: 10px;
     font-size: 20px;
 
@@ -1376,7 +1375,7 @@ overflow: hidden;
     border-bottom-right-radius: 100px;
     border-bottom-left-radius: 100px;
     border-top-left-radius: 100px;
-    font-family: 'tadamsa-bold';
+    
     padding-top: 10px;
     font-size: 20px;
     margin-bottom: 20px;
