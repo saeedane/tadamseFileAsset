@@ -686,7 +686,8 @@ width: 100%;
 
 .banarSectionHorizontal .article-list .card__art img{
     border: 0px;
-    border-radius: 10px ;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
 }
 
 .banarSectionHorizontal .article-list .card__art:first-child .image-thumbnail:before{
