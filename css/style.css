@@ -468,7 +468,7 @@ opacity: 1;
 }
 
 .newsWithSidebar .newsCont .article__hero .article__body p{
-   font-size: 17px;
+   font-size: 15px;
    color: black;
       margin-top: 15px;
     font-family: 'Rabar-normal';
@@ -538,7 +538,7 @@ opacity: 1;
 
 .newsWithSidebar .newsCont .article__hero .publistDate{
  color: #000000;
-    font-size: 14px;
+    font-size: 15px;
     font-family: 'Rabar-normal';
     font-weight: 500;
 
@@ -628,7 +628,7 @@ display: flex;
 
 .newsWithSidebar .newsCont .article-list .card__art p{
         color: black;
-    font-size: 19px;
+    font-size: 15px;
     margin-bottom: auto !important;
     font-family: 'Rabar-normal';
 
@@ -1087,7 +1087,7 @@ align-items: center;
 }
 
 .article__date {
-    font-size: 14px;
+    font-size: 15px;
     color: black;
     display: flex;
     align-items: center;
@@ -1208,7 +1208,7 @@ padding-left: 10px;
 
 }
 .genPostMetaInfo time,.genPostMetaInfo span ,.genPostMetaInfo ul li a{
-    font-size: 14px;
+    font-size: 15px;
         color: black !important;
             font-family: 'Rabar-normal';
 
