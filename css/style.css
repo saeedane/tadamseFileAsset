@@ -791,7 +791,6 @@ display: grid;
 .newsWithSidebar .widgetColum .sidebarWidget .nav-link {
     color: black;
     padding-right: 0px;
-font-size: 18px;
 }
 .newsWithSidebar .widgetColum .sidebarWidget .nav-link:before{
     font-size: 40px;
