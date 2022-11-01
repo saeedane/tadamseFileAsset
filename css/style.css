@@ -2018,7 +2018,7 @@ font-weight: 700;
 
 @media only screen and (max-width: 425px) {
 .mobile_content {
-    width: 100% !important;
+    width: 100%;
 }
 
 }
@@ -2030,7 +2030,6 @@ font-weight: 700;
     
      .banarSectionSquare .article-list .card__art:nth-child(3) .article__body{
         background: transparent !important;
-}
     }
     
     .footer-section {
