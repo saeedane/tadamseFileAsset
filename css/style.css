@@ -2032,6 +2032,10 @@ font-weight: 700;
     flex-direction: column-reverse;
 }
 
+.wpb_single_image.vc_align_center{
+    display: none;
+}
+
 .mobileNone{
         display:none !important;
 
