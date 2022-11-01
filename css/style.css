@@ -2028,6 +2028,12 @@ font-weight: 700;
     padding-left: 20px;
 }
 
+
+.vc_row{
+    display: flex;
+    flex-direction: column-reverse;
+}
+
 .mobileNone{
         display:none !important;
 
