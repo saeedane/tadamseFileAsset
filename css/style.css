@@ -1241,10 +1241,12 @@ padding-left: 10px;
 }
 
 .post-content .entry-content p,.post-content .entry-content .post--content,.post-content .entry-content h4,.post-content .entry-content h2{
-    font-size: 19px;
+    font-size: 18px;
     color: black;
     margin-bottom: 30px;
     line-height: 2.5rem;
+        font-family: 'Rabar-normal';
+
 }
 
 .post-content .entry-content p strong{
@@ -1252,8 +1254,7 @@ padding-left: 10px;
     font-size: 24px;
 }
 .post-content .entry-content h4 strong,.post-content .entry-content h2 strong{
-    font-size: 40px;
-    font-family: 'sadan-toshiba';
+    font-size: 30px;
 
 }
 
