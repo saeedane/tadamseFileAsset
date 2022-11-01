@@ -70,7 +70,9 @@ ul {
 
 }
 
-
+.dropdown-toggle::after{
+    display: none;
+}
 
 .tc {
     color: #707070;
