@@ -19,7 +19,7 @@ font-family: 'Awras-Emir';
 
 
 body{
-    font-size: 17px;
+    font-size: 18px;
     line-height: 1.9rem;
     color: white;
     text-align: right;
@@ -2026,10 +2026,13 @@ font-weight: 700;
 /* response mobile css  */
 @media only screen and (max-width: 767px) {
 
-
+body{
+    font-size: 16px;
+}
     
      .banarSectionSquare .article-list .card__art:nth-child(3) .article__body{
         background: transparent !important;
+}
     }
     
     .footer-section {
