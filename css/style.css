@@ -469,7 +469,7 @@ font-size: 21px;
 }
 
 .newsWithSidebar .newsCont .article__hero .article__body p{
-   font-size: 15px;
+   font-size: 14px;
    color: black;
       margin-top: 15px;
     font-family: 'Rabar-normal';
@@ -479,7 +479,7 @@ font-size: 21px;
 
 
 .newsWithSidebar .newsCont .article__hero .listNewsCont .article__list .article__item a{
-    font-size: 13px;
+    font-size: 11px;
     color: black;
     position: relative;
     padding-right: 16px;
@@ -2301,7 +2301,7 @@ font-weight: 700;
 
 
     .newsWithSidebar .newsCont .article__hero .article__body .article__title{
-        font-size: 25px;
+        font-size: 20px;
     }
 
 
