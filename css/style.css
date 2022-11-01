@@ -2018,7 +2018,7 @@ font-weight: 700;
 
 @media only screen and (max-width: 425px) {
 .mobile_content {
-    width: 100%;
+    width: 100% !important;
 }
 
 }
