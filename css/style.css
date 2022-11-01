@@ -693,7 +693,7 @@ border-top-right-radius: 20px !important;
     background: linear-gradient(to bottom, rgb(125 0 0 / 0%) 0%, #03d9d694 49%, #02d8d8 100%);
    width: 100%;
     height: 48px;
-    bottom: 0px;
+    bottom: 22px;
     content: "";
     z-index: 1;
     position: absolute;
