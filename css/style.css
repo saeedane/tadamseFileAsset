@@ -2346,7 +2346,9 @@ font-weight: 700;
     font-size: 15px;
  }
 
-
+.newsWithSidebar .newsCont .article-list .card__art p{
+    font-size: 13px;
+}
 
 
 
