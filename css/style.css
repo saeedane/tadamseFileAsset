@@ -2209,10 +2209,12 @@ font-weight: 700;
 }
 
 .header-logo{
-    margin-right: auto;
+    margin-left: auto;
 }
 
-
+.header-logo img{
+    height: 40px;
+}
 /*
 * content section 
 **/
