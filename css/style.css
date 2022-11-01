@@ -537,10 +537,11 @@ opacity: 1;
 
 
 .newsWithSidebar .newsCont .article__hero .publistDate{
- color: #000000;
-    font-size: 15px;
+    font-size: 13px;
     font-family: 'Rabar-normal';
     font-weight: 500;
+        color: #767676!important;
+
 
 }
 
