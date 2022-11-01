@@ -2215,6 +2215,12 @@ font-weight: 700;
 .header-logo img{
     height: 40px;
 }
+
+.header-weather {
+    display: none;
+}
+
+
 /*
 * content section 
 **/
