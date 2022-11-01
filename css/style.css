@@ -699,7 +699,7 @@ border-top-right-radius: 20px !important;
     content: "";
     z-index: 1;
     position: absolute;
-    border-radius: 10px;
+    border-radius: 20px;
 }
 
 .no-shadow .article-list .card__art:first-child .image-thumbnail:before{
