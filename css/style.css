@@ -1299,6 +1299,7 @@ padding-left: 10px;
 /* tags section  */
 
 .tags-block .nav a{
+    border: 1px dotted#000000;
     color: black;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
