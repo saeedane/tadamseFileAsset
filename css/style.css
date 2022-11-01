@@ -1085,8 +1085,9 @@ align-items: center;
     -o-object-fit: cover;
     object-fit: cover;
     position: absolute;
-    border-radius: 20px;
-}
+border-top-right-radius: 20px !important;
+    border-bottom-left-radius: 20px !important;
+    border-bottom-right-radius: 20px !important;}
 
 .article__date {
     font-size: 13px;
