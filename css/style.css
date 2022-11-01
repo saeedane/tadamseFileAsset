@@ -2026,9 +2026,7 @@ font-weight: 700;
 /* response mobile css  */
 @media only screen and (max-width: 767px) {
 
-body{
-    font-size: 16px;
-}
+
     
      .banarSectionSquare .article-list .card__art:nth-child(3) .article__body{
         background: transparent !important;
