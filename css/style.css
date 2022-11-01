@@ -482,6 +482,7 @@ font-size: 21px;
     color: black;
     position: relative;
         padding: 7px 16px;
+    border-bottom: 1px dotted rgba(0,0,0,.8);
 
 
 }
@@ -498,10 +499,7 @@ font-size: 21px;
 }
 
 
-.newsWithSidebar .newsCont .article__hero .listNewsCont .article__list .article__item {
-    border-bottom: 1px dotted#001b68;
-    padding: 6px 0px;
-}
+
 
 /* article hero */
 .article__hero  .image-thumbnail img{
