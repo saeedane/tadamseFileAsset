@@ -590,6 +590,7 @@ opacity: 1;
     padding-right: 30px;
     font-size: 15px;
             font-family: 'Rabar-normal';
+            position: relative;
 
 }
 
@@ -600,11 +601,11 @@ opacity: 1;
     content: "";
     width: 14px;
     height: 3px;
-    background: #02d8d8;
+    background: #31b7bc;
     position: absolute;
     top: 28px;
     transform: rotate(90deg);
-    right: 50px;
+    right: 0px;
     border-radius: 100px;
 }
 
