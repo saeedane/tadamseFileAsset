@@ -766,10 +766,12 @@ display: grid;
 }
 .newsWithSidebar .widgetColum .sidebarWidget{
     margin-bottom: 20px;
+    border-top-right-radius: 20px !important;
+    border-bottom-left-radius: 20px !important;
+    border-bottom-right-radius: 20px !important;
 }
 
 .newsWithSidebar .widgetColum .sidebarWidget h2{
-    line-height: 1.2;
     display: inline-block;
     width: auto;
     margin-bottom: 15px;
@@ -781,7 +783,8 @@ display: grid;
     font-size: 18px;
     padding-top: 10px !important;
     padding-bottom: 5px !important;
-    padding:0px 15px;
+    padding: 0px 15px;
+    border-top-right-radius: 20px !important;
     
 
 }
