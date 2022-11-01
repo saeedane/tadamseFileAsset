@@ -2234,7 +2234,10 @@ font-weight: 700;
 .newsWithSidebar .newsCont .article-list .article__hero .image-thumbnail img{
     max-width: 100%;
     object-fit: cover;
-    height: auto;
+    height: 250px;
+        border-top-right-radius: 20px !important;
+    border-bottom-left-radius: 20px !important;
+    border-bottom-right-radius: 20px !important;
 }
 
 
