@@ -1004,7 +1004,7 @@ align-items: center;
     box-shadow: 1px 1px 10px #e5e5e5;
 
 }
-.content-archive .page-title,.readAlsoBox h2{
+.content-archive .page-title{
     line-height: 1.1;
     display: inline-block;
     width: auto;
@@ -1377,7 +1377,21 @@ overflow: hidden;
     border-radius: 6px;
     
 }
+.readAlsoBox h2{
+        line-height: 1.1;
+    display: inline-block;
+    width: auto;
+    margin-bottom: 15px;
+    padding: 10px 20px;
+    color: #fff;
+    background-color: #001b68;
+    border-bottom-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-top-left-radius: 100px;
+    
+    font-size: 20px;
 
+}
 
 .readAlsoBox .article__list  {
     flex-wrap: wrap;
