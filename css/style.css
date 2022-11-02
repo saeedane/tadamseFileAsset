@@ -274,6 +274,10 @@ background-color:black;
     left: 6px;
 }
 
+.NewsSliderBox, .NewsSliderBox .swiper-container.NewsSlider .swiper-wrapper, .NewsSliderBox .swiper-container.NewsSlider {
+     height: 100%; 
+}
+
  /* tricker bottom  */
 
 
