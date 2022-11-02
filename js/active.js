@@ -93,7 +93,6 @@ if (isMobile) {
     direction: "vertical",
     loop: true,
     slidesPerView: 1,
-  reverseDirection: true,
 
     pagination: {
       el: ".swiper-pagination",
