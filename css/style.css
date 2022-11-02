@@ -86,7 +86,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1{
-    font-family: 'Awras-Emir'; 
     margin: 0;
     color: #000000;
 }
@@ -1207,6 +1206,29 @@ padding-left: 10px;
 
 
 /* auther box  */
+
+.auther-box{
+        border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 20px;
+}
+
+.auther__avater .avater-auther {
+    position: absolute;
+    left: 40%;
+    top: -20px;
+    border-radius: 50%;
+    border-top-left-radius: 0px;
+    border: 1px solid#000000;
+}
+
+.auther-box .auther__name{
+    border-bottom: 1px dotted#000000;
+}
+
+
+
 /* meta box info   */
 
 .border-bottom{
