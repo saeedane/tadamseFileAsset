@@ -1212,6 +1212,8 @@ padding-left: 10px;
     border-bottom-left-radius: 20px;
     border-top-left-radius: 0px;
     border-top-right-radius: 20px;
+        border: 1px solid#002e5f;
+
 }
 
 .auther-box .auther__avater {
