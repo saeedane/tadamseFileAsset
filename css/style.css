@@ -2380,17 +2380,17 @@ font-weight: 700;
  .banarSectionHorizontal .article-list .card__art a, .banarSectionSquare .article-list .card__art a,.sectionSlider .categoryContainer .swiper-wrapper .swiper-slide .card__art .article__body .article-date,
  .newsWithSidebar .newsCont .article-list .card__art a, .newsWithSidebar .newsCont .article-list .card__art .cat__link,
  .card-small .article-list .card__art a,.banarSectionVideo .article-list .card__art a,.sectionSlider .categoryContainer .swiper-wrapper .swiper-slide .card__art .article__body .article__title{
-    font-size: 14px;
+    font-size: 16px;
 
 }
 
 .newsWithSidebar .newsCont .article-list .card__art .article-date, .banarSectionHorizontal .article-list .card__art .article-date, .banarSectionVideo .article-list .card__art .article-date, .banarSectionSquare .article-list .card__art .article-date{
-    font-size: 14px !important;
+    font-size: 16px !important;
 
 }
 
 .banarSectionSquare .infographicContainer .infographicCont .swiper-slide .card__art a,.sectionSlider .categoryContainer .swiper-wrapper .swiper-slide .card__art .article__body .cat-link{
- font-size: 14px;   
+ font-size: 16px;   
 
 }
 
