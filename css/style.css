@@ -849,13 +849,12 @@ line-height: 1.1;
 display: inline-block;
 width: auto;
 margin-bottom: 15px;
-padding: 4px 20px;
+padding: 10px 20px;
 color: #fff;
 background-color:#001b68;
 border-bottom-right-radius: 100px;
 border-bottom-left-radius: 100px;
 border-top-left-radius: 100px;
-        padding-top: 10px;
 font-size: 20px;
 }
 
