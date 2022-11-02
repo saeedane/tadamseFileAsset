@@ -1223,6 +1223,11 @@ padding-left: 10px;
     border: 1px solid#000000;
 }
 
+.auther-box .auther__avater img{
+    border-radius: 100px;
+        box-shadow: 1px 1px 10px #e3e3e3;
+
+}
 .auther-box .auther__name{
     border-bottom: 1px dotted#000000;
     padding-bottom: 20px;
