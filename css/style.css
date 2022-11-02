@@ -1214,7 +1214,7 @@ padding-left: 10px;
     border-top-right-radius: 20px;
 }
 
-.auther__avater .avater-auther {
+.auther-box .auther__avater {
     position: absolute;
     left: 40%;
     top: -20px;
@@ -1225,6 +1225,7 @@ padding-left: 10px;
 
 .auther-box .auther__name{
     border-bottom: 1px dotted#000000;
+    padding-bottom: 20px;
 }
 
 
