@@ -1212,7 +1212,7 @@ padding-left: 10px;
     border-bottom-left-radius: 20px;
     border-top-left-radius: 0px;
     border-top-right-radius: 20px;
-        border: 1px solid#31b7bc;
+    box-shadow: 1px 1px 10px #e5e5e5;
 
 }
 
