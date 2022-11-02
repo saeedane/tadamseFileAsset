@@ -2389,7 +2389,7 @@ font-weight: 700;
 
 }
 
-.banarSectionSquare .infographicContainer .infographicCont .swiper-slide .card__art a,.sectionSlider .categoryContainer .swiper-wrapper .swiper-slide .card__art .article__body .cat-link{
+.banarSectionSquare .infographicContainer .infographicCont .swiper-slide .card__art a,.newsWithSidebar .widgetColum .sidebarWidget .nav-link,.sectionSlider .categoryContainer .swiper-wrapper .swiper-slide .card__art .article__body .cat-link{
  font-size: 16px;   
 
 }
@@ -2397,8 +2397,8 @@ font-weight: 700;
 .newsWithSidebar .newsCont .article-list .card__art:nth-child(1) .article__title, 
 .newsWithSidebar .newsCont .article-list .card__art:nth-child(2) .article__title, 
 .newsWithSidebar .newsCont .article-list .card__art:nth-child(3) .article__title,
- .newsWithSidebar .newsCont .article-list .card__art:nth-child(4) .article__title,.newsWithSidebar .widgetColum .sidebarWidget .nav-link{
-    font-size: 16px;
+ .newsWithSidebar .newsCont .article-list .card__art:nth-child(4) .article__title{
+    font-size: 19px;
  }
 
 .newsWithSidebar .newsCont .article-list .card__art p{
