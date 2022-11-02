@@ -237,7 +237,41 @@ background-color:black;
     height: 90px;
 }
 
+.newsConten h2 {
+    font-size: 25px;
+    color: #fff;
+    padding-left: 23px;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+}
 
+.newsConten p {
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    height: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    color: #fff;
+}
+
+
+.newsConten .close_news {
+    position: absolute;
+    z-index: 11;
+    border: 1px solid #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 19px;
+    height: 19px;
+    padding: 2px;
+    top: 3px;
+    left: 6px;
+}
 
  /* tricker bottom  */
 
