@@ -1212,7 +1212,7 @@ padding-left: 10px;
     border-bottom-left-radius: 20px;
     border-top-left-radius: 0px;
     border-top-right-radius: 20px;
-        border: 1px solid#002e5f;
+        border: 1px solid#31b7bc;
 
 }
 
@@ -1222,7 +1222,7 @@ padding-left: 10px;
     top: -20px;
     border-radius: 50%;
     border-top-left-radius: 0px;
-    border: 1px solid#002e5f;
+    border: 1px solid#31b7bc;
 }
 
 .auther-box .auther__avater img{
@@ -1231,7 +1231,7 @@ padding-left: 10px;
 
 }
 .auther-box .auther__name{
-    border-bottom: 1px dotted#002e5f;
+    border-bottom: 1px dotted#31b7bc;
     margin-top: 70px !important;
     padding-bottom: 20px;
 }
