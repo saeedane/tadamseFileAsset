@@ -85,3 +85,16 @@ if (isMobile) {
 }
 
 */
+
+  var swiper = new Swiper(".NewsSlider", {
+     autoplay: {
+       delay: 5000,
+     },
+    direction: "vertical",
+    loop: true,
+    slidesPerView: 1,
+    pagination: {
+      el: ".swiper-pagination",
+      clickable: true,
+    },
+  });
