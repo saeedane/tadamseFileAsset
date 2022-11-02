@@ -2319,6 +2319,14 @@ font-weight: 700;
 }
 
 
+/* breaking news of mobile  */
+
+.newsConten{
+        display: flex;
+
+}
+
+
 /*
 * content section 
 **/
