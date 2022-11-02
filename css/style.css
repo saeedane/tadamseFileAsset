@@ -472,7 +472,7 @@ opacity: 1;
     padding-right: 10px;
 }
 .newsWithSidebar .newsCont .article__hero .article__body .article__title{
-font-size: 21px;
+font-size: 24px;
     color: black;
 }
 
@@ -2366,7 +2366,7 @@ font-weight: 700;
 
 
     .newsWithSidebar .newsCont .article__hero .article__body .article__title{
-        font-size: 24px;
+        font-size: 21px;
     }
 
 
