@@ -1230,7 +1230,7 @@ padding-left: 10px;
 }
 .auther-box .auther__name{
     border-bottom: 1px dotted#000000;
-    margin-top: 30px;
+    margin-top: 70px !important;
     padding-bottom: 20px;
 }
 
