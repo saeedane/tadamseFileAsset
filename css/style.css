@@ -1220,7 +1220,7 @@ padding-left: 10px;
     top: -20px;
     border-radius: 50%;
     border-top-left-radius: 0px;
-    border: 1px solid#000000;
+    border: 1px solid#002e5f;
 }
 
 .auther-box .auther__avater img{
@@ -1229,7 +1229,7 @@ padding-left: 10px;
 
 }
 .auther-box .auther__name{
-    border-bottom: 1px dotted#000000;
+    border-bottom: 1px dotted#002e5f;
     margin-top: 70px !important;
     padding-bottom: 20px;
 }
