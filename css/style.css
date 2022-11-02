@@ -769,10 +769,7 @@ position: relative;
 }
 
 /* custom sidebar  */
-.newsWithSidebar .newsCont {
-    grid-template-columns: 3fr 1fr;
-display: grid;
-}
+
 .newsWithSidebar .widgetColum .sidebarWidget{
     margin-bottom: 20px;
     border-top-right-radius: 20px !important;
