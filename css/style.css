@@ -2323,6 +2323,7 @@ font-weight: 700;
 
 .newsConten{
         display: flex;
+    height: 90px;
 
 }
 
