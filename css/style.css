@@ -1933,7 +1933,7 @@ color: black;
 .banarSectionSquare .infographicContainer .infographicCont .swiper-slide .card__art .image-thumbnail img{
 
  width: 100%;
- height: auto;
+ height: 360px;
      border-right: 7px solid#02d8d8;
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
