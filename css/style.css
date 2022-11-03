@@ -276,7 +276,8 @@ background-color:black;
     height: 19px;
     padding: 2px;
     top: 3px;
-    left: 6px;
+    left: 167px;
+
 }
 
 .NewsSliderBox, .NewsSliderBox .swiper-container.NewsSlider .swiper-wrapper, .NewsSliderBox .swiper-container.NewsSlider {
@@ -2337,6 +2338,10 @@ font-weight: 700;
     padding: 15px 35px;
 flex-direction: row-reverse;
 }
+.newsConten .close_news {
+    left: 6px;
+}
+
 
 
 /*
