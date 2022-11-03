@@ -2327,16 +2327,23 @@ font-weight: 700;
 flex-direction: row-reverse;
 }
 .newsConten .close_news {
-    left: 6px;
     position: absolute;
-    top: 8px;
-    border: 1px solid#ffffff;
-    padding: 4px;
+    z-index: 11;
+    border: 1px solid #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 19px;
+    height: 19px;
+    padding: 2px;
+    top: 3px;
+    left: 6px;    
 }
 
 .newsConten .close_news img{
-        width: 21px;
-height: 21px;
+      width: 90%;
+    display: block;
+
 
 }
 
