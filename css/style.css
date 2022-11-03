@@ -2341,6 +2341,9 @@ flex-direction: row-reverse;
 .newsConten .close_news {
     left: 6px;
 }
+.newsConten h2:after{
+    display: none;
+}
 
 
 
