@@ -265,23 +265,11 @@ background-color:black;
 }
 
 
-.newsConten .close_news {
-    position: absolute;
-    z-index: 11;
-    border: 1px solid #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 19px;
-    height: 19px;
-    padding: 2px;
-    top: 3px;
-    left: 167px;
 
-}
 
 .NewsSliderBox, .NewsSliderBox .swiper-container.NewsSlider .swiper-wrapper, .NewsSliderBox .swiper-container.NewsSlider {
      height: 100%; 
+     margin-left: auto;
 }
 
  /* tricker bottom  */
