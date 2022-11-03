@@ -2129,7 +2129,7 @@ font-weight: 700;
 }
 
 
-.vc_row{
+.wpb_wrapper .container:nth-child(2) .vc_row{
     display: flex;
     flex-direction: column-reverse;
 }
