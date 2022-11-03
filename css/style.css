@@ -253,10 +253,11 @@ background-color:black;
 }
 
 .newsConten p {
-    font-size: 20px;
+    font-size: 18px;
     display: flex;
     align-items: center;
     height: 100%;
+    font-family: 'Rabar-normal';
     overflow: hidden;
     text-overflow: ellipsis;
     -webkit-line-clamp: 2;
