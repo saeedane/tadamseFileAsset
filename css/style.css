@@ -2011,6 +2011,8 @@ display: inline-flex;
         text-align: center;
         z-index: 99;
         width: 100%;
+            box-shadow: 1px 1px 10px #e5e5e5;
+
 }
 
 
