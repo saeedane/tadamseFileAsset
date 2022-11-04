@@ -2004,7 +2004,7 @@ display: inline-flex;
 }
 
 .auther-section .bg-image{
-    background-image: url('https://newspreview.000webhostapp.com/assets/img/auther.png');
+    background-image: url('https://cdn.statically.io/gh/saeedane/tadamseFileAsset/0d9b4cbc/img/cover-auther.png');
     background-size: contain;
     background-repeat: no-repeat;
         object-fit: cover;
