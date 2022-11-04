@@ -2614,6 +2614,9 @@ color: #03cab8;
 
 }
 
+.banarSectionSquare .infographicContainer .infographicCont .swiper-slide .card__art .image-thumbnail img{
+    height: 260px;
+}
 
 
 /* footer for mobile  */
