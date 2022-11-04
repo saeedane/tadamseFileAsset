@@ -2585,7 +2585,10 @@ flex-direction: row-reverse;
     display: grid !important;
 }
 
-
+/* section file private  */
+.sectionSlider .categoryContainer .swiper-wrapper .swiper-slide .card__art .image-thumbnail img{
+    height: 220px;
+}
 
 
 /* section infographic for mobile  */
