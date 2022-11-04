@@ -2000,7 +2000,9 @@ display: inline-flex;
 .auther-section .card-auther-item{
     z-index: 2;
 
-
+    border-top-right-radius: 20px !important;
+    border-bottom-left-radius: 20px !important;
+    border-bottom-right-radius: 20px !important;
 }
 
 .auther-section .bg-image{
