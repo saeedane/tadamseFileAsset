@@ -1858,7 +1858,7 @@ p{
 
 
 .category-opinion .article-list .card__art a:before{
-    position: relative;
+    display: none;
 }
 
 /* section file private  */
