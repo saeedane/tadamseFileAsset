@@ -2037,6 +2037,8 @@ display: inline-flex;
     bottom: -13px;
     height: 42px;
     right: 0;
+    border-bottom-left-radius: 20px !important;
+    border-bottom-right-radius: 20px !important;
 } 
 
 
