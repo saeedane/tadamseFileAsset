@@ -2412,6 +2412,7 @@ padding: 0px;
 .readAlsoBox .article__body{
     flex: 0 0 58.333333%;
     max-width: 58.333333%;
+    margin-top: 0px !important;
 }
 
 /*
