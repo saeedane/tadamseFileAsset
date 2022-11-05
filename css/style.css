@@ -682,7 +682,7 @@ font-size: 24px;
 .banarSectionHorizontal  .article-list .card__art .article__body{
 display: flex;
     flex-direction: column;
-    min-height: 120px !important;
+    min-height: 148px !important;
 
 }
 
