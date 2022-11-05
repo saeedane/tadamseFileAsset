@@ -2388,7 +2388,15 @@ padding: 0px;
 
 }
 
+.content-single .entry-header .entry-title{
+    padding-right: 20px;
+    padding-left: 20px;
+    font-size: 30px;
+}
+
+
 /* single page  content of mobile   */
+
 
 /* sidebar of mobile  */
 .content-area .sidebar-column{
