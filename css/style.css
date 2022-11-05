@@ -2388,8 +2388,31 @@ padding: 0px;
 
 }
 
-/* single page custom  */
+/* single page  content of mobile   */
 
+
+/* red also of mobile */
+.readAlsoBox .article__list {
+    display: block !important;
+}
+
+.readAlsoBox img{
+        width: 115px;
+    height: 90px;
+}
+
+.readAlsoBox .article__teaser {
+    -ms-flex: 0 0 41.666667%;
+    flex: 0 0 41.666667%;
+    max-width: 41.666667%;
+    display: flex;
+    align-items: center;
+}
+
+.readAlsoBox .article__body{
+    flex: 0 0 58.333333%;
+    max-width: 58.333333%;
+}
 
 /*
 * content section 
