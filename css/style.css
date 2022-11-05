@@ -2393,6 +2393,8 @@ padding: 0px;
 /* sidebar of mobile  */
 .content-area .sidebar-column{
     width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
 }
 
 
