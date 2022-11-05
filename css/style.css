@@ -1419,10 +1419,12 @@ overflow: hidden;
 }
 
 .readAlsoBox img{
-    width: 270px;
-    height: 180px;
+    width: 235px;
+    height: 154px;
     object-fit: cover;
-    border-radius: 6px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
     
 }
 .readAlsoBox h2{
