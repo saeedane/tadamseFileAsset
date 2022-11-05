@@ -1897,8 +1897,10 @@ p{
 
 .sectionSlider .categoryContainer .swiper-wrapper .swiper-slide .card__art .image-thumbnail img{
     width: 100%;
-    height: auto;
-    border-radius: 6px;
+    height: 170px;
+    border-top-right-radius: 20px !important;
+    border-bottom-left-radius: 20px !important;
+    border-bottom-right-radius: 20px !important;
 }
 
 .sectionSlider .categoryContainer .swiper-wrapper .swiper-slide .card__art .article__body .article__title{
