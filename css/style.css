@@ -2392,8 +2392,15 @@ padding: 0px;
 
 
 /* red also of mobile */
+
 .readAlsoBox .article__list {
     display: block !important;
+}
+
+.readAlsoBox .article__list li {
+    margin-bottom: 15px;
+    border-bottom: 1px dotted #dddddd;
+    padding-bottom: 10px;
 }
 
 .readAlsoBox img{
@@ -2414,6 +2421,8 @@ padding: 0px;
     max-width: 58.333333%;
     margin-top: 0px !important;
 }
+
+
 
 .readAlsoBox .article__list li .article__body .card-title{
     font-size: 16px;
