@@ -2523,7 +2523,6 @@ flex-direction: row-reverse;
 
 /*  category-opinion artcile for mobile */
 .category-opinion .article-list .card__art{
-    width: 90%  !important;
     margin: 20px auto;
 }
 
