@@ -370,7 +370,7 @@ background: #03d9d9 !important;
     opacity: 1;
     visibility: visible;
 }
-.menu_side .mobile_content  {
+.menu_side .menu_content  {
     width: 428px;
   background-color: #002E5F;
     overflow: hidden;
@@ -388,7 +388,7 @@ background: #03d9d9 !important;
 
 }
 
-.menu_side.active .mobile_content{
+.menu_side.active .menu_content{
    opacity: 1;
     right: 0px;
     visibility: visible;
@@ -396,22 +396,22 @@ background: #03d9d9 !important;
 }
 
 /* width */
-.mobile_content::-webkit-scrollbar {
+.menu_content::-webkit-scrollbar {
   width: 5px;
 }
 
 /* Track */
-.mobile_content::-webkit-scrollbar-track {
+.menu_content::-webkit-scrollbar-track {
   background: #31b7bc; 
 }
  
 /* Handle */
-.mobile_content::-webkit-scrollbar-thumb {
+.menu_content::-webkit-scrollbar-thumb {
   background: #888; 
 }
 
 /* Handle on hover */
-.mobile_content::-webkit-scrollbar-thumb:hover {
+.menu_content::-webkit-scrollbar-thumb:hover {
   background: #555; 
 }
 
@@ -481,7 +481,7 @@ opacity: 1;
     outline: none;
 }
 
-.mobile_content ul.social_links {
+.menu_content ul.social_links {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -493,11 +493,11 @@ opacity: 1;
     margin-top: 52px;
 }
 
-.mobile_content ul.social_links li a{
+.menu_content ul.social_links li a{
     border: 0px;
 }
 
-.mobile_content ul.social_links li a img{
+.menu_content ul.social_links li a img{
         width: 35px;
     background: white;
     padding: 7px;
@@ -2120,7 +2120,7 @@ font-weight: 700;
     }
 
 @media only screen and (max-width: 425px) {
-.menu_side .mobile_content {
+.menu_side .menu_content {
     width: 100%;
 }
 
