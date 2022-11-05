@@ -2415,6 +2415,10 @@ padding: 0px;
     margin-top: 0px !important;
 }
 
+.readAlsoBox .article__list li .article__body .card-title{
+    font-size: 16px;
+}
+
 /*
 * content section 
 **/
