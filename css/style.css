@@ -2402,6 +2402,9 @@ padding: 0px;
     border-bottom: 1px dotted #dddddd;
     padding-bottom: 10px;
 }
+.readAlsoBox .article__list li:last-child{
+    border: 0px;
+}
 
 .readAlsoBox img{
         width: 115px;
