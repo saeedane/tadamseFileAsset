@@ -2390,6 +2390,11 @@ padding: 0px;
 
 /* single page  content of mobile   */
 
+/* sidebar of mobile  */
+.content-area .sidebar-column{
+    width: 100%;
+}
+
 
 /* red also of mobile */
 
