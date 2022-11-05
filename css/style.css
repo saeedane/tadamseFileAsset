@@ -1894,6 +1894,15 @@ p{
 }
 
 
+.sectionSlider .categoryContainer .swiper-wrapper .swiper-slide .card__art .article__body .article__title{
+    margin-bottom:auto;
+}
+.sectionSlider .categoryContainer .swiper-wrapper .swiper-slide .card__art .article__body {
+    display: flex;
+    flex-direction: column;
+    min-height: 210px;
+}
+
 
 .sectionSlider .categoryContainer .swiper-wrapper .swiper-slide .card__art .image-thumbnail img{
     width: 100%;
@@ -1902,6 +1911,8 @@ p{
     border-bottom-left-radius: 20px !important;
     border-bottom-right-radius: 20px !important;
 }
+
+
 
 .sectionSlider .categoryContainer .swiper-wrapper .swiper-slide .card__art .article__body .article__title{
     color: black;
