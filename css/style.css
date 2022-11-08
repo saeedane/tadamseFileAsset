@@ -1360,6 +1360,7 @@ padding-left: 10px;
     padding: 5px 20px;
     border-bottom: 1px dotted#000;
     position: relative;
+    color: black;
 }
 .subtitle li:before{
 
@@ -2450,7 +2451,9 @@ padding: 0px;
     padding-right: 20px !important;
     padding-left: 20px !important;
 }
-
+.subtitle li{
+    font-size: 16px;
+}
 
 
 
