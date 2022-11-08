@@ -2166,16 +2166,16 @@ display: inline-flex;
 }
 
 .footer-wrapper .footerWidgetCont  .text-about:after{
+    
     content: "";
-    background-image: url("https://cdn.statically.io/gh/saeedane/tadamseFileAsset/a5035185/img/icons/V%C3%A9rgule.svg");
+    background-image: url(https://cdn.statically.io/gh/saeedane/tadamseFileAsset/a5035185/img/icons/V%C3%A9rgule.svg);
     background-size: cover;
     width: 30px;
     height: 31px;
-    bottom: 0px;
+    top: 43px;
     position: absolute;
-    left: -6px;
+    left: -12px;
     filter: grayscale(1);
-
     transform: rotate(180deg);
 }
 
