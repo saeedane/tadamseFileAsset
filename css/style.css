@@ -94,7 +94,7 @@ h1{
 
 
 .container{
-    width: 1280px !important;
+    max-width: 1240px; 
 }
 
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
