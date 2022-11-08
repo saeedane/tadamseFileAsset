@@ -1350,6 +1350,12 @@ padding-left: 10px;
     
     font-size: 24px;
 }
+.post-content .entry-content p a{
+        color: #31b7bc;
+
+}
+
+
 .post-content .entry-content h4 strong,.post-content .entry-content h2 strong{
     font-size: 30px;
     font-family: 'Rabar-bold';
