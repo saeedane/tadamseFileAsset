@@ -1355,6 +1355,25 @@ padding-left: 10px;
 
 }
 
+/* subtitle */
+.subtitle li{
+    padding: 5px 20px;
+    border-bottom: 1px dotted#000;
+    position: relative;
+}
+.subtitle li:before{
+
+    content: "";
+    width: 10px;
+    height: 10px;
+    border-radius: 100px;
+    background: #31b7bc;
+    position: absolute;
+    top: 13px;
+    right: 0;
+
+}
+
 /* related  */
 
 .relatedPost {
@@ -2424,6 +2443,15 @@ padding: 0px;
 
 
 /* single page  content of mobile   */
+
+
+/* subtitle of mobile  */
+.subtitle {
+    padding-right: 20px !important;
+    padding-left: 20px !important;
+}
+
+
 
 
 /* sidebar of mobile  */
