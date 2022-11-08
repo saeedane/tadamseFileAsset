@@ -1301,6 +1301,7 @@ padding-left: 10px;
 }
 .heading__img{
     color: black;
+    font-size: 16px;
 }
 .genPostMetaInfo{
         border-bottom: 1px solid#eee;
