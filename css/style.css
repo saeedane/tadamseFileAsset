@@ -1508,14 +1508,15 @@ overflow: hidden;
     color: #31b7bc;
 }
 
-.comentsArea h4 {
-    font-weight: 400;
-    font-size: 20px;
+.comentsArea p {
+      font-size: 18px;
+
 }
 
 .comentsArea h5 {
     color: #a5a5a5!important;
     margin-bottom: 8px;
+    font-size: 16px;
 }
 
 .comentsArea .depth-1 {
