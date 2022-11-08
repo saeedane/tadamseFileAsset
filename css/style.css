@@ -2161,7 +2161,7 @@ display: inline-flex;
 .footer-wrapper .footerWidgetColum  h6,.footer-wrapper  .titleWidgetCat{
     font-size: 30px;
     font-family: 'Rabar-bold';
-    margin-bottom: 20px;
+    margin-bottom: 30px !important;
 
 }
 
