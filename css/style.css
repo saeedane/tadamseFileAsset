@@ -2438,6 +2438,10 @@ padding: 0px;
 
 /* red also of mobile */
 
+.readAlsoBox{
+    margin: 0px 15px;
+}
+
 .readAlsoBox .article__list {
     display: block !important;
 }
