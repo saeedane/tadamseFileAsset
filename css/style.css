@@ -2417,6 +2417,13 @@ padding: 0px;
     padding-left: 15px;
 }
 
+/* tags box  of mobile */
+.tags-block .nav a{
+        font-size: 15px;
+        padding: 5px 10px;
+
+}
+
 
 /* red also of mobile */
 
