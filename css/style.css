@@ -583,6 +583,7 @@ font-size: 24px;
 
 
 
+
 /*.newsWithSidebar .newsCont .article-list .card__art .image-thumbnail .mostReadeIcon{
        position: absolute;
     bottom: 0px;
@@ -1694,6 +1695,10 @@ overflow: hidden;
     padding: 0px;
 }
 
+.banarSectionSquare .article-list  .card__art:last-child{
+    display: none;
+}
+
 .banarSectionSquare .article-list{
         grid-template-areas:
         "main-article section-article-1 section-article-2"
@@ -2628,6 +2633,10 @@ padding: 0px;
             background: linear-gradient(to bottom, rgba(179, 171, 171, 0) 0%, rgba(48, 48, 48, 0.71) 49%, rgba(19, 19, 19, 0.8) 100%) !important;
 
 
+}
+
+.banarSectionSquare .article-list  .card__art:last-child{
+    display: block !important;
 }
 
 .banarSectionSquare .article-list .card__art .article__body{
