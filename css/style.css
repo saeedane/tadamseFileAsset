@@ -2463,11 +2463,10 @@ padding: 0px;
 }
 
 .readAlsoBox .article__teaser {
-    -ms-flex: 0 0 41.666667%;
-    flex: 0 0 41.666667%;
-    max-width: 41.666667%;
+  flex: 0 0 36.666667%;
+    max-width: 36.666667%;
     display: flex;
-    align-items: center;
+    align-items: end;
 }
 
 .readAlsoBox .article__body{
