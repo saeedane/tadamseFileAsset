@@ -2288,32 +2288,7 @@ display: flex;
     font-size: 22px !important;
 }
 
-.footer-wrapper .titleWidget{
-    display: block !important; 
-    text-align: right;
-    padding-right: 20px;
-    color: white;
-    font-size: 24px;
-    
-    position: relative;
-    border-bottom: 1px dotted#02adad!important;
-        padding-bottom: 15px;
-        margin-bottom: 10px !important;
 
-}
-.footer-wrapper .footerWidgetColum .titleWidget:after{
-        content: "";
-    display: block;
-    background: url(https://cdn.statically.io/gh/saeedane/FileAwrasAssets/00c81ed3/img/icons/feather-chevron-down.svg) no-repeat scroll center/contain;
-    width: 20px;
-    height: 20px;
-    position: absolute;
-    left: 52px;
-    top: 13px;
-    -webkit-transition: .3s;
-    -o-transition: .3s;
-    transition: .3s;
-}
 
 .footer-wrapper   .row{
     margin-right: 0px !important;
