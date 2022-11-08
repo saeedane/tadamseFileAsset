@@ -1403,6 +1403,8 @@ padding-left: 10px;
     margin-bottom: 10px;
     font-size: 19px;
             transition: .3s all ease-in-out;
+                padding-right: 1rem!important;
+
 
 
 }
