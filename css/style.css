@@ -1113,8 +1113,9 @@ align-items: center;
     min-height: 90px;
 }
 
-.content-archive  ul.mostInportNewsList li:last-child {
-    border-bottom: 0;
+
+.content-archive  ul.mostInportNewsList li:last-child ,.content-area .mostInportNewsList li:last-child{
+    border: 0px;
 }
 
 
