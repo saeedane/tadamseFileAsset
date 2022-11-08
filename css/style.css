@@ -2454,6 +2454,10 @@ padding: 0px;
 
 /* single page  content of mobile   */
 
+.post-content .entry-content p, .post-content .entry-content .post--content, .post-content .entry-content h4, .post-content .entry-content h2{
+    font-size: 19px;
+}
+
 
 /* subtitle of mobile  */
 .subtitle {
