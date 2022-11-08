@@ -2288,7 +2288,9 @@ display: flex;
     font-size: 22px !important;
 }
 
-
+.footer-wrapper .footerWidgetColum .widget-category p{
+    width: 33%;
+}
 
 .footer-wrapper   .row{
     margin-right: 0px !important;
