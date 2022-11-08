@@ -1460,6 +1460,7 @@ overflow: hidden;
 
 .readAlsoBox .article__list li{
         flex: 0 0 30.3333%;
+        margin-bottom: 20px;
 
 }
 
