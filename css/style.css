@@ -2292,6 +2292,8 @@ display: flex;
 }
 .footer-wrapper .footerWidgetColum  h6,.footer-wrapper  .titleWidgetCat{
 padding-right: 20px;
+    text-align: right;
+
 }
 
 .footer-wrapper .footerWidgetColum .widget-category p{
