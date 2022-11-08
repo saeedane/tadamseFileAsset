@@ -1475,6 +1475,12 @@ overflow: hidden;
 
 
 /* custom comment style  */
+.comentsArea{
+    width: 70%;
+    float: right;
+    margin-bottom: 30px;
+}
+
 .comentForm{
         margin-top: 22px;
     padding: 15px;
