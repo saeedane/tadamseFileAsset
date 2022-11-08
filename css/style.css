@@ -2360,10 +2360,10 @@ font-weight: 700;
 }
 
 .menu_icons a{
-    padding-right: 0px;
+    padding-right: 10px !important;
 }
 .menu_icons .close_menu{
-    padding-left: 0px;
+    padding-left: 0px !important;
 }
 
 
