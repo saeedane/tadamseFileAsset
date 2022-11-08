@@ -1392,7 +1392,10 @@ padding-left: 10px;
 
 
 /* tags section  */
+.tags-block .nav {
+ padding-right: 1rem!important;
 
+}
 .tags-block .nav a{
     border: 1px solid#000000;
     color: black;
@@ -1403,7 +1406,6 @@ padding-left: 10px;
     margin-bottom: 10px;
     font-size: 19px;
             transition: .3s all ease-in-out;
-                padding-right: 1rem!important;
 
 
 
