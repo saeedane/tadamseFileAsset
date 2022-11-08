@@ -2192,7 +2192,17 @@ font-weight: 700;
 
 }
 
+/* footer widget category  */
+.footer-wrapper .footerWidgetColum  .widget-category{
+display: flex;
+    flex-wrap: wrap;
+}
+.footer-wrapper .footerWidgetColum  .widget-category p{
 
+
+    width: 45%;
+
+}
 
 
     .desktopNone {
