@@ -2334,16 +2334,10 @@ display: flex;
     transform: rotate(180deg);
 }
 .footerWidgetColum .textwidget {
-    max-height: 0;
-    overflow: hidden;
-    visibility: hidden;
-    opacity: 0;
-    -webkit-transition: .3s ease all;
-    -o-transition: .3s ease all;
-    transition: .3s ease all;
+  
+   
     text-align: right;
     padding-right: 20px;
-    font-family: sadan-toshiba;
 }
 
 .footerWidgetColum .textwidget a {
