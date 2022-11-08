@@ -2284,6 +2284,12 @@ display: flex;
     width: 50% !important;
 }
 
+
+/* FOOTER SECTION OF MOBILE  */
+.footer-wrapper{
+        background-position: unset;
+
+}
 .footer-wrapper .footerWidgetColum  h6,.footer-wrapper  .titleWidgetCat{
     font-size: 22px !important;
 }
