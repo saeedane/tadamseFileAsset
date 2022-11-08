@@ -1504,6 +1504,21 @@ overflow: hidden;
     margin-bottom: 30px;
 }
 
+.comentsArea h4 {
+    font-weight: 400;
+    font-size: 20px;
+    margin-bottom: 8px;
+}
+
+.comentsArea h5 {
+    color: #a5a5a5!important;
+    margin-bottom: 23px;
+}
+
+.comentsArea .depth-1 {
+    border-bottom: 1px solid #eaeaea;
+    margin-bottom: 25px;
+}
 .comentForm{
         margin-top: 22px;
     padding: 15px;
