@@ -2359,6 +2359,14 @@ font-weight: 700;
     display: none;
 }
 
+.menu_icons a:first-child{
+    padding-right: 0px;
+}
+.menu_icons a:last-child{
+    padding-left: 0px;
+}
+
+
 
 /* breaking news of mobile  */
 
