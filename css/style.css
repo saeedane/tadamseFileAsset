@@ -93,6 +93,10 @@ h1{
 }
 
 
+.container{
+    width: 1280px !important;
+}
+
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
     position: relative !important;
 }
