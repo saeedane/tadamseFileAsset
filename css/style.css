@@ -1504,6 +1504,10 @@ overflow: hidden;
     margin-bottom: 30px;
 }
 
+.comentsArea a{
+    color: #31b7bc;
+}
+
 .comentsArea h4 {
     font-weight: 400;
     font-size: 20px;
