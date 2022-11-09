@@ -693,7 +693,7 @@ display: flex;
 }
 
 .newsWithSidebar .newsCont .article-list .card__art .article__body{
-    min-height: 162px  !important;
+    min-height: 135px  !important;
 
 }
 
@@ -796,7 +796,7 @@ position: relative;
 .newsWithSidebar .newsCont .article-list .card__art a,.banarSectionHorizontal .article-list .card__art a,.banarSectionSquare .article-list .card__art a{
     color: black;
         display: block;
-            padding: 10px 20px;
+            padding: 10px 5px;
             margin-bottom: auto;
             position: relative;
 
