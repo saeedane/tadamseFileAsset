@@ -2414,7 +2414,8 @@ padding-right: 20px;
 
 .footerWidgetColum ul.social_links li a img{
         margin: 7px;
-
+    border: 2px solid#8d8d8d;
+    background: transparent;
 }
 
 /* header for mobile  */
