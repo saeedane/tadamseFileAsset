@@ -688,9 +688,15 @@ font-size: 24px;
 .banarSectionHorizontal  .article-list .card__art .article__body{
 display: flex;
     flex-direction: column;
-    min-height: 148px !important;
+    min-height: 148px ;
 
 }
+
+.newsWithSidebar .newsCont .article-list .card__art .article__body{
+    min-height: 162px  !important;
+
+}
+
 
 
  .card-small .article-list .card__art .article__body{
