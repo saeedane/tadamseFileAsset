@@ -2293,11 +2293,18 @@ display: flex;
 .footer-wrapper .footerWidgetColum  h6,.footer-wrapper  .titleWidgetCat{
 padding-right: 20px;
     text-align: right;
+        font-size: 25px;
+
 
 }
 
 .footer-wrapper .footerWidgetColum .widget-category p{
     width: 33%;
+}
+
+.footer-wrapper .footerWidgetColum .textwidget p a, .footer-wrapper .footerWidgetColum .textwidget p{
+        font-size: 16px;
+
 }
 
 .footer-wrapper   .row{
@@ -2328,6 +2335,8 @@ padding-right: 20px;
 .footerWidgetColum .textwidget a {
     color: #02aeae !important ;
 }
+
+
 
 
 .footerWidgetColum {
