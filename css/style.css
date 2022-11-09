@@ -664,10 +664,10 @@ font-size: 24px;
 
 }
 
-.newsWithSidebar .newsCont .article-list .card__art:nth-child(1) .article-date:before,
-.newsWithSidebar .newsCont .article-list .card__art:nth-child(2) .article-date:before ,
-.newsWithSidebar .newsCont .article-list .card__art:nth-child(3) .article-date:before,
-.newsWithSidebar .newsCont .article-list .card__art:nth-child(4) .article-date:before{
+.newsWithSidebar .newsCont .article-list .card__art:nth-child(1) .cat__link:before,
+.newsWithSidebar .newsCont .article-list .card__art:nth-child(2) .cat__link:before ,
+.newsWithSidebar .newsCont .article-list .card__art:nth-child(3) .cat__link:before,
+.newsWithSidebar .newsCont .article-list .card__art:nth-child(4) .cat__link:before{
     content: "";
     width: 14px;
     height: 3px;
