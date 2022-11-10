@@ -42,7 +42,7 @@ body.dark-mode .sidebar-column .widget_tadamsa_posts_list_latest,body.dark-mode 
 
 body.dark-mode  .newsWithSidebar .widgetColum .sidebarWidget h2,
 body.dark-mode  .readAlsoBox h2,body.dark-mode .comentForm .coment_title,
-body.dark-mode .rb-w-title.h4, body.dark-mode .sidebar-column .widget_tadamsa_posts_list_latest h2{
+body.dark-mode .rb-w-title.h4, body.dark-mode .sidebar-column .widget_tadamsa_posts_list_latest h2,body.dark-mode .content-archive .page-title{
     background-color: #000000;
 
 }
