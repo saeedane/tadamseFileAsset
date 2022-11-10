@@ -35,7 +35,7 @@ body.dark-mode .sidebarWidget ,body.dark-mode .widget-weather{
 
 }
 
-body.dark-mode  .newsWithSidebar .widgetColum .sidebarWidget h2{
+body.dark-mode  .newsWithSidebar .widgetColum .sidebarWidget h2,body.dark-mode .rb-w-title.h4, body.dark-mode .sidebar-column .widget_tadamsa_posts_list_latest h2{
     background-color: #000000;
 
 }
