@@ -1,0 +1,9 @@
+body.dark-mode {
+    background-color: #232323;
+    color: #fff;
+}
+
+/* header  */
+body.dark-mode .header-top{
+    background-color: #000000;
+}
