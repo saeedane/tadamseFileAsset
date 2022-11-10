@@ -109,3 +109,9 @@ body.dark-mode .newsWithSidebar .newsCont .article-list .card__art:nth-child(4){
         box-shadow: 0 9px 11px -8px #00000070;
 
 }
+
+/* single page darkmode  */
+body.dark-mode .single-page{
+        box-shadow: 1px 1px 10px #000000;
+
+}
