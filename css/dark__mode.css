@@ -123,5 +123,5 @@ body.dark-mode .heading__img,body.dark-mode .genPostMetaInfo{
 }
 
 body.dark-mode .genPostMetaInfo time, body.dark-mode .genPostMetaInfo span, body.dark-mode .genPostMetaInfo ul li a{
-    color: white;
+    color: white !important;
 }
