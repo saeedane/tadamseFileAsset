@@ -78,7 +78,8 @@ body.dark-mode .newsWithSidebar .newsCont .article-list .card__art .article-date
 }
 
 body.dark-mode .newsWithSidebar .newsCont .article-list .card__art .cat__link,body.dark-mode .newsWithSidebar .newsCont .article-list .card__art .article-date{
-        color: #6d6d6d!important;
+       filter: invert(1);
+
 
 }
 
