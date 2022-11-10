@@ -36,7 +36,7 @@ body.dark-mode .sidebarWidget ,body.dark-mode .widget-weather,body.dark-mode .si
 }
 
 body.dark-mode  .newsWithSidebar .widgetColum .sidebarWidget h2,
-body.dark-mode  .readAlsoBox h2,body.dark-mode .comentForm .coment_title
+body.dark-mode  .readAlsoBox h2,body.dark-mode .comentForm .coment_title,
 body.dark-mode .rb-w-title.h4, body.dark-mode .sidebar-column .widget_tadamsa_posts_list_latest h2{
     background-color: #000000;
 
