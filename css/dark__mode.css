@@ -127,7 +127,7 @@ body.dark-mode.post-content .entry-content h4,body.dark-mode .post-content .entr
 body.dark-mode .newsWithSidebar .newsCont .article-list .card__art:nth-child(1), 
 body.dark-mode .newsWithSidebar .newsCont .article-list .card__art:nth-child(2), 
 body.dark-mode .newsWithSidebar .newsCont .article-list .card__art:nth-child(3), 
-body.dark-mode .newsWithSidebar .newsCont .article-list .card__art:nth-child(4){
+body.dark-mode .newsWithSidebar .newsCont .article-list .card__art:nth-child(4),body.dark-mode .newsWithSidebar .article__hero{
         box-shadow: 0 9px 11px -8px #00000070;
 
 }
