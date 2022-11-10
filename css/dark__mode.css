@@ -115,3 +115,9 @@ body.dark-mode .single-page{
         box-shadow: 1px 1px 10px #000000;
 
 }
+
+body.dark-mode .heading__img{
+    color: white;
+        border-bottom: 1px solid#000000 !important;
+
+}
