@@ -48,7 +48,9 @@ body.dark-mode  .poll__submit .poll-btn{
 }
 
 
-body.dark-mode .radio-item label,body.dark-mode .readAlsoBox .article__list li .article__body .card-title,body.dark-mode .tags-block .nav a{
+body.dark-mode .radio-item label,
+body.dark-mode .readAlsoBox .article__list li .article__body .card-title,
+body.dark-mode .tags-block .nav a,body.dark-mode .content-area .mostInportNewsList p{
     color: white;
 
 }
