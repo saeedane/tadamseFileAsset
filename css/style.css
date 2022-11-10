@@ -2917,7 +2917,7 @@ color: #03cab8;
 .marquee-text-text{float:right!important;-webkit-animation-name:marquee-text-animation2!important;animation-name:marquee-text-animation2!important}
 
 
-@keyframes marquee-text-animation2{0%{transform:translateX(0)}to{transform:translateX(100%)}}7
+@keyframes marquee-text-animation2{0%{transform:translateX(0)}to{transform:translateX(100%)}}
 
     /* Make it pretty */
 
