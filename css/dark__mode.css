@@ -5,5 +5,5 @@ body.dark-mode {
 
 /* header  */
 body.dark-mode .header-top{
-    background-color: #000000;
+    background-color: #000000 !important;
 }
