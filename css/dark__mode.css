@@ -39,6 +39,10 @@ body.dark-mode  .poll__submit .poll-btn{
 
 }
 
+
+body.dark-mode .radio-item label{
+    color: white;
+}
 body.dark-mode .radio-item label:before{
         border: 2px solid #000000;
 
