@@ -2456,7 +2456,7 @@ padding-right: 20px;
 .newsConten{
         display: flex;
     height: 90px;
-    padding: 15px 35px;
+    padding: 15px 21px;
 flex-direction: row-reverse;
 }
 .newsConten .close_news {
