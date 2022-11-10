@@ -3,6 +3,10 @@ body.dark-mode {
     color: #fff;
 }
 
+body.dark-mode .article__date {
+    color: #a5a5a5;
+}
+
 /* header  */
 body.dark-mode .header-top{
     background-color: #000000 !important;
