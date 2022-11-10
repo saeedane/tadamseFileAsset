@@ -49,6 +49,10 @@ body.dark-mode .radio-item input[type=radio]:checked + label:after{
 
 }
 
+body.dark-mode .widgetSurveyContent p{
+    color: orange;
+}
+
 
 /* hero section  */
 body.dark-mode .newsWithSidebar .newsCont .article__hero .article__body .article__title,body.dark-mode .newsWithSidebar .newsCont .article-list .card__art .article__title{
