@@ -26,6 +26,12 @@ body.dark-mode .cat__link,body.dark-mode .sectionSlider .categoryContainer .swip
     color: white;
 }
 
+
+body.dark-mode .banarSectionSquare {
+        background: var(--gray-dark) !important;
+
+}
+
 /* header  */
 body.dark-mode .header-top{
     background-color: #000000 !important;
