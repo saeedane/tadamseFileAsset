@@ -88,7 +88,7 @@ body.dark-mode .newsWithSidebar .newsCont .article-list .card__art .cat__link{
   
 }
 body.dark-mode .newsWithSidebar .newsCont .article-list .card__art .article-date{
-       filter: invert(1);
+     color: #ffffff;
 
 
 }
