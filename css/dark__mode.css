@@ -91,12 +91,9 @@ body.dark-mode .newsWithSidebar .newsCont .article-list .card__art .article-date
 
 }
 
-body.dark-mode .newsWithSidebar .newsCont .article-list .card__art .cat__link{
-      color: #ffe497;
-  
-}
-body.dark-mode .newsWithSidebar .newsCont .article-list .card__art .article-date{
-     color: #ffffff;
+
+body.dark-mode .newsWithSidebar .newsCont .article-list .card__art .article-date,body.dark-mode .newsWithSidebar .newsCont .article-list .card__art .cat__link{
+     color: #6c757d;
 
 
 }
