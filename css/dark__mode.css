@@ -3,7 +3,7 @@ body.dark-mode {
     color: #fff;
 }
 
-body.dark-mode .article__date {
+body.dark-mode .article__date,body.dark-mode .archive_post_meta span, .archive_post_meta a {
     color: #a5a5a5;
 }
 
