@@ -3,6 +3,8 @@ body.dark-mode {
     color: #fff;
 }
 
+
+
 body.dark-mode .article__date,body.dark-mode .archive_post_meta span, .archive_post_meta a,body.dark-mode .sectionSlider .categoryContainer .swiper-wrapper .swiper-slide .card__art .article__body .article-date {
     color: #a5a5a5;
 }
@@ -30,6 +32,10 @@ body.dark-mode .cat__link,body.dark-mode .sectionSlider .categoryContainer .swip
 body.dark-mode .banarSectionSquare {
         background: var(--gray-dark) !important;
 
+}
+
+body.dark-mode .category-opinion .article-list .card__art p{
+ color: black !important;
 }
 
 /* header  */
