@@ -100,7 +100,7 @@ body.dark-mode .newsWithSidebar .newsCont .article-list .card__art .article-date
 
 body.dark-mode .newsWithSidebar .newsCont .article__hero .article__body p,body.dark-mode .post-content .entry-content p, 
 body.dark-mode .post-content .entry-content .post--content,
-body.dark-mode.post-content .entry-content h4,body.dark-mode .post-content .entry-content h2,{
+body.dark-mode.post-content .entry-content h4,body.dark-mode .post-content .entry-content h2{
     color: white;
 }
 
