@@ -50,7 +50,8 @@ body.dark-mode .radio-item input[type=radio]:checked + label:after{
 }
 
 body.dark-mode .widgetSurveyContent p,body.dark-mode .newsWithSidebar .widgetColum .sidebarWidget .nav-link{
-    color: white !important;
+       filter: invert(1);
+
 }
 
 
