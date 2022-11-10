@@ -96,12 +96,12 @@ body.dark-mode .newsWithSidebar .newsCont .article__hero .article__body .article
 }
 
 
-body.dark-mode .newsWithSidebar .newsCont .article-list .card__art p{
+body.dark-mode .newsWithSidebar .newsCont .article-list .card__art p,body.dark-mode .card-small .article-list .card__art .article-date{
         color: #767676;
 
 }
 
-body.dark-mode .newsWithSidebar .newsCont .article-list .card__art{
+body.dark-mode .newsWithSidebar .newsCont .article-list .card__art, body.dark-mode .card-small .article-list .card__art{
         border-bottom: 1px solid#000000;
 
 }
