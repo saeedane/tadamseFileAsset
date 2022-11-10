@@ -30,10 +30,6 @@ body.dark-mode .header-top{
 body.dark-mode .header-logo img {
     filter: grayscale(1);
 }
-
-
-
-
 body.dark-mode .menuNews .menuNewsCont .nav-link{
 color: white;
 }
@@ -135,6 +131,20 @@ body.dark-mode .newsWithSidebar .newsCont .article-list .card__art:nth-child(4){
         box-shadow: 0 9px 11px -8px #00000070;
 
 }
+
+body.dark-mode .newsWithSidebar .newsCont .article-list .card__art:nth-child(1) .article__title:before, 
+body.dark-mode .newsWithSidebar .newsCont .article-list .card__art:nth-child(2) .article__title:before,
+body.dark-mode .newsWithSidebar .newsCont .article-list .card__art:nth-child(3) .article__title:before, 
+body.dark-mode .newsWithSidebar .newsCont .article-list .card__art:nth-child(4) .article__title:before,.newsWithSidebar .newsCont .article__hero .listNewsCont .article__list .article__item a:before{
+        background: #797979;
+
+}
+
+body.dark-mode .newsWithSidebar .widgetColum .sidebarWidget .nav-link:before{
+    color: #797979;
+
+}
+
 
 /* single page darkmode  */
 body.dark-mode .single-page,body.dark-mode .readAlsoBox,body.dark-mode .comentForm,body.dark-mode .content-archive .site-main{
