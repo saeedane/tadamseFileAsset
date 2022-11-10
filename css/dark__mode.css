@@ -62,6 +62,6 @@ body.dark-mode .newsWithSidebar .newsCont .article-list .card__art p{
 }
 
 body.dark-mode .newsWithSidebar .newsCont .article-list .card__art{
-        border-bottom: 1px solid#e2e2e2;
+        border-bottom: 1px solid#000000;
 
 }
