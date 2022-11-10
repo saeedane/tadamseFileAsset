@@ -48,3 +48,9 @@ body.dark-mode .radio-item input[type=radio]:checked + label:after{
         background: #0a0b0c;
 
 }
+
+
+/* hero section  */
+body.dark-mode .newsWithSidebar .newsCont .article__hero .article__body .article__title{
+    color: white;
+}
