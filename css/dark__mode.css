@@ -7,3 +7,11 @@ body.dark-mode {
 body.dark-mode .header-top{
     background-color: #000000 !important;
 }
+
+body.dark-mode .header-logo img {
+    filter: grayscale(1);
+}
+
+body.dark-mode .menuNews .menuNewsCont .nav-link{
+color: white;
+}
