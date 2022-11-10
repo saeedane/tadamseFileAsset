@@ -7,6 +7,11 @@ body.dark-mode .article__date,body.dark-mode .archive_post_meta span, .archive_p
     color: #a5a5a5;
 }
 
+body.dark-mode .article__date img,body.dark-mode .archive_post_meta span img,body.dark-mode .genPostMetaInfo ul li img{
+        filter: invert(1);
+
+}
+
 /* header  */
 body.dark-mode .header-top{
     background-color: #000000 !important;
