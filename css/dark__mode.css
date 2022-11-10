@@ -127,8 +127,8 @@ body.dark-mode .single-page,body.dark-mode .readAlsoBox,body.dark-mode .comentFo
 
 }
 
-body.dark-mode  .entry-header .entry-title{
-    color: white;
+body.dark-mode  .entry-header .entry-title,body.dark-mode .content-archive .site-main .archive__title{
+    color: white !important;
 }
 
 body.dark-mode .heading__img,body.dark-mode .genPostMetaInfo{
