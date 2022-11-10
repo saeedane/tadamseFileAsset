@@ -87,3 +87,11 @@ body.dark-mode .newsWithSidebar .newsCont .article-list .card__art .cat__link,bo
 body.dark-mode .newsWithSidebar .newsCont .article__hero .article__body p{
     color: white;
 }
+
+body.dark-mode .newsWithSidebar .newsCont .article-list .card__art:nth-child(1), 
+body.dark-mode .newsWithSidebar .newsCont .article-list .card__art:nth-child(2), 
+body.dark-mode .newsWithSidebar .newsCont .article-list .card__art:nth-child(3), 
+body.dark-mode .newsWithSidebar .newsCont .article-list .card__art:nth-child(4){
+        box-shadow: 0 9px 11px -8px #00000070;
+
+}
