@@ -121,3 +121,7 @@ body.dark-mode .heading__img,body.dark-mode .genPostMetaInfo{
         border-bottom: 1px solid#000000 !important;
 
 }
+
+body.dark-mode .genPostMetaInfo time, body.dark-mode .genPostMetaInfo span, body.dark-mode .genPostMetaInfo ul li a{
+    color: white;
+}
