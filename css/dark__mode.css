@@ -149,3 +149,7 @@ body.dark-mode .content-area .mostInportNewsList li{
           border-bottom: 1px solid#000000 ;
   
 }
+
+body.dark-mode .content-area .mostInportNewsList li:last-child{
+    border-bottom: 0px;
+}
