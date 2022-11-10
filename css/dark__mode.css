@@ -24,6 +24,9 @@ body.dark-mode .menuNews .nav{
 
 }
 
+body.dark-mode .shart-contianer{
+background: #abb8c3 !important;
+}
 /* sidebar  */
 body.dark-mode .sidebarWidget {
   background-color: transparent !important;
