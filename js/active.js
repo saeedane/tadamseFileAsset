@@ -1,35 +1,24 @@
+ /**
+ * ----------------------------------------------
+ * Layout mode (dark or light)
+ * ----------------------------------------------
+ */
 
-var swiper = new Swiper(".infographicCont", {
-        slidesPerView: "auto",
-        spaceBetween: 30,
-        pagination: {
-          el: ".swiper-pagination",
-          clickable: true,
-        },
-            slidesPerView: 2,
-                breakpoints: { 320: { slidesPerView: 1, spaceBetween: 10 },   1200: { slidesPerView: 2} },
+// Delete cookie
+function deleteCookie(key, path, domain) {
+    document.cookie = key +
+        "=; expires=Thu, 01 Jan 1970 00:00:00 GMT" +
+        (domain ? "; domain=" + domain : "") +
+        (path ? "; path=" + path : "");
+}
 
-
-         navigation: {
-          nextEl: ".swiper-button-next",
-          prevEl: ".swiper-button-prev",
-        },
-      });
-
-
-
-var swiper = new Swiper(".categoryCont", {
-        slidesPerView: "auto",
-        spaceBetween: 30,
-        pagination: {
-          el: ".swiper-pagination",
-          clickable: true,
-        },
-            slidesPerView: 6,
-                breakpoints: { 320: { slidesPerView: 1, spaceBetween: 10 },   1200: { slidesPerView: 4} },
-
-
-      });
+// Set cookie
+function setCookie(name, value, expiry = 60 * 24 * 60 * 60 * 1000) {
+    let date = new Date();
+    date.setTime(date.getTime() + expiry);
+    let expires = "; expires=" + date.toUTCString();
+    document.cookie = name + '=' + value + expires + "; path=/";
+}
 
 jQuery(window).scroll(function() {
     var $height = jQuery(window).scrollTop();
@@ -79,7 +68,7 @@ jQuery(window).scroll(function() {
   });
 
 
-  
+
 
 /*
   var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
