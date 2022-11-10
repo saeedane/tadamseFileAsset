@@ -32,7 +32,7 @@ body.dark-mode .shart-contianer{
 background: #abb8c3 !important;
 }
 /* sidebar  */
-body.dark-mode .sidebarWidget ,body.dark-mode .content-area .mostInportNewsList li,body.dark-mode .widget-weather,body.dark-mode .sidebar-column .widget_tadamsa_posts_list_latest{
+body.dark-mode .sidebarWidget ,body.dark-mode .widget-weather,body.dark-mode .sidebar-column .widget_tadamsa_posts_list_latest{
   background-color: transparent !important;
   border: 1px solid#000000;
       box-shadow: none !important;
@@ -143,4 +143,9 @@ body.dark-mode .genPostMetaInfo time, body.dark-mode .genPostMetaInfo span, body
 body.dark-mode  .relatedPost .relatedTitle{
     background: #232323;
     color: #a5a5a5 !important;
+}
+
+body.dark-mode .content-area .mostInportNewsList li{
+          border-bottom: 1px solid#000000 ;
+  
 }
