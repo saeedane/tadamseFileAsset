@@ -22,6 +22,10 @@ body.dark-mode .menu_side .menu_content{
 
 }
 
+body.dark-mode .cat__link{
+    color: white;
+}
+
 /* header  */
 body.dark-mode .header-top{
     background-color: #000000 !important;
