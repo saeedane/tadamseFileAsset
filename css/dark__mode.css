@@ -76,3 +76,6 @@ body.dark-mode .newsWithSidebar .newsCont .article-list .card__art .cat__link,bo
 
 }
 
+body.dark-mode .newsWithSidebar .newsCont .article__hero .article__body p{
+    color: white;
+}
