@@ -15,3 +15,21 @@ body.dark-mode .header-logo img {
 body.dark-mode .menuNews .menuNewsCont .nav-link{
 color: white;
 }
+
+body.dark-mode .menuNews .nav{
+        border-bottom: 2px solid#000000;
+
+}
+
+/* sidebar  */
+body.dark-mode .sidebarWidget {
+  background-color: transparent !important;
+  border: 1px solid#000000;
+      box-shadow: none !important;
+
+}
+
+.newsWithSidebar .widgetColum .sidebarWidget h2{
+    background-color: #000000;
+
+}
