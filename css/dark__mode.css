@@ -131,3 +131,8 @@ body.dark-mode .heading__img,body.dark-mode .genPostMetaInfo{
 body.dark-mode .genPostMetaInfo time, body.dark-mode .genPostMetaInfo span, body.dark-mode .genPostMetaInfo ul li a{
     color: white !important;
 }
+
+body.dark-mode  .relatedPost .relatedTitle{
+    background: #232323;
+    color: #a5a5a5 !important;
+}
