@@ -56,3 +56,7 @@ body.dark-mode .newsWithSidebar .newsCont .article__hero .article__body .article
 }
 
 
+body.dark-mode .newsWithSidebar .newsCont .article-list .card__art p{
+        color: #767676;
+
+}
