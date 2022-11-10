@@ -116,7 +116,11 @@ body.dark-mode .single-page{
 
 }
 
-body.dark-mode .heading__img,body.dark-mode .genPostMetaInfo{
+body.dark-mode  .entry-header .entry-title{
+    color: white;
+}
+
+body.dark-mode .heading__img,body.dark-mode .genPostMetaInfo,{
     color: white;
         border-bottom: 1px solid#000000 !important;
 
