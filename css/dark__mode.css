@@ -138,7 +138,7 @@ body.dark-mode .heading__img,body.dark-mode .genPostMetaInfo{
 
 body.dark-mode .genPostMetaInfo time, body.dark-mode .forecast-day-5,
  body.dark-mode .rb-weather-wrap ,body.dark-mode .genPostMetaInfo span,
-  body.dark-mode .genPostMetaInfo ul li a,body.dark-mode .rb-w-header .col-right .rb-w-units{
+  body.dark-mode .genPostMetaInfo ul li a,body.dark-mode .rb-w-header .col-right .rb-w-units,body.dark-mode .logged-in-as{
     color: white !important;
 }
 
