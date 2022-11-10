@@ -12,6 +12,9 @@ body.dark-mode .header-logo img {
     filter: grayscale(1);
 }
 
+
+
+
 body.dark-mode .menuNews .menuNewsCont .nav-link{
 color: white;
 }
@@ -46,6 +49,8 @@ body.dark-mode .radio-item label{
 }
 body.dark-mode .radio-item label:before{
         border: 2px solid #ffffff;
+            background: #797979;
+
 
 }
 
