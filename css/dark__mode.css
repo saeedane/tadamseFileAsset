@@ -12,6 +12,16 @@ body.dark-mode .article__date img,body.dark-mode .archive_post_meta span img,bod
 
 }
 
+body.dark-mode .overDark {
+        background: rgb(0 0 0 / 66%);
+
+}
+
+body.dark-mode .menu_side .menu_content{
+        background-color: #000000;
+
+}
+
 /* header  */
 body.dark-mode .header-top{
     background-color: #000000 !important;
