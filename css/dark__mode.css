@@ -51,6 +51,8 @@ body.dark-mode .radio-item input[type=radio]:checked + label:after{
 
 
 /* hero section  */
-body.dark-mode .newsWithSidebar .newsCont .article__hero .article__body .article__title{
+body.dark-mode .newsWithSidebar .newsCont .article__hero .article__body .article__title,body.dark-mode .newsWithSidebar .newsCont .article-list .card__art .article__title{
     color: white;
 }
+
+
