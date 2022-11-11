@@ -2673,9 +2673,13 @@ padding: 0px;
 
     flex: 0 0 66.666667%;
     max-width: 66.666667%;
-    padding-right: 0.8rem;
     min-height: 0px !important;
 
+
+}
+
+.newsWithSidebar .newsCont .article-list .card__art .article__links{
+    padding: 0px;
 }
 
 
