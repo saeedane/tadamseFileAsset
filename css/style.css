@@ -1674,6 +1674,8 @@ overflow: hidden;
     color: white;
     display: block;
     margin-top: 13px;
+        margin-bottom: auto;
+
 }
 
 
@@ -1684,7 +1686,7 @@ display: none;
 .banarSectionVideo .article-list .card__art .article__body{
         display: flex;
     flex-direction: column;
-    min-height: 127px;
+    min-height: 122px;
 }
 
 .banarSectionVideo .article-list .card__art:first-child a{
