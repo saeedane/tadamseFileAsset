@@ -2592,6 +2592,8 @@ padding: 0px;
 
 .content-archive .newsBanar_Img>img{
     border-top-right-radius: 20px;
+        border-top-left-radius: 20px;
+
 }
 
 .content-archive .post-content.media{
