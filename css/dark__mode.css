@@ -30,7 +30,7 @@ body.dark-mode .menu_side .menu_content{
 }
 
 body.dark-mode .cat__link,body.dark-mode  .lab__count,body.dark-mode .banarSectionSquare .article-list .card__art a,body.dark-mode .banarSectionSquare .infographicContainer .infographicCont .swiper-slide .card__art a,body.dark-mode .sectionSlider .categoryContainer .swiper-wrapper .swiper-slide .card__art .article__body .cat-link{
-    color: white;
+    color: white !important;
 }
 
 
