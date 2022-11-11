@@ -69,7 +69,7 @@ body.dark-mode .header-top{
     background-color: #000000 !important;
 }
 
-body.dark-mode .header-logo img {
+body.dark-mode .header-logo img ,body.dark-mode .menu_icons a img{
     filter: grayscale(1);
 }
 body.dark-mode .menuNews .menuNewsCont .nav-link,body.dark-mode .sectionSlider .categoryContainer .swiper-wrapper .swiper-slide .card__art .article__body .article__title{
