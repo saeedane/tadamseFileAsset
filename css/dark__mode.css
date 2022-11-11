@@ -51,6 +51,13 @@ body.dark-mode .category-opinion .article-list .card__art{
 
 }
 
+body.dark-mode .main-header{
+        border-bottom: 1px
+px
+ solid#474747;
+
+}
+
 /* header  */
 body.dark-mode .header-top{
     background-color: #000000 !important;
