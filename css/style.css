@@ -2608,7 +2608,7 @@ padding: 0px;
 
 
 .content-archive .pagination{
-    padding-right: 0px;
+    padding-right: 0px !important;
 }  
 
 .archive_post_meta span, .archive_post_meta a{
