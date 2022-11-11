@@ -1677,6 +1677,10 @@ overflow: hidden;
 }
 
 
+.banarSectionVideo .article-list .card__art .article__info .cat__link {
+display: none;
+}
+
 .banarSectionVideo .article-list .card__art:first-child a{
         font-size: 24px;
 
