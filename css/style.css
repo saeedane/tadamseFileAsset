@@ -2728,6 +2728,10 @@ padding: 0px;
         font-size: 21px;
     }
 
+    .card__art{
+        padding: 15px;
+    }
+
 
 /* sidebar for mobile  */
 .newsWithSidebar .widgetColum .sidebarWidget img{
