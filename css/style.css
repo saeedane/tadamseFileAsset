@@ -1890,7 +1890,7 @@ h5{
     margin-top: 10px;
 }
 
-.category-opinion .article-list  .card__art  .opinion_link {
+.category-opinion .article-list  .card__art   {
         display: flex;
     flex-direction: column;
     height: 530px;
