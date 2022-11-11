@@ -2753,6 +2753,13 @@ padding: 0px;
     top: 8px;
 }
 
+.newsWithSidebar .newsCont .article-list .card__art a, 
+.banarSectionHorizontal .article-list .card__art a, 
+.banarSectionSquare .article-list .card__art a{
+    margin-left: 10px;
+}
+
+
 
 /* sidebar for mobile  */
 .newsWithSidebar .widgetColum .sidebarWidget img{
