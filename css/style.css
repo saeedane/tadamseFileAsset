@@ -827,6 +827,10 @@ position: relative;
     padding-left: 10px;
 }
 
+.banarSectionHorizontal .article-list .card__art .article-date:before{
+    margin-right: 0px !important;
+}
+
 .card-small .article-list .card__art .article-date:before{
         margin-right: -7px !important;
 
