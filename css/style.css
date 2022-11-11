@@ -2758,6 +2758,15 @@ padding: 0px;
 
 }
 
+.newsWithSidebar .newsCont .article-list .card__art:nth-child(1) .article__links, 
+.newsWithSidebar .newsCont .article-list .card__art:nth-child(2) .article__links, 
+.newsWithSidebar .newsCont .article-list .card__art:nth-child(3) .article__links, 
+.newsWithSidebar .newsCont .article-list .card__art:nth-child(4) .article__links{
+    padding-right: 0px;
+}
+
+
+
 .banarSectionHorizontal.style-1 .article-list .card__art a{
     padding-right: 15px;
 }
