@@ -119,3 +119,10 @@ if (isMobile) {
     return false;
     });
     
+     jQuery(".close_news").click(function () {
+        jQuery(this).parent(".newsConten").addClass("d-none");
+        setCookie('__close-breaking', 'NEWS');
+
+    });
+    
+  
