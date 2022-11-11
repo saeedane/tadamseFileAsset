@@ -817,7 +817,9 @@ position: relative;
  border-radius: 10px;
 }
 
-.newsWithSidebar .newsCont .article-list .card__art .article-date:before,.card-small .article-list .card__art .article-date:before{
+.newsWithSidebar .newsCont .article-list .card__art .article-date:before,
+.banarSectionHorizontal .article-list .card__art .article-date:before
+.card-small .article-list .card__art .article-date:before{
     content: '|';
     color: #bbc5ce;
     display: inline-block;
