@@ -825,6 +825,10 @@ position: relative;
     padding-left: 10px;
 }
 
+.card-small .article-list .card__art .article-date:before{
+        margin-right: -7px !important;
+
+}
 
 .newsWithSidebar .newsCont .article-list .card__art .cat__link{
     font-size: 15px;
