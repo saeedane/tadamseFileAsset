@@ -41,7 +41,10 @@ body.dark-mode .section-2-item {
 
 }
 
+body.dark-mode .category-opinion .article-list .card__art .opinion_link h4{
+        border-bottom: 4px dotted#fff;
 
+}
 body.dark-mode .category-opinion .article-list .card__art{
       background: black;
           box-shadow: 1px 1px 10px #000000;
