@@ -2735,6 +2735,15 @@ padding: 0px;
     padding: 0px;
 }
 
+.newsWithSidebar .newsCont .article-list .card__art:nth-child(1) .article__title:before,
+ .newsWithSidebar .newsCont .article-list .card__art:nth-child(2) .article__title:before, 
+ .newsWithSidebar .newsCont .article-list .card__art:nth-child(3) .article__title:before, 
+.newsWithSidebar .newsCont .article-list .card__art:nth-child(4) .article__title:before{
+        top: 6px;
+
+}
+
+
 .banarSectionHorizontal .article-list .card__art a:before{
     top: 8px;
 }
