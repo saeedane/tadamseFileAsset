@@ -795,7 +795,7 @@ border-top-right-radius: 20px ;
 .image-thumbnail {
 position: relative;
 }
-.banarSectionHorizontal .article-list .card__art a,.banarSectionSquare .article-list .card__art a{
+.newsWithSidebar .newsCont .article-list .card__art a .banarSectionHorizontal .article-list .card__art a,.banarSectionSquare .article-list .card__art a{
     color: black;
         display: block;
             padding: 10px 15px;
@@ -806,7 +806,7 @@ position: relative;
 
 }
 .newsWithSidebar .newsCont .article-list .card__art a{
-              padding: 10px 0px;
+             padding-left: 0px !important;
   
 }
 
