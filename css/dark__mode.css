@@ -64,6 +64,13 @@ body.dark-mode .category-opinion .article-list .card__art .auther-info{
 
 }
 
+body.dark-mode .newsWithSidebar .newsCont .article-list .card__art:nth-child(1) .article-date:before,
+body.dark-mode .newsWithSidebar .newsCont .article-list .card__art:nth-child(2) .article-date:before, 
+body.dark-mode .newsWithSidebar .newsCont .article-list .card__art:nth-child(3) .article-date:before,
+body.dark-mode .newsWithSidebar .newsCont .article-list .card__art:nth-child(4) .article-date:before{
+   background: #797979;
+}
+
 /* header  */
 body.dark-mode .header-top{
     background-color: #000000 !important;
