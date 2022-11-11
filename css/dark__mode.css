@@ -44,7 +44,7 @@ body.dark-mode .category-opinion .article-list .card__art p{
 }
 
 body.dark-mode .category-opinion .article-list .card__art{
-      background-color: black;
+      background: black;
           box-shadow: 1px 1px 10px #000000;
 
 
