@@ -686,7 +686,10 @@ font-size: 24px;
     border-radius: 100px;
 }
 
+.card-small .newsCont .article-list .card__art .article__info a  {
+    font-size: 17px;
 
+}
 
 
 .newsWithSidebar .newsCont .article-list .card__art .article__body,
