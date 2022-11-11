@@ -78,3 +78,44 @@ if (isMobile) {
 
 */
 
+                  let body = jQuery('body');
+
+     jQuery(".dropdown-item").click(function (e) {
+              jQuery('.dropdown-item').removeClass("active");
+              jQuery(this).addClass("active");
+
+
+              // Dark mode
+    if (body.hasClass('dark-mode')) {
+        body.removeClass('dark-mode');
+        
+        deleteCookie('__dark-mode', '/');
+    } else { // Light mode
+        body.addClass('dark-mode');
+
+        setCookie('__dark-mode', 'DARK');
+    }
+
+
+         e.stopImmediatePropagation();
+    return false;
+    });
+    
+    jQuery(".switch__dark").click(function (e) {
+    
+    
+              // Dark mode
+    if (body.hasClass('dark-mode')) {
+        body.removeClass('dark-mode');
+        
+        deleteCookie('__dark-mode', '/');
+    } else { // Light mode
+        body.addClass('dark-mode');
+
+        setCookie('__dark-mode', 'DARK');
+    }
+    
+    e.stopImmediatePropagation();
+    return false;
+    });
+    
