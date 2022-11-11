@@ -87,6 +87,10 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
     position: relative !important;
 }
 
+.article__info .cat__link{
+    font-size: 19px;
+}
+
 
 
 .dropdown-item.active, .dropdown-item:active {
