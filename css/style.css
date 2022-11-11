@@ -1690,8 +1690,8 @@ display: none;
 
 .banarSectionVideo .article-list .card__art p{
     color: #767676;
-    margin-top: 20px;
-        font-size: 16px;
+    font-size: 14px;
+    font-family: 'Rabar-normal';
         
 }
 
