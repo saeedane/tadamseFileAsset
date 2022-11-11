@@ -2735,6 +2735,11 @@ padding: 0px;
     padding: 0px;
 }
 
+.banarSectionHorizontal .article-list .card__art a:before{
+    top: 8px;
+}
+
+
 /* sidebar for mobile  */
 .newsWithSidebar .widgetColum .sidebarWidget img{
         width: 100%;
