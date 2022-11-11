@@ -818,7 +818,7 @@ position: relative;
 }
 
 .newsWithSidebar .newsCont .article-list .card__art .article-date:before,
-.banarSectionHorizontal .article-list .card__art .article-date:before
+.banarSectionHorizontal .article-list .card__art .article-date:before,
 .card-small .article-list .card__art .article-date:before{
     content: '|';
     color: #bbc5ce;
