@@ -73,10 +73,9 @@ body.dark-mode .banarSectionHorizontal .article-list .card__art a:before
    background: #797979;
 }
 
-body.dark-mode .newsWithSidebar .newsCont .article-list .card__art img,
-body.dark-mode .banarSectionHorizontal .article-list .card__art img,
-body.dark-mode .banarSectionVideo .article-list .card__art img,
-body.dark-mode .banarSectionSquare .article-list img{
+
+body.dark-mode .newsWithSidebar .newsCont .article-list .card__art img {
+      border-right: 8px solid #ffffff;
 
   }
 
