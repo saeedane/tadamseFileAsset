@@ -1869,6 +1869,9 @@ background-image: url('https://cdn.statically.io/gh/saeedane/tadamseFileAsset/a0
      overflow: hidden;
      border-bottom-right-radius: 100px;
      border-bottom-left-radius: 100px;
+             display: flex;
+    flex-direction: column;
+    height:600px;
 
 }
 .category-opinion .article-list  .card__art h4{
@@ -1890,11 +1893,6 @@ h5{
     margin-top: 10px;
 }
 
-.category-opinion .article-list  .card__art   {
-        display: flex;
-    flex-direction: column;
-    height: 530px;
-}
 
 
 
