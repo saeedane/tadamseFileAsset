@@ -2581,6 +2581,21 @@ padding: 0px;
     width: 100%;
 }
 
+
+/* archive of mobile  */
+.content-archive .archive_post_img{
+    width: 100%;
+}
+.content-archive .post-content.media{
+    display: unset;
+}
+
+.content-archive .post-wrapper .post-column{
+    border-top-right-radius: 20px !important;
+    border-bottom-left-radius: 20px !important;
+    border-bottom-right-radius: 20px !important;
+}
+
 /*
 * content section 
 **/
