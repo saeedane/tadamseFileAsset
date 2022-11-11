@@ -2606,6 +2606,11 @@ padding: 0px;
     border-bottom-right-radius: 20px !important;
 }
 
+
+.content-archive .pagination{
+    padding-right: 0px;
+}  
+
 /*
 * content section 
 **/
