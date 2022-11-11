@@ -29,7 +29,7 @@ body.dark-mode .cat__link,body.dark-mode .banarSectionSquare .infographicContain
 }
 
 
-body.dark-mode .banarSectionSquare {
+body.dark-mode .section-2-item {
         background: var(--gray-dark) !important;
 
 }
