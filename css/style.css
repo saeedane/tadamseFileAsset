@@ -2729,7 +2729,7 @@ padding: 0px;
     }
 
     .card__art{
-        padding: 15px;
+        padding: 15px 0px;
     }
 .newsWithSidebar .newsCont .article-list .card__art a, .banarSectionHorizontal .article-list .card__art a, .banarSectionSquare .article-list .card__art a{
     padding: 0px;
