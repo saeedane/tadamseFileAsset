@@ -2743,6 +2743,11 @@ padding: 0px;
 
 }
 
+.banarSectionHorizontal.style-1 .article-list .card__art a{
+    padding-right: 15px;
+}
+
+
 
 .banarSectionHorizontal .article-list .card__art a:before{
     top: 8px;
