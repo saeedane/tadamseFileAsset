@@ -170,11 +170,11 @@ body.dark-mode .newsWithSidebar .newsCont .article-list .card__art .article-date
 
 body.dark-mode .newsWithSidebar .newsCont .article__hero .article__body p,body.dark-mode .post-content .entry-content p, 
 body.dark-mode .post-content .entry-content .post--content,
-body.dark-mode .newsWithSidebar .newsCont .article-list .card__art a,body.dark-mode  .subtitle li
+body.dark-mode .newsWithSidebar .newsCont .article-list .card__art a,body.dark-mode .subtitle li,
 body.dark-mode .banarSectionHorizontal .article-list .card__art a,
 body.dark-mode .banarSectionSquare .article-list .card__art a
 body.dark-mode.post-content .entry-content h4,body.dark-mode .post-content .entry-content h2,body.dark-mode .card-small .article-list .card__art a{
-    color: white;
+    color: white !important;
 }
 
 body.dark-mode .newsWithSidebar .newsCont .article-list .card__art:nth-child(1), 
