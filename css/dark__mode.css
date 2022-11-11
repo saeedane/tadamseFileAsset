@@ -71,6 +71,14 @@ body.dark-mode .newsWithSidebar .newsCont .article-list .card__art:nth-child(4) 
    background: #797979;
 }
 
+.newsWithSidebar .newsCont .article-list .card__art img,
+ .banarSectionHorizontal .article-list .card__art img,
+ .banarSectionVideo .article-list .card__art img,
+  .banarSectionSquare .article-list img{
+        border-right: 8px solid #ffffff;
+
+  }
+
 /* header  */
 body.dark-mode .header-top{
     background-color: #000000 !important;
