@@ -2583,9 +2583,17 @@ padding: 0px;
 
 
 /* archive of mobile  */
+.content-archive .container {
+padding: 0px;
+}
 .content-archive .archive_post_img{
     width: 100%;
 }
+
+.content-archive .newsBanar_Img>img{
+    border-top-right-radius: 20px;
+}
+
 .content-archive .post-content.media{
     display: unset;
 }
