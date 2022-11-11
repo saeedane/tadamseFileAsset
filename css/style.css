@@ -2674,7 +2674,6 @@ padding: 0px;
     flex: 0 0 66.666667%;
     max-width: 66.666667%;
     min-height: 0px !important;
-    margin-left: 15px;
 
 
 }
@@ -2703,6 +2702,8 @@ padding: 0px;
     max-width: 33.333333%;
         display: flex;
             align-items: center;
+                margin-left: 15px;
+
 
 }
 
