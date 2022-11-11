@@ -1642,7 +1642,6 @@ overflow: hidden;
 
 .banarSectionHorizontal .article-list .card__art{
     width: calc(100% / 4 - 10px);
-    padding-bottom: 10px;
         border-bottom: 1px solid#e2e2e2;
 
 }
