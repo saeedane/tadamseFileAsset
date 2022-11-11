@@ -791,7 +791,7 @@ position: relative;
 .newsWithSidebar .newsCont .article-list .card__art a,.banarSectionHorizontal .article-list .card__art a,.banarSectionSquare .article-list .card__art a{
     color: black;
         display: block;
-            padding: 10px 5px;
+            padding: 10px 15px;
             margin-bottom: auto;
             position: relative;
 
