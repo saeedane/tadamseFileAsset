@@ -17,6 +17,11 @@ ul {
     margin: 0;
 }
 
+.btn-dark {
+    background-color: var(--wp--preset--color--black);
+    border-color: var(--wp--preset--color--black);
+}
+
 .radio-item input[type='radio'] {
   display: none;
 }
