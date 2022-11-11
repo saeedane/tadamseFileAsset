@@ -2611,6 +2611,10 @@ padding: 0px;
     padding-right: 0px;
 }  
 
+.archive_post_meta span, .archive_post_meta a{
+    font-size: 12px;
+}
+
 /*
 * content section 
 **/
