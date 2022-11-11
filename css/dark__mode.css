@@ -18,13 +18,18 @@ body.dark-mode .overDark {
         background: rgb(0 0 0 / 66%);
 
 }
+body.dark-mode  .list-group-item{
+    background-color:transparent ;
+}
+
+
 
 body.dark-mode .menu_side .menu_content{
     background-color: #232323;
 
 }
 
-body.dark-mode .cat__link,body.dark-mode .banarSectionSquare .article-list .card__art a,body.dark-mode .banarSectionSquare .infographicContainer .infographicCont .swiper-slide .card__art a,body.dark-mode .sectionSlider .categoryContainer .swiper-wrapper .swiper-slide .card__art .article__body .cat-link{
+body.dark-mode .cat__link,body.dark-mode  .lab__count,body.dark-mode .banarSectionSquare .article-list .card__art a,body.dark-mode .banarSectionSquare .infographicContainer .infographicCont .swiper-slide .card__art a,body.dark-mode .sectionSlider .categoryContainer .swiper-wrapper .swiper-slide .card__art .article__body .cat-link{
     color: white;
 }
 
