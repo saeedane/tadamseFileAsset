@@ -78,7 +78,7 @@ if (isMobile) {
 
 */
 
-                  let body = jQuery('body');
+ let body = jQuery('body');
 
      jQuery(".dropdown-item").click(function (e) {
               jQuery('.dropdown-item').removeClass("active");
