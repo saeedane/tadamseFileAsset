@@ -89,6 +89,8 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 
 .article__info .cat__link{
     font-size: 19px;
+        padding-right: 0px;
+    padding-bottom: 0;
 }
 
 .article__info .cat__link:before{
