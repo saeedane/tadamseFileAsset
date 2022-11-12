@@ -141,6 +141,13 @@ if (isMobile) {
         formData.append("username", username);
         formData.append("password", password);
 
+       ajax_request.onreadystatechange = function () {
+            if (this.status === 200 && this.readyState === 4) {
+
+            }
+
+        }
+
       
 
      ajax_request.open('POST', frontendajax.ajaxurl, true);
