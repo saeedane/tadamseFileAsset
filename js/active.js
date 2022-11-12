@@ -135,11 +135,14 @@ if (isMobile) {
         username =  jQuery('#userUsername').val(),
         password =    jQuery('#userPassword').val();
 
+
        var formData = new FormData();
         formData.append("action", "user_register");
         formData.append("email", email);
         formData.append("username", username);
         formData.append("password", password);
+
+
 
        ajax_request.onreadystatechange = function () {
             if (this.status === 200 && this.readyState === 4) {
@@ -148,14 +151,24 @@ if (isMobile) {
 
         }
 
-      
+      if(email == '' ){
+        alert('بريد التروني مطلوب ');
 
-     ajax_request.open('POST', frontendajax.ajaxurl, true);
-    ajax_request.send(formData);
+      }else if(password == ''){
+        alert(' الباسوورد مطلوب ');
+
+      }else if(username == ''){
+        alert('اسم مستخدم مطلوب ');
+
+      }else{
+           ajax_request.open('POST', frontendajax.ajaxurl, true);
+        ajax_request.send(formData);   
+      }
+
+   
     
       
-                    
-
+    
     e.stopImmediatePropagation();
     return false;
     
