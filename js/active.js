@@ -130,6 +130,6 @@ if (isMobile) {
 
         var data = jQuery(this).serialize();
 
-      console.log(data);
+          console.log(data);
     
     });  
