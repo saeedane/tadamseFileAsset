@@ -107,6 +107,10 @@ body.dark-mode .mobile_search form{
 }
 
 
+body.dark-mode  .menuNews .nav li.active .nav-link:before{
+    background: #797979;
+}
+
 
 /* sidebar  */
 body.dark-mode .sidebarWidget ,body.dark-mode .widget-weather,
