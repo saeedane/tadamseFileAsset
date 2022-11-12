@@ -125,7 +125,7 @@ if (isMobile) {
 
     });
 
-     jQuery(".saveData").click(function () {
+     jQuery("#saveData").click(function () {
 
       console.log('data wordpress');
     
