@@ -411,6 +411,10 @@ background: #03d9d9 !important;
   opacity: .5;
 }
 
+.switch__dark img:last-child{
+    opacity: 1;
+}
+
 
 /* width */
 .menu_content::-webkit-scrollbar {
