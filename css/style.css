@@ -2792,8 +2792,8 @@ padding: 0px;
 }
 
 .newsWithSidebar .newsCont .article-list .card__art .article__title, 
-.banarSectionHorizontal .article-list .card__art .article__title, 
-.banarSectionSquare .article-list .card__art .article__title{
+.banarSectionHorizontal .article-list .card__art a, 
+.banarSectionSquare .article-list .card__art a{
     margin-left: 10px;
 }
 
