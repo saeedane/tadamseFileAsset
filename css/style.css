@@ -1374,10 +1374,19 @@ padding-left: 10px;
     padding: 0px 20px;
 }
 
+
+
+
 .post-content .entry-content p,.post-content .entry-content .post--content,.post-content .entry-content h4,.post-content .entry-content h2{
     font-size: 21px;
     color: black;
     margin-bottom: 30px;
+}
+
+.post-content .entry-content p img{
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
 }
 
 
