@@ -407,6 +407,10 @@ background: #03d9d9 !important;
     border-top-left-radius: 0px;
 }
 
+.switch__dark img{
+  opacity: .5;
+}
+
 
 /* width */
 .menu_content::-webkit-scrollbar {
