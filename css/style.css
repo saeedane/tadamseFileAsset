@@ -411,7 +411,7 @@ background: #03d9d9 !important;
   opacity: .5;
 }
 
-.switch__dark img:last-child{
+.dark-mode .switch__dark img:first-child{
     opacity: 1;
 }
 
