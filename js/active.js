@@ -125,7 +125,7 @@ if (isMobile) {
 
     });
 
-     jQuery("#saveData").click(function () {
+     jQuery("#saveData").click(function (e) {
 
      
 
@@ -133,11 +133,20 @@ if (isMobile) {
         username =  jQuery('#userUsername').val(),
         password =    jQuery('#userPassword').val();
 
-           var formData = new FormData();
-        formData.append("email", "test1@test.com");
-        formData.append("email", "test2@test.com");
-        formData.get("email");
+       var formData = new FormData();
+        formData.append("action", "user_register");
+        formData.append("email", email);
+        formData.append("username", username);
+        formData.append("password", password);
 
-      console.log(password);
+        jQuery.post(ajaxurl, formData, function(response) {
+              if(response == 1) {
+                alert(response);
+              }
+
+        });  
+
+    e.stopImmediatePropagation();
+    return false;
     
     });  
