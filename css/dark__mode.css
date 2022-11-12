@@ -108,7 +108,7 @@ body.dark-mode .mobile_search form{
 
 
 body.dark-mode .menuNews .nav li.active .nav-link:before{
-    background: #797979;
+    background: #797979 !important;
 }
 
 
