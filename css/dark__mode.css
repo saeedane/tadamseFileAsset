@@ -99,6 +99,15 @@ body.dark-mode .menuNews .nav{
 body.dark-mode .shart-contianer{
 background: #abb8c3 !important;
 }
+
+body.dark-mode .mobile_search form{
+        border: 1px solid #494949;
+        background: transparent;
+
+}
+
+
+
 /* sidebar  */
 body.dark-mode .sidebarWidget ,body.dark-mode .widget-weather,
 body.dark-mode .sectionSlider .categoryContainer .swiper-wrapper .swiper-slide,
