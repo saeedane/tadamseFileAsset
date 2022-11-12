@@ -145,16 +145,21 @@ if (isMobile) {
 
 
     
-      if(email == '' ){
-        alert('بريد التروني مطلوب ');
+ 
 
-      }else if(password == ''){
-        alert(' الباسوورد مطلوب ');
+       if(username == ''){
+        alert('حقل اسم مستخدم مطلوب ');
 
-      }else if(username == ''){
-        alert('اسم مستخدم مطلوب ');
+      }else if(email == '' ){
+        alert('حقل البريد الالكتروني مطلوب');
 
-      }else{
+      } else if(password == ''){
+        alert('حقل كلمة سر مطلوبة ');
+
+      }
+
+
+      else{
            ajax_request.open('POST', frontendajax.ajaxurl, true);
         ajax_request.send(formData);   
       }
