@@ -916,9 +916,12 @@ position: relative;
 
 }
 .poll__submit  .poll-btn{
+        border-top-left-radius: 100px;
+    padding: 6px 15px;
+    background: #abb8c3;
     border: 0px;
-    padding: 4px 8px;
-    background: #b9b9b9;
+    border-bottom-left-radius: 100px;
+    border-top-right-radius: 100px;
 }
 
 
