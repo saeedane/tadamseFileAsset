@@ -407,6 +407,12 @@ background: #03d9d9 !important;
     border-top-left-radius: 0px;
 }
 
+.dark-mode .switch__dark {
+    background: transparent;
+        border: 1px solid #494949;
+
+
+}
 .switch__dark img{
   opacity: .5;
 }
