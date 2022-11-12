@@ -735,8 +735,7 @@ display: flex;
 }
 
 .newsWithSidebar .newsCont .article-list .card__art .article__links .cat__link{
-    font-weight: normal;
-        font-size: 19px;
+        font-size: 18px;
 
 }
 
