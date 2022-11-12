@@ -139,7 +139,7 @@ if (isMobile) {
         formData.append("username", username);
         formData.append("password", password);
 
-        jQuery.post(ajaxurl, formData, function(response) {
+        jQuery.post(frontendajax.ajaxurl, formData, function(response) {
               if(response == 1) {
                 alert(response);
               }
