@@ -1635,6 +1635,10 @@ overflow: hidden;
 }
 
 /**=== comment list ====**/
+
+.coment_title{
+    font-size: 25px;
+}
 .colent_list .header__comment {
     border-bottom: 1px solid#e5e5e5;
     margin-bottom: 20px;
@@ -1652,7 +1656,7 @@ overflow: hidden;
 }
 
 .colent_list .children .singleComent{
-        box-shadow: 1px 1px 10px #e5e5e5;
+    border-right: 1px solid#eaeaea;
     padding: 15px;
 
 }
