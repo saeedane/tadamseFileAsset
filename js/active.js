@@ -129,7 +129,7 @@ if (isMobile) {
 
      
 
-        let
+        
         let ajax_request = new XMLHttpRequest(),
          email = jQuery('#userEmail').val(),
         username =  jQuery('#userUsername').val(),
