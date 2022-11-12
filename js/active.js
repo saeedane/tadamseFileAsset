@@ -127,8 +127,17 @@ if (isMobile) {
 
      jQuery("#saveData").click(function () {
 
-        var data = jQuery('#formData').serialize().val();
+     
 
-      console.log(data);
+        let email = jQuery('userEmail').val(),
+        username =  jQuery('userUsername').val(),
+        password =    jQuery('userPassword');
+
+           var formData = new FormData();
+        formData.append("email", "test1@test.com");
+        formData.append("email", "test2@test.com");
+        formData.get("email");
+
+      console.log(password);
     
     });  
