@@ -128,7 +128,7 @@ if (isMobile) {
      jQuery("#formData").submit(function (e) {
         e.preventDefault();
 
-        var data = jQuery(this).serialize();
+        var data = jQuery(this).serialize().val();
 
           console.log(data);
     
