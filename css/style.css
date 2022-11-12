@@ -28,8 +28,7 @@ ul {
 
 .radio-item label {
     color: #000000;
-      font-family: 'sadan-toshiba';
-    font-size: 16px;
+    font-size: 17px;
 }
 
 .radio-item label:before {
@@ -917,7 +916,7 @@ position: relative;
 }
 .poll__submit  .poll-btn{
     padding: 5px 10px;
-    background: #abb8c3;
+    background: #002e5f;
     border: 0px;
 }
 
@@ -1736,8 +1735,8 @@ display: none;
 
 .banarSectionVideo .article-list .card__art p{
     color: #767676;
-    font-size: 14px;
-    font-family: 'Rabar-normal';
+    font-size: 19px;
+    font-family: 'Rabar-bold';
     margin-top: 13px;
         
 }
