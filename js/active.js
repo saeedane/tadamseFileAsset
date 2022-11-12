@@ -129,7 +129,9 @@ if (isMobile) {
 
      
 
-        let email = jQuery('#userEmail').val(),
+        let
+        let ajax_request = new XMLHttpRequest(),
+         email = jQuery('#userEmail').val(),
         username =  jQuery('#userUsername').val(),
         password =    jQuery('#userPassword').val();
 
@@ -139,12 +141,13 @@ if (isMobile) {
         formData.append("username", username);
         formData.append("password", password);
 
-        jQuery.post(frontendajax.ajaxurl, formData, function(response) {
-              if(response == 1) {
-                alert(response);
-              }
+      
 
-        });  
+     ajax_request.open('POST', frontendajax.ajaxurl, true);
+    ajax_request.send(formData);
+    
+      
+                    
 
     e.stopImmediatePropagation();
     return false;
