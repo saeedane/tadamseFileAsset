@@ -127,7 +127,8 @@ if (isMobile) {
 
      jQuery("#saveData").click(function () {
 
-      var formData = new FormData(jQuery('#formData').val());
-      console.log(formData);
+        var data = jQuery('#formData').serialize();
+        
+      console.log(data);
     
     });  
