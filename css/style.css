@@ -1930,6 +1930,8 @@ background-image: url('https://cdn.statically.io/gh/saeedane/tadamseFileAsset/a0
 
 .category-opinion .article-list .card__art a{
     padding: 0px;
+    margin-top: 10px;
+
 }
 
 .category-opinion .article-list  .card__art .auther-info
