@@ -144,13 +144,7 @@ if (isMobile) {
 
 
 
-       ajax_request.onreadystatechange = function () {
-            if (this.status === 200 && this.readyState === 4) {
-
-            }
-
-        }
-
+    
       if(email == '' ){
         alert('بريد التروني مطلوب ');
 
