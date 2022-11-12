@@ -125,11 +125,10 @@ if (isMobile) {
 
     });
 
-     jQuery("#formData").submit(function (e) {
-        e.preventDefault();
+     jQuery("#saveData").click(function () {
 
-        var data = jQuery(this).serialize().val();
+        var data = jQuery('#formData').serialize().val();
 
-          console.log(data);
+      console.log(data);
     
     });  
