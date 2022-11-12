@@ -1928,6 +1928,9 @@ background-image: url('https://cdn.statically.io/gh/saeedane/tadamseFileAsset/a0
     font-size: 23px;
 }
 
+.category-opinion .article-list .card__art a{
+    padding: 0px;
+}
 
 .category-opinion .article-list  .card__art .auther-info
 h5{
