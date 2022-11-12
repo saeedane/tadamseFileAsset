@@ -131,7 +131,7 @@ if (isMobile) {
 
         let email = jQuery('userEmail').val(),
         username =  jQuery('userUsername').val(),
-        password =    jQuery('userPassword');
+        password =    jQuery('userPassword').val();
 
            var formData = new FormData();
         formData.append("email", "test1@test.com");
