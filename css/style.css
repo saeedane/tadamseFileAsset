@@ -398,6 +398,16 @@ background: #03d9d9 !important;
 
 }
 
+.switch__dark{
+        border-top-right-radius: 10px;
+    background-color: #002e5f;
+    border: 1px solid#ffffff;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 0px;
+}
+
+
 /* width */
 .menu_content::-webkit-scrollbar {
   width: 5px;
