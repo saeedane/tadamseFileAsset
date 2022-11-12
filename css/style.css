@@ -2791,9 +2791,9 @@ padding: 0px;
     top: 8px;
 }
 
-.newsWithSidebar .newsCont .article-list .card__art a, 
-.banarSectionHorizontal .article-list .card__art a, 
-.banarSectionSquare .article-list .card__art a{
+.newsWithSidebar .newsCont .article-list .card__art .article__title, 
+.banarSectionHorizontal .article-list .card__art .article__title, 
+.banarSectionSquare .article-list .card__art .article__title{
     margin-left: 10px;
 }
 
