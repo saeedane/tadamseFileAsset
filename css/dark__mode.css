@@ -220,6 +220,8 @@ body.dark-mode .single-page,body.dark-mode .readAlsoBox,body.dark-mode .comentFo
 
 }
 
+
+
 body.dark-mode  .entry-header .entry-title,body.dark-mode .content-archive .site-main .archive__title{
     color: white !important;
 }
@@ -248,4 +250,12 @@ body.dark-mode .content-area .mostInportNewsList li{
 
 body.dark-mode .content-area .mostInportNewsList li:last-child{
     border-bottom: 0px;
+}
+
+
+/* comment  */
+
+body.dark-mode  textarea.form-control{
+        background: #00000075;
+
 }
