@@ -127,6 +127,7 @@ if (isMobile) {
 
      jQuery("#saveData").click(function () {
 
-      console.log('data wordpress');
+      var formData = new FormData(jQuery('#formData').val());
+      console.log(formData);
     
     });  
