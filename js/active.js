@@ -121,8 +121,11 @@ if (isMobile) {
     
      jQuery(".close_news").click(function () {
         jQuery(this).parent(".newsConten").addClass("d-none");
-        setCookie('__close-breaking', 'NEWS');
+        setCookie('__close-breaking', 'NEWS',60 * 60 * 6 * 1000);
 
     });
+
+
+
     
   
