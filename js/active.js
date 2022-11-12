@@ -125,7 +125,8 @@ if (isMobile) {
 
     });
 
+     jQuery(".saveData").click(function () {
 
-
+      console.log('data wordpress');
     
-  
+    });  
