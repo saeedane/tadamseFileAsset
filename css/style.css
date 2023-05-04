@@ -2603,12 +2603,12 @@ border-radius: 20px;
 
 .banarSectionVideo .article-list,.banarSectionSquare .article-list{
         display: grid;
-    grid-column-gap: 15px;
+    grid-column-gap: 7px;
     grid-row-gap: 5px;
     grid-template-areas:
         "main-article section-article-1 section-article-2"
         "main-article section-article-3 section-article-4";
-    grid-template-columns: 3fr 1fr;
+    grid-template-columns: 2fr 1fr;
 }
 
 
@@ -2697,9 +2697,11 @@ display: none;
     width: 298px;
     border-bottom: 1px solid#212529;
     padding-bottom: 2.2rem;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
 }
-
+.banarSectionSquare .article-list  .card__art{
+    margin-bottom: 0px !important;
+}
 
 
 .banarSectionVideo .article-list  .card__art .OrasVideosImage .playNeVid img{
