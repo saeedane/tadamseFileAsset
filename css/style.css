@@ -477,7 +477,10 @@ color: white;
 
     background: #31b7bc !important;
 
+}
 
+.menuNews .menuNewsCont  .nav-link.active:before{
+        background: #31b7bc !important;
 
 }
 
