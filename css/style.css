@@ -2715,6 +2715,11 @@ display: none;
 
 }
 
+.banarSectionVideo .article-list .card__art:first-child{
+    padding-left: 25px;
+}
+
+
 
 
 /* custom style banarSectionSquare  */
@@ -4109,6 +4114,8 @@ margin-top: 0px !important;
     display: block !important;
 }
 
+
+
 .banarSectionSquare .article-list .card__art .article__body{
     position: unset !important;
     background: transparent !important;
@@ -4169,9 +4176,6 @@ margin-top: 0px !important;
 
 }
 
-.banarSectionVideo .article-list .card__art:first-child{
-    padding-left: 25px;
-}
 
 
 .banarSectionSquare .article-list .card__art,
