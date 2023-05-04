@@ -143,8 +143,12 @@ body.dark-mode .category-opinion .article-list .card__art .auther-info{
 
 /* header  */
 body.dark-mode .header-top{
-    background-color: #000000 !important;
+    background-color: #232323 !important;
 }
+
+ body.dark-mode .header__main{
+    background-color: black;
+ }
 
 body.dark-mode .header-logo img ,body.dark-mode .menu_icons a img{
     filter: grayscale(1);
