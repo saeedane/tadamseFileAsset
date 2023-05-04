@@ -178,13 +178,24 @@ body.oveflow {
 }
 
 /* header section style  */
+.header-top .nav-link .nav-item{
+        background: #002e5f;
+        transition: .3s all ease-in-out;
+
+}
+
+
+
+.header-top .nav-link .nav-item:hover,.header-top .nav-link .nav-item .active{
+           background: #002e5f;
+ 
+}
 
 .header-top .nav-link {
-    padding: 0.1rem .5rem;
-    color: white;
-        font-family: tadamsa-normal;
-            font-size: 15px;
-
+padding: 0.1rem 0.5rem;
+    color: #31b7bc;
+    font-family: tadamsa-normal;
+    font-size: 13px;
 
 }
 
@@ -784,7 +795,7 @@ border: 0px !important;
 
 .newsWithSidebar .newsCont .article__hero .listNewsCont .article__list .article__item a{
     font-size: 12px;
-    color: #002e5f;
+    color: black;
     position: relative;
         padding: 2px 15px;
     border-bottom: 1px dotted rgba(0,0,0,.8);
