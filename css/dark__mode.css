@@ -147,7 +147,7 @@ body.dark-mode .header-top{
 }
 
  body.dark-mode .header__main{
-    background-color: black;
+    background-color: black !important;
  }
 
  body.dark-mode .header-top .nav-item:hover,  body.dark-mode .header-top .nav-item.active{
