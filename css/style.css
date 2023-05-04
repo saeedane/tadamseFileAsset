@@ -475,12 +475,12 @@ color: white;
 
 .menuNews .menuNewsCont  .nav-link:hover:before{
 
-    background: #31b7bc !important;
+    background: #31b7bc ;
 
 }
 
 .menuNews .menuNewsCont  .nav-link.active:before{
-        background: #31b7bc !important;
+        background: #31b7bc ;
 
 }
 
