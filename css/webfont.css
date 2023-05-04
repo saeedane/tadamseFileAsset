@@ -1,0 +1,49 @@
+
+@font-face {
+    font-family: 'sadan-toshiba';
+    src:url('../web-fonts/Kalligraaf_Arabic_Regular.woff')format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+ 
+}
+
+
+
+@font-face {
+    font-family: 'tadamsa-normal';
+    src:url('../web-fonts/Neue_Haas_Bloomberg_Regular.woff2')format('woff2');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+ 
+}
+
+
+@font-face {
+    font-family: 'tadamsa-bold';
+    src:url('../web-fonts/Neue_Haas_Bloomberg_Bold.woff2')format('woff2');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+ 
+}
+
+
+@font-face {
+    font-family: 'Rabar-normal';
+    src:url('../web-fonts/Rabar_043.woff')format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+ 
+}
+
+@font-face {
+    font-family: 'Rabar-bold';
+    src:url('../web-fonts/rabar.woff')format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+ 
+}

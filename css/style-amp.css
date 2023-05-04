@@ -1,0 +1,256 @@
+body{
+font-size: 16px;
+font-family: 'tadamsa-bold',sans-serif!important;
+
+}
+
+
+.vc-tadamsa-w1170{
+    max-width: 1170px;  
+}
+
+
+
+.tadamsa-vc-container{
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+/* header content */
+
+.app-header .header-content{
+    display: flex;
+align-items: center;
+}
+
+.app-header .header-content .header-logo {
+margin-left:auto;
+margin-right:auto;
+}
+
+/* sidebar menu amp */
+#sidebar {
+width: 270px;
+background-color: #FFFFFF;
+}
+button.open__side{
+background:transparent;
+border:0px;
+}
+#sidebar .nav-amp li {
+color: black;
+padding: 12px;
+margin: 10px;
+}
+
+#sidebar .nav-amp li a{
+color:black;
+text-decoration:none;
+}
+/* footer */
+footer{
+text-align: center;
+border-top: 1px solid#02d9d9;
+margin-top: 28px;
+
+
+}
+
+footer p{
+        font-family: tadamsa-normal;
+    font-size: 14px;
+}
+
+/*logo */
+#sidebar .amp__header{
+border-bottom: 1px dotted#000;
+text-align: center;
+}
+
+/**/
+ul{
+margin:0px;
+list-style:none;
+padding:0px;
+}
+.content-archive .site-main{
+box-shadow: 1px 1px 10px #e5e5e5;
+
+}
+
+.content-archive .page-title {
+    line-height: 1.1;
+    display: inline-block;
+    width: auto;
+    margin-bottom: 15px !important;
+    padding: 7px 20px;
+    padding-bottom: 10px !important;
+    color: #fff;
+    background-color: #002e5f;
+    border-bottom-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-top-left-radius: 100px;
+    font-size: 18px;
+    font-family: 'tadamsa-normal';
+    margin-right: 15px;
+}
+
+header.page-header {
+margin-top: 30px;
+background-image: linear-gradient(to right, #e71d2500, rgb(0 0 0 / 5%),#db1d2405);
+border-bottom: 1px dotted#000;
+}
+
+.content-archive .post-wrapper {
+display: flex;
+flex-wrap: wrap;
+margin: 30px 0px;
+}
+.content-archive .post-column{
+    flex: 0 0 30.3333%;
+margin-bottom: 20px;
+margin-right: auto;
+margin-left: auto;
+}
+
+
+.newsBanar_Img>amp-img {
+display: block;
+width: 100%;
+position: absolute;
+height: 100%;
+-o-object-fit: cover !important;
+object-fit: cover !important;
+-o-object-position: center;
+object-position: center;
+}
+.newsBanar_Img {
+display: block;
+position: relative;
+padding-bottom: 58%;
+height: 100%;
+}
+
+/* pagination nav amp */
+.content-archive ul.pagination {
+display: flex;
+justify-content: center;
+padding-bottom: 21px;
+
+}
+
+.content-archive ul.pagination a,ul.pagination  .current{
+    color: black;
+padding: 10px 15px;
+margin: 7px;
+border-top-right-radius: 10px;
+border-bottom-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border: 1px solid #dee2e6;
+    text-decoration: none;
+}
+
+.content-archive .archive-body{
+-webkit-box-flex: 1;
+-ms-flex-positive: 1;
+flex-grow: 1;
+padding: 15px 20px;
+display: -webkit-box;
+display: -ms-flexbox;
+display: flex;
+-webkit-box-orient: vertical;
+-webkit-box-direction: normal;
+-ms-flex-direction: column;
+flex-direction: column;
+min-height: 170px;
+}
+
+.content-archive .archive-body a {
+text-decoration: none;
+line-height: 2.2rem;
+margin-bottom: 13px;
+margin-bottom:auto;
+}
+
+.content-archive .archive-body .archive_post_meta{
+display:flex;
+    align-items: center;
+    border-top: 1px dotted #e2e2e2;
+
+padding:5px;
+
+} 
+
+.content-archive .archive-body .archive_post_meta li:first-child {
+margin-left:auto;
+}
+.archive_post_meta a{
+color:black ;
+text-decoration:none ;
+}
+.archive_post_meta span{
+
+    font-size: 13px;
+    font-family: 'tadamsa-normal';
+    display: flex;
+    align-items: center;
+
+}
+
+.content-archive .archive-body .archive_post_meta li img{
+width:15px;
+height:15px;
+margin-left: 7px;
+
+}
+
+@media only screen and (max-width: 768px) {
+.app-header .header-content{
+        flex-direction: row-reverse;
+
+}
+.app-header .header-content .header-logo {
+            margin-right: 0px;
+
+}
+
+
+.tadamsa-vc-container{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+
+.content-archive{
+    width:100%;
+}
+.content-archive .post-wrapper {
+display: block;
+}
+
+header.page-header{
+            margin-top:0px;
+
+}
+header.page-header
+.content-archive .page-title{
+    margin-right:18px;
+
+}
+
+.content-archive .post-column{
+        margin-left: 0px;
+
+}
+
+
+footer p{
+font-size: 11px;
+}
+
+}
+
+
