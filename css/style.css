@@ -180,9 +180,11 @@ body.oveflow {
 /* header section style  */
 
 .header-top .nav-link {
-    padding: 0.1rem .8rem;
+    padding: 0.1rem .5rem;
     color: white;
         font-family: tadamsa-normal;
+            font-size: 15px;
+
 
 }
 
@@ -359,7 +361,7 @@ color: white;
 
 
 .menuNews .nav{
-        border-bottom: 2px solid#001348;
+    border-bottom: 1px solid#31b7bc;
         padding-right: 0px;
 
 }
@@ -370,10 +372,9 @@ color: white;
 .menuNews .menuNewsCont .nav-link{
         color: #000000;
         position: relative;
-        font-size: 18px;
-        font-family: 'tadamsa-normal';
+        font-size: 15px;
         display: flex;
-        padding: 0.5rem 0.5rem;
+        padding: 0.5rem 0.4rem;
 
         
 }
