@@ -183,9 +183,12 @@ body.oveflow {
 
 }
 
+.header-top .nav-link .nav-item.active{
+               background: #002e5f;
 
+}
 
-.header-top .nav-link .nav-item:hover,.header-top .nav-link .nav-item.active{
+.header-top .nav-link .nav-item:hover,{
            background: #002e5f;
  
 }
