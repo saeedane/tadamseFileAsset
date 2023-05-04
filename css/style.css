@@ -188,10 +188,14 @@ body.oveflow {
            background: #002e5f;
  
 }
+.header-top .nav-item.active  .nav-link{
+        color: #31b7bc;
+
+}
 
 .header-top .nav-link {
 padding: 0.1rem 0.5rem;
-    color: #31b7bc;
+    color: white;
     font-family: tadamsa-normal;
     font-size: 13px;
 
