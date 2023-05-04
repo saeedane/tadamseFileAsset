@@ -3453,7 +3453,7 @@ padding-right: 20px;
     justify-content: right !important;
 }
 
-.header-wrapper .header-top .header-content .header-weather span,.header-wrapper .header-top .header-content .header-weather p{
+.header-wrapper  .header-content .header-weather span,.header-wrapper  .header-content .header-weather p{
 
 
     font-size: 14px !important;
