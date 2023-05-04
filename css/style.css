@@ -381,7 +381,6 @@ color: white;
 .menuNews .menuNewsCont .nav-link{
         color: #000000;
         position: relative;
-        font-size: 15px;
         display: flex;
         padding: 0.5rem 0.4rem;
 
@@ -427,7 +426,7 @@ color: white;
     color: #002e5f;
     text-align: right;
     font-family: tadamsa-normal;
-    font-size: 16px;
+    font-size: 15px;
     font-weight: 800;
 }
 
