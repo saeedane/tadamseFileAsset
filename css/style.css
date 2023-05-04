@@ -178,6 +178,15 @@ body.oveflow {
 }
 
 /* header section style  */
+
+.header-top .nav-link {
+    padding: 0.1rem .8rem;
+    color: white;
+        font-family: tadamsa-normal;
+
+}
+
+
 .app-header {
     position: sticky;
     top: 0;
@@ -189,7 +198,6 @@ body.oveflow {
     font-family: sadan-toshiba;
     color: white;
 }
-
 
 
 /*-----------------------------
@@ -754,7 +762,7 @@ border: 0px !important;
 
 
 .newsWithSidebar .newsCont .article__hero .article__body .article__title:first-child{
-    font-size: 24px;
+    font-size: 23px;
     color: #000;
     line-height: 2rem;
 
