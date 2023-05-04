@@ -468,8 +468,8 @@ color: white;
     background:transparent;
     position: absolute;
     bottom: -2px;
-    width: 60%;
-    height: 4px;
+    width: 70%;
+    height: 3px;
 }
 
 
@@ -2719,7 +2719,7 @@ display: none;
 }
 
 .banarSectionVideo .article-list .card__art:first-child{
-    padding-left: 25px;
+    padding-left: 20px;
 }
 
 
