@@ -393,14 +393,22 @@ color: white;
         color: #000000;
         position: relative;
         display: flex;
-        padding: 0.5rem 0.4rem;
+        padding: 0.5rem;
         font-size: 15px;
 
         
 }
 
+
+
 .menuNews .nav .dropdown-item.active, .dropdown-item:active{
     color: #0080ff !important;
+}
+
+.header-top .nav-link img{
+    width: 14px;
+    height: 14px;
+    filter: invert(1);
 }
 
 
