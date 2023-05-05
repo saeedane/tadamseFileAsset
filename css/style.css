@@ -394,6 +394,7 @@ color: white;
         position: relative;
         display: flex;
         padding: 0.5rem 0.4rem;
+        font-size: 15px;
 
         
 }
@@ -1627,9 +1628,10 @@ span.results-label {
 /* store on sidebar */
 
 .returnTaboun_wid {
-    padding: 22px 10px 22px;
+    padding: 10px;
     border-radius: 20px;
     box-shadow: 1px 1px 10px #e5e5e5;
+    padding-bottom: 0px;
 
 }
 .retureTabImg svg {
