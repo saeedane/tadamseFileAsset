@@ -200,10 +200,13 @@ padding: 0.1rem 0.5rem;
     font-size: 13px;
 
 }
+.header-top .header__social .nav-link {
+    padding: 0.1rem 0.4rem;
 
-.header-top .header__social .nav-link img{
-    width: 16px;
-    height: 16px;
+}
+.header-top .header__social .nav-link svg{
+    width: 15px;
+    height: 15px;
 
 }
 
