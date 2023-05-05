@@ -767,7 +767,7 @@ border: 0px !important;
 
 .newsWithSidebar .article__hero {
     box-shadow: 0 9px 9px -8px #001b6859;
-    padding-bottom: 16px;
+    padding-bottom: 10px;
     display: flex;
 
 }
@@ -1164,7 +1164,7 @@ border-top-right-radius: 20px ;
 .widgetColum .sidebarWidget .nav-link {
     color: black;
     padding: 0px !important;
-    min-height: 62px !important;
+    min-height: 69px !important;
 
  }
 
