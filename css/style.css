@@ -1187,7 +1187,7 @@ border-top-right-radius: 20px ;
 .widgetSurveyContent .poll__rspr {
     width: 70%;
     border: 1px solid#002e5f;
-    padding: 2px;
+    padding: 4px;
     border-radius: 10px;
 }
 
@@ -1211,7 +1211,7 @@ border-top-right-radius: 20px ;
     height: 100%;
     border-radius: 10px;
     background-color: #002e5f;
-    padding: 2px;
+    padding: 3px;
 
 
 }
