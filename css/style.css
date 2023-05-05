@@ -187,6 +187,7 @@ body.oveflow {
 }
 .header-top  .nav-item{
         transition: .3s all ease-in-out;
+        margin-left: 5px;
 
 }
 
