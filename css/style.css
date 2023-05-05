@@ -200,6 +200,16 @@ padding: 0.1rem 0.5rem;
     font-size: 13px;
 
 }
+
+
+.header-top .header__social .nav-item{
+        border-left: 1px solid#00356c;
+}
+.header-top .header__social .nav-item:first-child{
+        border-right: 1px solid#002e5f;
+
+}
+
 .header-top .header__social .nav-link {
     padding: 0.1rem 0.4rem;
 
