@@ -178,10 +178,19 @@ body.oveflow {
 }
 
 /* header section style  */
+
+.header-top {
+    background-color: #012750;
+    height: 36px;
+    align-items: center;
+    display: flex;
+}
 .header-top  .nav-item{
         transition: .3s all ease-in-out;
 
 }
+
+
 
 
 .header-top  .nav-item:hover,.header-top .nav-item.active{
@@ -417,6 +426,9 @@ color: white;
 .menuNews .nav .dropdown-item.active, .dropdown-item:active{
     color: #0080ff !important;
 }
+
+
+
 
 .header-top .header__links  .nav-link img{
     width: 14px;
