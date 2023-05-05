@@ -206,7 +206,7 @@ padding: 0.1rem 0.5rem;
         border-left: 1px solid#00356c;
 }
 .header-top .header__social .nav-item:first-child{
-        border-left: 1px solid#00356c;
+        border-right: 1px solid#00356c;
 
 }
 
