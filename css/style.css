@@ -214,6 +214,8 @@ padding: 0.1rem 0.5rem;
 
 .header-top .header__social .nav-item{
         border-left: 1px solid#00356c;
+            background: #002e5f;
+
 }
 .header-top .header__social .nav-item:first-child{
         border-right: 1px solid#00356c;
