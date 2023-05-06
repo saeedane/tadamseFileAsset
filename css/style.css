@@ -197,6 +197,13 @@ body.oveflow {
            background: #002e5f;
  
 }
+.header-top .header__links .nav-item:first-child{
+  
+    border-top: 1px solid#063f7c;
+    border-right: 1px solid#063f7c;
+    border-left: 1px solid#063f7c;
+    border-bottom: 1px solid#002e5f;  
+}
 
 
 .header-top .nav-item.active  .nav-link{
