@@ -201,7 +201,10 @@ body.oveflow {
 
 .header-top .nav-item.active  .nav-link{
         color: #31b7bc;
-
+    border-top: 1px solid#063f7c;
+    border-right: 1px solid#063f7c;
+    border-left: 1px solid#063f7c;
+    border-bottom: 1px solid#002e5f;
 }
 
 .header-top .nav-link {
@@ -242,6 +245,12 @@ padding: 0.1rem 0.5rem;
     width: 100%;
     z-index: 99;
 }
+.header__main{
+    background-color: #002E5F;
+    padding: 5px 10px;
+    border-top: 1px solid #063f7c;
+}
+
 .header-weather span,.header-weather p{
     font-family: sadan-toshiba;
     color: white;
