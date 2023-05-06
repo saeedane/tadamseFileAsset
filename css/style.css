@@ -2046,7 +2046,7 @@ font-family: 'tadamsa-normal';
     
 }
 .slide-top .header-slide .header__heading{
-    color: black;
+    color: black !important;
     font-size: 18px;
 
 
