@@ -193,11 +193,12 @@ body.oveflow {
 
 
 
-
-.header-top  .nav-item:hover,.header-top .nav-item.active{
+.header-top  .nav-item:hover,.header-top .nav-item.active,.header-top .header__links .nav-item:first-child{
            background: #002e5f;
  
 }
+
+
 .header-top .nav-item.active  .nav-link{
         color: #31b7bc;
 
@@ -2286,7 +2287,7 @@ opacity:1;visibility:visible;top:100%}
 /* related  */
 
 .relatedPost {
-    max-width: 518px;
+    max-width: 430px;
     margin: 50px auto 50px auto;
     padding-top: 10px;
     border-top: 1px #eee solid;
