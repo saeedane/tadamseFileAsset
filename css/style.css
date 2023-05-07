@@ -1159,7 +1159,7 @@ border-top-right-radius: 20px ;
     border-top-right-radius: 5px !important;
     border-bottom-left-radius: 20px !important;
     border-bottom-right-radius: 20px !important;
-        border: 1px solid black;
+    box-shadow: 1px 1px 10px #cfd3e2;
 
 }
 
