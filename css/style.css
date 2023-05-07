@@ -1280,7 +1280,7 @@ border-top-right-radius: 20px ;
     padding-top: 10px;
     
 }
-.poll-archive {
+.poll-archive .widgetSurveyContent .poll__layout{
     margin: 15px 0px;
 }
 
