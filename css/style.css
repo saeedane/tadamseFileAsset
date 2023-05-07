@@ -2137,6 +2137,12 @@ font-family: 'tadamsa-normal';
     padding: 0px !important;
 }
 
+.auther-box  .auther__desc{
+    font-family: 'tadamsa-normal';
+    border-top: 1px dotted black;
+    padding-top: 14px;
+}
+
 /* meta box info   */
 
 .border-bottom{
