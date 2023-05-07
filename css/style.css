@@ -1278,10 +1278,11 @@ border-top-right-radius: 20px ;
     align-items: center;
     border-top: 1px solid#ebebeb;
     padding-top: 10px;
-    margin: 20px 0px;
     
 }
-
+.poll-archive {
+    margin: 15px 0px;
+}
 
 
 .poll__submit  .poll-btn{
