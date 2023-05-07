@@ -3964,13 +3964,11 @@ margin-top: 0px !important;
 .newsCont,.article-list {
     display: block !important;
 }
-.article-list .card__art .article__info,.newsWithSidebar .newsCont .article-list .card__art:nth-child(1) .article__info, 
-.newsWithSidebar .newsCont .article-list .card__art:nth-child(2) .article__info, 
-.newsWithSidebar .newsCont .article-list .card__art:nth-child(3) .article__info, 
-.newsWithSidebar .newsCont .article-list .card__art:nth-child(4) .article__info{
+.newsWithSidebar .newsCont .article-list .hero_no_image .article__info {
     position: inherit !important;
-
 }
+
+
 .banarSectionHorizontal .article-list .card__art  .article__info,.newsWithSidebar .newsCont .article-list .card__art .article__info{
     position: absolute !important ;
     right: 37% !important;
