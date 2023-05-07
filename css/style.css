@@ -182,13 +182,18 @@ body.oveflow {
 .header-top {
     background-color: #012750;
     height: 38px;
-    overflow-y: hidden;
     white-space: nowrap;
     flex-wrap: nowrap;
     padding: 6px 0px;
     align-items: center;
     display: flex;
 }
+
+.is_scroll{
+   overflow-y: hidden;
+
+}
+
 
 .header-top .header__links .nav, .header-top  .header__social .nav{
         flex-wrap: inherit;
@@ -2141,7 +2146,6 @@ font-family: 'tadamsa-normal';
 .auther-box .auther__name{
         font-size: 18px;
         margin-bottom: 5px;
-
 }
 
 .auther-box .auther__count{
