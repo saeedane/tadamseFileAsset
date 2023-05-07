@@ -1156,9 +1156,11 @@ border-top-right-radius: 20px ;
 
  .widgetColum .sidebarWidget{
     margin-bottom: 20px;
-    border-top-right-radius: 20px !important;
+    border-top-right-radius: 5px !important;
     border-bottom-left-radius: 20px !important;
     border-bottom-right-radius: 20px !important;
+        border: 1px solid#012750;
+
 }
 
  .widgetColum .sidebarWidget .card__art{
@@ -1684,8 +1686,9 @@ span.results-label {
 .returnTaboun_wid {
     padding: 10px;
     border-radius: 20px;
-    box-shadow: 1px 1px 10px #e5e5e5;
+    border: 1px solid#8a3ab9;
     padding-bottom: 0px;
+
 
 }
 .retureTabImg svg {
