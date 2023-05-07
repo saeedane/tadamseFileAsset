@@ -907,7 +907,7 @@ border: 0px !important;
 
 .newsWithSidebar .newsCont .article-list .hero_no_image{
 
-    width: calc(100% / 4 - 12px);
+    width: calc(100% / 4 - 12px) !important;
     box-shadow: 0 9px 9px -8px #001b6859;
         border: 0px !important;
         position: relative;
