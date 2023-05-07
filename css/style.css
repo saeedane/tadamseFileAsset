@@ -460,6 +460,8 @@ color: white;
 .header-top .header__links  .nav-link svg{
         width: 14px;
     height: 14px;
+        fill: white;
+
 }
 .menuNews .nav .dropdown-menu .dropdown-item{
     padding: 0.1rem 0.8rem;
