@@ -182,8 +182,17 @@ body.oveflow {
 .header-top {
     background-color: #012750;
     height: 38px;
+    overflow: auto;
+    white-space: nowrap;
+    flex-wrap: nowrap;
+    padding: 6px 0px;
     align-items: center;
     display: flex;
+}
+
+.header-top .header__links .nav, .header-top  .header__social .nav{
+        flex-wrap: inherit;
+
 }
 .header-top  .nav-item{
         transition: .3s all ease-in-out;
