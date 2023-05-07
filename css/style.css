@@ -457,7 +457,10 @@ color: white;
     filter: invert(1);
 }
 
-
+.header-top .header__links  .nav-link svg{
+        width: 14px;
+    height: 14px;
+}
 .menuNews .nav .dropdown-menu .dropdown-item{
     padding: 0.1rem 0.8rem;
     
@@ -1666,7 +1669,7 @@ span.results-label {
 }
 .sidebar-column .mostReadedSide:last-child,.sidebar-column .aside-auther{
     position: sticky !important;
-    top: 123px;
+    top: 148px;
 }
 
 .sidebar-column .widget_tadamsa_posts_list_latest{
@@ -2142,6 +2145,9 @@ font-family: 'tadamsa-normal';
     border-top: 1px dotted black;
     padding-top: 14px;
 }
+
+
+/* auther related post 
 
 /* meta box info   */
 
@@ -3004,6 +3010,8 @@ p{
 .category-opinion .article-list  .card__art .auther-info{
     border-top: 1px solid#002e5f;
 }
+
+
 
 
 
