@@ -1687,7 +1687,10 @@ span.results-label {
     padding: 12px;
     border: 1px solid#8a3ab9;
     padding-bottom: 0px;
-
+    border-top-right-radius: 20px !important;
+    border-bottom-left-radius: 20px !important;
+    border-bottom-right-radius: 20px !important;
+}
 
 }
 .retureTabImg svg {
