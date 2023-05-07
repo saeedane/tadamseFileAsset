@@ -2110,11 +2110,12 @@ font-family: 'tadamsa-normal';
 
 .auther-box .auther__avater {
     position: absolute;
-    left: 40%;
+    left: 8%;
     top: -20px;
     border-radius: 50%;
     border-top-left-radius: 0px;
     border: 1px solid#31b7bc;
+
 
 }
 
@@ -2124,9 +2125,8 @@ font-family: 'tadamsa-normal';
 
 }
 .auther-box .auther__name{
-    border-bottom: 1px dotted#002e5f;
-    margin-top: 70px !important;
-    padding-bottom: 20px;
+        font-size: 18px;
+
 }
 
 .auther-box .auther__count{
