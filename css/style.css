@@ -3942,14 +3942,6 @@ padding: 0px;
 
 /* sharelinks   of mobile */
 
-	
-ul.shareLInks{
-    visibility:visible !important;
-    opacity:1 !important;
-     padding-top: 5px !important;
-
-}
-
 
 .singleShareIcons .shareLInks li img{
     width: 16px !important;
