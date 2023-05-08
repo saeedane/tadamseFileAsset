@@ -2348,6 +2348,7 @@ font-family: 'tadamsa-normal';
 /* share button */
 
 
+
 ul.shareLInks {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -3951,13 +3952,23 @@ padding: 0px;
 ul.shareLInks{
     visibility:visible !important;
     opacity:1 !important;
-     padding-top: 5px !important;
-
+    position: fixed;
+    top: 25%;
+    display: block;
 }
 
 
+
+.singleShareIcons .shareLInks li{
+    width: 33px;
+    text-align: center;
+    background: #e5e5e5;
+
+}
+
 .singleShareIcons .shareLInks li img{
     width: 16px !important;
+    margin: 0px;
 
 }
 
