@@ -3942,7 +3942,7 @@ padding: 0px;
 
 /* sharelinks   of mobile */
 .genPostMetaInfo{
-    align-items: flex-end;
+    align-items: flex-end !important;
 
 }
 
