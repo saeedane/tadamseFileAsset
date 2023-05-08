@@ -3941,7 +3941,14 @@ padding: 0px;
 }
 
 /* sharelinks   of mobile */
+.genPostMetaInfo{
+    align-items: flex-end;
 
+}
+
+.singleShareIcons .icon__share{
+    width: 22px;
+}
 
 .singleShareIcons .shareLInks li img{
     width: 16px !important;
