@@ -508,7 +508,7 @@ color: white;
 
 .menuNews .nav .dropdown-menu .dropdown-item{
     background-color: #e5f2ff;
-    color: #002e5f;
+    color: #002e5f !important;
     text-align: right;
     font-family: tadamsa-normal;
     font-size: 15px;
