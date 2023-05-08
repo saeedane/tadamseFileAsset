@@ -166,12 +166,8 @@ body.dark-mode .header-top{
 }
 
  body.dark-mode .header-top .nav-item.active .nav-link{
-        color: #31b7bc;
-       border-top: 1px
- solid#343a40;
-    border-right: 1px solid#343a40;
-    border-left: 1px solid#343a40;
-    border-bottom: 1px solid#000000;
+    border: 0;
+
 }
 
  body.dark-mode .header-top .header__social .nav-item:first-child {
