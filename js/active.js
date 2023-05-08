@@ -170,7 +170,7 @@ jQuery(window).scroll(function() {
 
     } else {
         jQuery(".slide-top").removeClass("active");
-        jQuery(".singleShareIcons").addClass("d-block");
+        jQuery(".singleShareIcons").removeClass("d-none");
 
     }
 
