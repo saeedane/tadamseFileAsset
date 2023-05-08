@@ -31,6 +31,13 @@ body.dark-mode .article__date img,body.dark-mode .archive_post_meta span img,bod
 
 }
 
+body.dark-mode .genPostMetaInfo ul li .avatar{
+    filter: inherit;
+        box-shadow: 1px 1px 10px #000000;
+
+}
+
+
 body.dark-mode .overDark {
         background: rgb(0 0 0 / 66%);
 
