@@ -264,6 +264,7 @@ padding: 0.1rem 0.5rem;
 
 
 
+
 .app-header {
     position: sticky;
     top: 0;
@@ -276,9 +277,11 @@ padding: 0.1rem 0.5rem;
     padding: 5px 10px;
     border-top: 1px solid #063f7c;
 }
-
-.header-weather span,.header-weather p{
-    font-family: sadan-toshiba;
+.header-weather span{
+    color: white;
+}
+.header-weather p{
+    font-family: tadamsa-normal;
     color: white;
 }
 
@@ -3728,8 +3731,6 @@ padding-right: 20px;
 }
 
 .header-wrapper  .header-content .header-weather span,.header-wrapper  .header-content .header-weather p{
-
-
     font-size: 14px !important;
 }
 
