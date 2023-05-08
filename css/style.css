@@ -3945,6 +3945,9 @@ padding: 0px;
 
 .singleShareIcons{
     left: 0;
+    position: fixed;
+        top: 76%;
+
 
 }
 
@@ -3952,8 +3955,6 @@ padding: 0px;
 ul.shareLInks{
     visibility:visible !important;
     opacity:1 !important;
-    position: fixed;
-    top: 25%;
     display: block;
 }
 
