@@ -1614,10 +1614,9 @@ border-radius: 5px;
 span.ruby-degrees {
 position: relative;
 height: 100%;
-padding-right: 13px;
 }
 
-.rb-w-header .col-right .rb-w-units ,.rb-header-name.h6,.rb-w-desc{
+.rb-w-desc{
     font-family: 'tadamsa-normal';
 
 }
@@ -1627,6 +1626,7 @@ font-size: 4rem;
 font-weight: 700;
 line-height: 1;
 font-size: xxx-large;
+    font-family: math;
 
 }
 .rb-header-name.h6 {
