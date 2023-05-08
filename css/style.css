@@ -2310,7 +2310,7 @@ font-family: 'tadamsa-normal';
 }
 .genPostMetaInfo{
         border-bottom: 1px solid#eee;
-        margin-bottom: 20px;
+        margin-bottom: 10px;
 
 }
 .genPostMetaInfo time,.genPostMetaInfo span ,.genPostMetaInfo ul li a{
@@ -3942,6 +3942,11 @@ padding: 0px;
 
 /* sharelinks   of mobile */
 
+.singleShareIcons{
+    left: 0;
+
+}
+
 	
 ul.shareLInks{
     visibility:visible !important;
@@ -3955,6 +3960,9 @@ ul.shareLInks{
     width: 16px !important;
 
 }
+
+
+
 
 /* red also of mobile */
 
