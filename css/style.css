@@ -3963,9 +3963,23 @@ ul.shareLInks{
 .singleShareIcons .shareLInks li{
     width: 33px;
     text-align: center;
-    background: #e5e5e5;
 
 }
+
+.singleShareIcons .shareLInks li:nth-child(1) {
+    background: rgb(0 123 255 / 25%);
+}
+.singleShareIcons .shareLInks li:nth-child(2) {
+    background: #1878f282;
+}
+
+.singleShareIcons .shareLInks li:nth-child(3) {
+    background: #665cac6b;
+}
+.singleShareIcons .shareLInks li:nth-child(4) {
+    background: #0077b782;
+}
+
 
 .singleShareIcons .shareLInks li img{
     width: 16px !important;
