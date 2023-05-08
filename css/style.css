@@ -3140,13 +3140,12 @@ color: black;
  
 }
 .banarSectionSquare .infographicContainer .infographicCont .swiper-slide .card__art .article__body{
-    padding: 10px 0px;
+    padding: 13px;
     position: absolute;
     bottom: 0px;
     background: #002e5fd4;
     width: 100%;
-    padding-right: 15px;
-    /*background: linear-gradient(to bottom, rgb(125 0 0 / 0%) 0%, #03d9d694 49%, #02d8d8 100%);*/
+    padding-top: 15px;
     right: 0px;
     left: 0px;
     border-bottom-left-radius: 20px !important;
