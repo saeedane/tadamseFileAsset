@@ -2334,6 +2334,14 @@ font-family: 'tadamsa-normal';
 
 }
 
+.genPostMetaInfo ul li .avatar{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+        border-radius: 50%;
+
+}
+
 
 /* share button */
 
