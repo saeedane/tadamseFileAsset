@@ -170,6 +170,10 @@ body.dark-mode .header-top{
 
 }
 
+ body.dark-mode.header-top .nav-item:hover,  body.dark-mode.header-top .nav-item.active{
+    border-color: #343a40;
+}
+
  body.dark-mode .header-top .header__social .nav-item:first-child {
     border-color:#343a40;
 }
