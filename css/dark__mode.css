@@ -154,6 +154,7 @@ body.dark-mode .header-top{
 
  body.dark-mode .header-top .nav-item:hover,  body.dark-mode .header-top .nav-item.active{
     background: #000000;
+    border-color: #343a40;
  }
 
  body.dark-mode .header-top .header__links .nav-item:first-child{
@@ -170,9 +171,7 @@ body.dark-mode .header-top{
 
 }
 
- body.dark-mode.header-top .nav-item:hover,  body.dark-mode .header-top .nav-item.active{
-    border-color: #343a40 !important;
-}
+
 
  body.dark-mode .header-top .header__social .nav-item:first-child {
     border-color:#343a40;
