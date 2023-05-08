@@ -163,10 +163,15 @@ if (isMobile) {
 jQuery(window).scroll(function() {
     var jQueryheight = jQuery(window).scrollTop();
   if(jQueryheight > 2300) {
-        console.log("show");
+
         jQuery(".slide-top").addClass("active");
+        jQuery(".singleShareIcons").addClass("d-none");
+
+
     } else {
         jQuery(".slide-top").removeClass("active");
+        jQuery(".singleShareIcons").addClass("d-block");
+
     }
 
 
