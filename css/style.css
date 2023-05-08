@@ -3966,6 +3966,7 @@ ul.shareLInks{
     text-align: center;
     height: 40px;
     line-height: 36px;
+        z-index: 1;
 
 }
 
