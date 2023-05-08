@@ -3956,6 +3956,7 @@ ul.shareLInks{
     visibility:visible !important;
     opacity:1 !important;
     display: block;
+    padding:0px;
 }
 
 
