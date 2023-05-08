@@ -1,7 +1,4 @@
 /*Global CSS Start*/
-
-
-
 body{
     color: black;
     text-align: right;
@@ -283,6 +280,14 @@ padding: 0.1rem 0.5rem;
     font-family: sadan-toshiba;
     color: white;
 }
+
+
+/* tradingview */
+.tradingview-widget-container{
+      background-image: linear-gradient(to right, #e71d2500, rgb(0 0 0 / 8%),#db1d2405);
+    background-color: transparent !important;
+    border-top: 0px;
+    border-bottom: 1px solid#000;}
 
 
 /*-----------------------------
@@ -849,6 +854,122 @@ border: 0px !important;
     display: flex;
 
 }
+
+
+
+
+.newsWithSidebar .newsCont .article-list{
+    gap:16px;
+}
+
+.dropdown:hover>.dropdown-menu {
+  display: block;
+}
+ul.shareLInks {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-line-pack: end;
+    align-content: end;
+    position: absolute;
+    top: 140%;
+    left: 0;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    padding-top: 15px;
+    -webkit-transition: 0.3s ease all;
+    -o-transition: 0.3s ease all;
+    transition: 0.3s ease all;
+    opacity: 0;
+    visibility: hidden;
+}
+
+.genPostMetaInfo{
+    position:relative;
+}
+
+.singleShareIcons {
+    display: block;
+    position: absolute;
+    left: 15px;
+    cursor: pointer;
+}
+
+
+.singleShareIcons:hover ul.shareLInks{
+opacity:1;visibility:visible;top:100%}
+img[data-src] {
+  opacity: 0;
+  transition: opacity .25s ease-in-out;
+  will-change: opacity;
+}
+
+.content-archive .site-main{
+    padding-bottom:8px;
+}
+
+/* appear animation */
+img[data-src][src] {
+  opacity: 1;
+}
+
+.newsBanar_Img_link{
+    width:100%;
+    height:100%;
+    padding:0px !important;
+    margin:0px !important;
+}
+.newsBanar_Img_link:before{
+    display:none !important;
+}
+
+
+
+
+/* user auth */
+label{
+    color:black;
+}
+/* section video */
+
+
+
+
+.banarSectionVideo .article-list .card__art:nth-child(2) p,.banarSectionVideo .article-list .card__art:nth-child(3) p,.banarSectionVideo .article-list .card__art:nth-child(4) p,.banarSectionVideo .article-list .card__art:nth-child(5) p{
+    display:none;
+}
+
+.banarSectionVideo .article-list .card__art .article-date{
+        color: #c0c0c3 !important;
+
+}
+
+
+
+
+/* image thumbnail */
+.newsBanar_Img>img {
+    display: block;
+    width: 100%;
+    position: absolute;
+    height: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+    -o-object-position: center;
+    object-position: center;
+}
+
+
+.category-opinion .article-list .card__art .auther-info p {
+    font-size: 17px;
+    font-family: 'tadamsa-normal';
+    display: none;
+}
+
 
 
 
