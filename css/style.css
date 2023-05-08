@@ -279,6 +279,8 @@ padding: 0.1rem 0.5rem;
 }
 .header-weather span{
     color: white;
+        font-size: 16px;
+
 }
 .header-weather p{
     font-family: tadamsa-normal;
