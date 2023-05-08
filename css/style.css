@@ -3977,7 +3977,10 @@ ul.shareLInks{
     background: #665cac6b;
 }
 .singleShareIcons .shareLInks li:nth-child(4) {
-    background: #0077b782;
+    background: #2cb7427a;
+}
+.singleShareIcons .shareLInks li:nth-child(5) {
+    background: #0077b7ad;
 }
 
 
