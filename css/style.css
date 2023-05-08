@@ -63,6 +63,11 @@ ul {
     display: none;
 }
 
+
+.header__layout .dropdown-item{
+ font-size: 16px;
+}
+
 .tc {
     color: #707070;
 }
