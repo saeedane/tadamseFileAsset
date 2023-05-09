@@ -1088,14 +1088,15 @@ label{
 
 
 
-.newsWithSidebar .newsCont .article-list .card__art:nth-child(1) .article__title,.newsWithSidebar .newsCont .article-list .card__art:nth-child(2) .article__title,.newsWithSidebar .newsCont .article-list .card__art:nth-child(3) .article__title,.newsWithSidebar .newsCont .article-list .card__art:nth-child(4) .article__title{
+.newsWithSidebar .newsCont .article-list .card__art .article__title,
+{
     padding-right: 15px;
 
     
 }
 
 
-.newsWithSidebar .newsCont .article-list .card__art:nth-child(1) .article__title:before,.newsWithSidebar .newsCont .article-list .card__art:nth-child(2) .article__title:before,.newsWithSidebar .newsCont .article-list .card__art:nth-child(3) .article__title:before,.newsWithSidebar .newsCont .article-list .card__art:nth-child(4) .article__title:before{
+.newsWithSidebar .newsCont .article-list .card__art .article__title:before{
         content: "";
     width: 10px;
     height: 14px;
