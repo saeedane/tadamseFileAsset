@@ -3409,10 +3409,7 @@ display: inline-flex;
 
 /* footer section  */
 .footer-wrapper{
-    background-image: url("https://cdn.statically.io/gh/saeedane/tadamseFileAsset/main/img/bg-footer.png");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
+    background-color: #141414;
     overflow: hidden;
 
 }
@@ -3467,7 +3464,8 @@ display: inline-flex;
 .footer-wrapper .footerWidgetColum .textwidget  a{
  font-size: 16px;
  line-height: 2rem;
-
+ color: #c0c0c3 !important;
+ padding-right: 0;
 
 }
 
