@@ -3419,6 +3419,8 @@ display: inline-flex;
 }
 
 
+
+
 .footer-wrapper .footerWidgetCont  .text-about{
     position: relative;
 }
@@ -3462,6 +3464,8 @@ display: inline-flex;
 
 }
 
+
+
 .footer-wrapper .footerWidgetColum .textwidget  a{
  font-size: 16px;
  line-height: 2rem;
@@ -3471,6 +3475,10 @@ display: inline-flex;
 }
 
 
+
+
+
+
 .footer-wrapper .footerWidgetColum .textwidget #menu-social-links-1 li:first-child a {
     padding-right: 0;
     padding-left: 0px;
@@ -3478,7 +3486,6 @@ display: inline-flex;
 }
 
 
-    filter: drop-shadow(2px 4px 6px black);
 
 
 
