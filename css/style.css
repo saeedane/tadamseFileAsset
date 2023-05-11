@@ -3487,6 +3487,15 @@ display: inline-flex;
 
 }
 
+
+.footer-wrapper .footerWidgetColum .textwidget #menu-social-links-1 li:first-child a {
+    padding-right: 0;
+    padding-left: 0px;
+    border: 0;
+}
+
+
+
 /* footer widget category  */
 .footer-wrapper .footerWidgetColum  .widget-category{
 display: flex;
