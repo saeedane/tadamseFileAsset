@@ -247,9 +247,25 @@ padding: 0.1rem 0.5rem;
             background: #002e5f;
 
 }
-.header-top .header__social .nav-item:first-child{
-        border-right: 1px solid#00356c;
 
+
+
+
+.header-top .header__social .nav-item:first-child{
+        background-color: transparent;
+        border:0px;
+
+
+}
+
+.header-top .header__social .nav-item:nth-child(2){
+         border-right: 1px solid#00356c;
+   
+}
+
+
+.header-top .header__social .nav-item:first-child .nav-link {
+    padding-left: 4px;
 }
 
 .header-top .header__social .nav-link {
@@ -261,6 +277,8 @@ padding: 0.1rem 0.5rem;
     height: 14px;
 
 }
+
+
 
 
 
@@ -3433,7 +3451,7 @@ display: inline-flex;
 }
 
 .footer-wrapper .footerWidgetColum  h6,.footer-wrapper  .titleWidgetCat{
-    font-size: 21px;
+    font-size: 23px;
     margin-bottom: 20px !important
 
 }
