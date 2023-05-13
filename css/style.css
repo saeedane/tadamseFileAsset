@@ -2033,8 +2033,7 @@ ul.retureTaboList li.nav-item:hover .nav-link:after {
         display: block;
      width: 120px;
     height: 80px;
-    -o-object-fit: cover;
-    object-fit: cover;
+
     position: absolute;
 border-top-right-radius: 20px !important;
     border-bottom-left-radius: 20px !important;
