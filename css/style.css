@@ -2569,7 +2569,6 @@ border-radius: 20px;
 .readAlsoBox img{
     width: 100%;
     height: 165px;
-    object-fit: cover;
     border-top-right-radius: 20px;
     border-bottom-right-radius: 20px;
     border-bottom-left-radius: 20px;
