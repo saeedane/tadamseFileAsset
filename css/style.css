@@ -3481,6 +3481,22 @@ display: inline-flex;
 }
 
 
+.footer-wrapper .footer_logo_left {
+
+ 
+    font-family: tadamsa-normal;
+    color: white;
+    background-color: black;
+
+}
+.footer-wrapper .footer_logo_left .w-logo{
+    width: 42.781px;
+    height: 15px;
+    filter: contrast(0.5);
+}
+
+
+
 /* footer widget category  */
 .footer-wrapper .footerWidgetColum  .widget-category{
 display: flex;
@@ -3720,22 +3736,15 @@ padding-right: 20px;
     background: transparent;
 }
 
-.footer-wrapper .footer_logo_left .w-logo{
-    width: 42.781px;
-    height: 15px;
-    filter: contrast(0.5);
-}
+
+
 
 .footer-wrapper .footer_logo_left {
-    font-family: tadamsa-normal;
-    color: white;
-    background-color: black;
+
     padding: 2px;
     font-size: 13px;
 
 }
-
- 
 
 
 /* header for mobile  */
