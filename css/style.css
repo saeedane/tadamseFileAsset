@@ -1200,7 +1200,6 @@ content: "";
 
 
 .newsWithSidebar .newsCont .article-list .card__art .image-thumbnail img,.banarSectionHorizontal .article-list .card__art .image-thumbnail  img,.banarSectionVideo .article-list .card__art .image-thumbnail img,.banarSectionSquare .article-list .image-thumbnail  img{
-    object-fit: cover;
 width: 100%;
     height: 190px;
 border-top-right-radius: 20px ;
