@@ -3739,6 +3739,7 @@ padding-right: 20px;
         margin: 4px;
     border: 1px solid#ffffff;
     background: transparent;
+    object-fit: none;
 }
 
 
