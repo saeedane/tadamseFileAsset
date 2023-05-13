@@ -3431,9 +3431,9 @@ display: inline-flex;
     background-size: cover;
     width: 30px;
     height: 31px;
-    top: -30px;
+    top: -10px;
     position: absolute;
-    right: 20px;
+    right: 0px;
 
 }
 
@@ -3450,9 +3450,9 @@ display: inline-flex;
     background-size: cover;
     width: 30px;
     height: 31px;
-    top: 43px;
+    top: 67px;
     position: absolute;
-    left: -12px;
+    left: 0px;
     transform: rotate(180deg);
 }
 
@@ -4491,7 +4491,8 @@ position: absolute !important;
 
 /* section file private  */
 .sectionSlider .categoryContainer .swiper-wrapper .swiper-slide .card__art .image-thumbnail img{
-    height: 220px;
+    height: 195px !important;
+
 }
 
 
