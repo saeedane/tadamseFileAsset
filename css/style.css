@@ -3484,10 +3484,11 @@ display: inline-flex;
 
 .footer-wrapper .footer_logo_left {
 
- 
     font-family: tadamsa-normal;
     color: white;
     background-color: black;
+        margin-bottom: 20px;
+
 
 }
 .footer-wrapper .footer_logo_left .w-logo{
