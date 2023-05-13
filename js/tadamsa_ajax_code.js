@@ -2,10 +2,11 @@
   jQuery('.spinner-border').hide();
   jQuery('#tadamsa_loadmore').on('click',function(e){
   var catID =  jQuery(this).attr('data-cate-id');
+  var authorID =  jQuery(this).attr('data-author-id');
   var postType =  jQuery(this).attr('data-post-type');
 
       e.preventDefault();
-      var data = {'action': 'archives_load_more','page': page,'categoryID' : catID,'postType':postType};
+      var data = {'action': 'archives_load_more','page': page,'authorID':authorID ,'categoryID' : catID,'postType':postType};
         jQuery('.loading-archive').show();
         jQuery('#tadamsa_loadmore').hide();
 
