@@ -3435,6 +3435,8 @@ display: inline-flex;
     top: -10px;
     position: absolute;
     right: 0px;
+    filter: grayscale(1);
+
 
 }
 
@@ -3455,6 +3457,8 @@ display: inline-flex;
     position: absolute;
     left: 0px;
     transform: rotate(180deg);
+    filter: grayscale(1);
+
 }
 
 .footer-wrapper .footerWidgetColum .textwidget  p a,.footer-wrapper .footerWidgetColum .textwidget  p {
