@@ -2448,6 +2448,10 @@ opacity:1;visibility:visible;top:100%}
     margin-bottom: 30px;
 }
 
+.post-content .entry-content h4 a{
+    color: #31b7bc;
+}
+
 .post-content .entry-content p{
     font-family: 'tadamsa-normal';
     font-size: 16px !important;
@@ -3967,7 +3971,16 @@ padding: 0px;
 .genPostMetaInfo{
     align-items: flex-end !important;
 
+
 }
+
+
+.singleShareIcons{
+     left: 10px;
+    bottom: 15px; 
+}
+  
+
 
 .singleShareIcons .icon__share{
     width: 22px;
