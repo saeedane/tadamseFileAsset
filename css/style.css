@@ -3541,7 +3541,7 @@ display: flex;
 
 
     .widgetColum .sidebarWidget .nav-item{
-        padding: 15px !important;
+    padding-bottom: 20px;
     }
     .widgetColum .sidebarWidget .nav-item .nav-link{
         min-height: 30px !important;
