@@ -1231,9 +1231,7 @@ border-top-right-radius: 20px ;
 
 }
 
-.no-shadow .article-list .card__art:first-child .image-thumbnail:before{
-    position: relative;
-}
+
 .style-3 .article-list .card__art a{
     padding-right: 0px !important;
 }
