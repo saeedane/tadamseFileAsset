@@ -943,10 +943,7 @@ img[data-src][src] {
     height: 100%;
     padding: 0px !important;
     margin: 0px !important;
-    background: #f1f1f1;
-    display: flex;
-    border-top-right-radius: 20px;
-    border-bottom-right-radius: 20px;
+
 
 }
 .newsBanar_Img_link:before{
@@ -1818,7 +1815,14 @@ span.results-label {
     margin-bottom: 30px;
 
 }
-
+.content-archive .post-wrapper .newsBanar_Img_link{
+   background: #f1f1f1;
+    display: flex;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+   
+}
+  
 
 .content-archive .post-wrapper .card__vote{
     width: calc(100% / 3 - 20px);box-shadow: 1px 1px 10px #e5e5e5;border-radius:20px;
@@ -4129,7 +4133,7 @@ margin-top: 0px !important;
 .archive_post_img img {
     border-top-right-radius: 20px;
     border-top-left-radius: 20px;
-	    border-bottom-right-radius: 0px;
+	border-bottom-right-radius: 0px;
 }
 
 .content-archive .post-content.media{
