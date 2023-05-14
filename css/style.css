@@ -2192,6 +2192,11 @@ font-family: 'tadamsa-normal';
     margin-bottom: 20px;
 }
 
+.post-content .entry-content figure ,.post-content .entry-content img,.post-content .entry-content figure img{
+    max-width: 100%;
+}
+
+
 
 
 /*single slide news right  */
@@ -3878,9 +3883,7 @@ padding: 0px;
     margin-bottom: 0px;
 }
 
-.post-content .entry-content figure ,.post-content .entry-content img,.post-content .entry-content figure img{
-    max-width: 100%;
-}
+
 
 
 /* hero for mobile */
