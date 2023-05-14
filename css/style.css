@@ -3874,7 +3874,7 @@ padding: 0px;
     margin-bottom: 0px;
 }
 
-.post-content .entry-content figure {
+.post-content .entry-content figure ,.post-content .entry-content img,.post-content .entry-content figure img{
     max-width: 100%;
 }
 
