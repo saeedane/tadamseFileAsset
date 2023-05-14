@@ -382,7 +382,7 @@ color: white;
     position: fixed;
     z-index: 99;
     right: 0;
-    bottom: 0;
+    bottom: 39px;
     width: 100%;
     background: #e51b23;
     color: #fff;
