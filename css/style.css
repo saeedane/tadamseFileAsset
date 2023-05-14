@@ -3742,6 +3742,11 @@ padding-right: 20px;
     margin-left: auto;
 } 
 
+.footerWidgetColum ul.social_links{
+   margin: 0px 10px !important;
+
+}
+
 .footerWidgetColum ul.social_links li a img{
         margin: 4px;
     border: 1px solid#3b3b3b;
@@ -3759,6 +3764,9 @@ padding-right: 20px;
     margin: 0;
 
 }
+
+
+
 
 
 /* header for mobile  */
