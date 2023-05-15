@@ -20,6 +20,8 @@ function setCookie(name, value, expiry = 60 * 24 * 60 * 60 * 1000) {
     document.cookie = name + '=' + value + expires + "; path=/";
 }
 
+  var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+
 
 jQuery(window).scroll(function() {
     var $height = jQuery(window).scrollTop();
@@ -37,11 +39,22 @@ jQuery(window).scroll(function() {
 
     if(jQuery(".header-wrapper").hasClass("sticky") || jQuery(".shart-contianer").hasClass("sticky") ){
         jQuery('.menuNews').addClass('d-none');
-        jQuery('.shart-contianer').addClass('bg-white');
+        if (isMobile) {
+            jQuery('.shart-contianer').addClass('d-none');
+        
+        }else{
+           jQuery('.shart-contianer').addClass('bg-white');
+        }
+
 
     }else{
          jQuery('.menuNews').removeClass('d-none');
-         jQuery('.shart-contianer').removeClass('bg-white');
+        if (isMobile) {
+            jQuery('.shart-contianer').removeClass('d-none');
+        
+        }else{
+           jQuery('.shart-contianer').removeClass('bg-white');
+        }
 
     }
 
@@ -95,16 +108,6 @@ jQuery(window).scroll(function() {
    jQuery(this).find('li').addClass('info');
  });
 
-
-
-
-/*
-  var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
-if (isMobile) {
-  alert('mobile welcome ');
-}
-
-*/
 
  let body = jQuery('body');
 
