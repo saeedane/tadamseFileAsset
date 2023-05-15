@@ -37,11 +37,11 @@ jQuery(window).scroll(function() {
 
     if(jQuery(".header-wrapper").hasClass("sticky") || jQuery(".shart-contianer").hasClass("sticky") ){
         jQuery('.menuNews').addClass('d-none');
-        jQuery('.shart-contianer').addClass('d-none');
+        jQuery('.shart-contianer').addClass('bg-white');
 
     }else{
          jQuery('.menuNews').removeClass('d-none');
-         jQuery('.shart-contianer').removeClass('d-none');
+         jQuery('.shart-contianer').removeClass('bg-white');
 
     }
 
