@@ -116,12 +116,8 @@ if (isMobile) {
               // Dark mode
     if (body.hasClass('dark-mode')) {
         body.removeClass('dark-mode');
-        
-        deleteCookie('__dark-mode', '/');
     } else { // Light mode
         body.addClass('dark-mode');
-
-        setCookie('__dark-mode', 'DARK');
     }
 
 
