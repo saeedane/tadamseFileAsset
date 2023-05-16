@@ -2202,6 +2202,7 @@ font-family: 'tadamsa-normal';
 
 .post-content .entry-content figure ,.post-content .entry-content img,.post-content .entry-content figure img{
     max-width: 100%;
+    height: 100%;
 }
 
 
