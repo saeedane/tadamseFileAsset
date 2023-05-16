@@ -3551,7 +3551,7 @@ display: flex;
     }
 
     .category-opinion .article-list .card__art{
-        width: 49%;
+        width: 49% !important;
     }
 
 
