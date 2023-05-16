@@ -3530,9 +3530,9 @@ display: flex;
 
 
 
-    .desktopNone {
-        display: none !important;
-    }
+.desktopNone {
+   display: none !important;
+}
 
 @media only screen and (max-width: 425px) {
 .menu_side .menu_content {
@@ -3541,22 +3541,9 @@ display: flex;
 
 }
 
-/* response for tablet */
-
-@media(min-width:600px) And (max-width:1024px){
-
-    /* opinion   for tablet */
-    .banarSectionHorizontal .article-list{
-      display: flex !important; 
-    }
-
-    .category-opinion .article-list .card__art{
-        width: 49% !important;
-    }
 
 
 
-}
 
 
 /* response mobile css  */
@@ -4684,6 +4671,26 @@ color: #03cab8;
 
 
 }
+
+/* response for tablet */
+
+@media(min-width:600px) And (max-width:1024px){
+
+    /* opinion   for tablet */
+    .banarSectionHorizontal .article-list{
+      display: flex !important; 
+    }
+
+    .category-opinion .article-list .card__art{
+        width: 49% !important;
+    }
+
+
+
+}
+
+
+
 /* readAlsoBox for mobile 390  */
 @media only screen and (max-width: 360px) {
     .readAlsoBox .article__teaser {
@@ -4691,6 +4698,7 @@ color: #03cab8;
 
     }
   }
+
 
 
   .market--ticker {
