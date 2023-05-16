@@ -932,6 +932,8 @@ img[data-src] {
 /* appear animation */
 img[data-src][src] {
   opacity: 1;
+    will-change: inherit;
+
 }
 
 .newsBanar_Img_link{
