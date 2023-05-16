@@ -4690,7 +4690,7 @@ color: #03cab8;
 
     /* sidebar for tablet */
 
-    .widgetColum .sidebarWidget,.widgetColum .sidebarWidget .returnTaboun_wid{
+    .widgetColum .sidebarWidget,.widgetColum  .returnTaboun_wid{
         width: 50%;
         margin: auto;
     }
