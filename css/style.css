@@ -4389,11 +4389,14 @@ margin-top: 0px !important;
 }
 
 /*  category-opinion artcile for mobile */
-
+.banarSectionHorizontal .article-list{
+    display: flex !important; 
+}
 .category-opinion .article-list .card__art{
     height: auto !important;
-    width: 90% !important;
+    width: 49% !important;
     padding-bottom: 30px !important;
+
 }
 
 
