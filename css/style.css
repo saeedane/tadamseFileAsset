@@ -1053,7 +1053,6 @@ label{
     border-top-right-radius: 20px;
     border-bottom-right-radius: 20px;
     border-bottom-left-radius: 20px;
-    object-fit: cover;
 }
 
 .newsWithSidebar .newsCont .article-list .card__art .image-thumbnail {
