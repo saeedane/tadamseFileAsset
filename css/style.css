@@ -4694,6 +4694,12 @@ color: #03cab8;
 
     }
 
+
+    .sectionSlider .categoryContainer .swiper-wrapper .swiper-slide .card__art .image-thumbnail img{
+            height: 390px !important;
+
+    }
+
 .banarSectionSquare .article-list .card__art:first-child img, .banarSectionVideo .article-list .card__art:first-child img{
     height: 100% !important;
 }
