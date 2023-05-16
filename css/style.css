@@ -1049,7 +1049,7 @@ label{
 /* article hero */
 .article__hero  .image-thumbnail img{
 	width:445px;
-	height:330px;
+	height:100%;
     border-top-right-radius: 20px;
     border-bottom-right-radius: 20px;
     border-bottom-left-radius: 20px;
