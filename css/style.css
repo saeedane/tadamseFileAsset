@@ -1002,6 +1002,7 @@ label{
     flex-direction: column;
     height: 100%;
     padding-right: 10px;
+    width: 50% !important;
 }
 
 
