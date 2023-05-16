@@ -4685,6 +4685,15 @@ color: #03cab8;
         width: 49% !important;
     }
 
+    /* card art */
+    .newsWithSidebar .newsCont .article-list .card__art .image-thumbnail img,
+     .card-small .article-list .card__art .image-thumbnail img, 
+     .newsWithSidebar .newsCont .article-list .card__art .image-thumbnail img, 
+    .banarSectionHorizontal .article-list .card__art .image-thumbnail img{
+        height: 150px !important;
+
+    }
+
 
 
 }
