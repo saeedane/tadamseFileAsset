@@ -3541,6 +3541,24 @@ display: flex;
 
 }
 
+/* response for tablet */
+
+@media(min-width:600px) And (max-width:1024px){
+
+    /* opinion   for tablet */
+    .banarSectionHorizontal .article-list{
+      display: flex !important; 
+    }
+
+    .category-opinion .article-list .card__art{
+        width: 49%;
+    }
+
+
+
+}
+
+
 /* response mobile css  */
 @media only screen and (max-width: 767px) {
 
@@ -4389,12 +4407,10 @@ margin-top: 0px !important;
 }
 
 /*  category-opinion artcile for mobile */
-.banarSectionHorizontal .article-list{
-    display: flex !important; 
-}
+
 .category-opinion .article-list .card__art{
     height: auto !important;
-    width: 49% !important;
+    width: 100% !important;
     padding-bottom: 30px !important;
 
 }
