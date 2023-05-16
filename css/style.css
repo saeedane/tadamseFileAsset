@@ -3927,7 +3927,7 @@ padding: 0px;
 
 
 .newsWithSidebar  .article__hero  .image-thumbnail{
-    width: 100%;
+    width: 100% !important;
 }
 
 .newsWithSidebar .newsCont .article-list .card__art .image-thumbnail img,.card-small .article-list .card__art .image-thumbnail img,.newsWithSidebar .newsCont .article-list .card__art .image-thumbnail img, .banarSectionHorizontal .article-list .card__art .image-thumbnail img{
