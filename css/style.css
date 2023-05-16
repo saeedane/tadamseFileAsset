@@ -3920,6 +3920,16 @@ padding: 0px;
     font-size: 21px;
 }
 
+.newsWithSidebar  .article__hero .article__body {
+
+    width: 100% !important;
+}
+
+
+.newsWithSidebar  .article__hero  .image-thumbnail{
+    width: 100%;
+}
+
 .newsWithSidebar .newsCont .article-list .card__art .image-thumbnail img,.card-small .article-list .card__art .image-thumbnail img,.newsWithSidebar .newsCont .article-list .card__art .image-thumbnail img, .banarSectionHorizontal .article-list .card__art .image-thumbnail img{
     height: 100px !important;
 }
