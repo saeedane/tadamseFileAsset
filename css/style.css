@@ -1006,6 +1006,10 @@ label{
 }
 
 
+.newsWithSidebar  .article__hero  .image-thumbnail{
+    width: 50%;
+}
+
 .newsWithSidebar .newsCont .article__hero .article__body .article__title:first-child{
     font-size: 22px;
     color: #000;
