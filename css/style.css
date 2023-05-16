@@ -4694,6 +4694,15 @@ color: #03cab8;
 
     }
 
+.banarSectionSquare .article-list .card__art:first-child img, .banarSectionVideo .article-list .card__art:first-child img{
+    height: 100% !important;
+}
+
+
+    .banarSectionSquare .article-list .card__art img, .banarSectionVideo .article-list .card__art img {
+       height: 230px;
+    }
+
 
 
 }
