@@ -4683,6 +4683,19 @@ color: #03cab8;
 
 @media(min-width:600px) And (max-width:1024px){
 
+    /* hero slider */
+    .newsWithSidebar .newsCont .article-list .article__hero .image-thumbnail{
+        height: 100%;
+    }
+
+    /* sidebar for tablet */
+
+    .widgetColum .sidebarWidget,.widgetColum .sidebarWidget .returnTaboun_wid{
+        width: 50%;
+        margin: auto;
+    }
+
+
     /* opinion   for tablet */
     .banarSectionHorizontal .article-list{
       display: flex !important; 
@@ -4714,6 +4727,13 @@ color: #03cab8;
 
     .banarSectionSquare .article-list .card__art img, .banarSectionVideo .article-list .card__art img {
        height: 220px !important;
+    }
+
+
+    /* footer for tablet */
+    .footer-wrapper .footer_logo_left{
+        flex: 1;
+        max-width: 100%;
     }
 
 
