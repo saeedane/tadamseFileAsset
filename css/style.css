@@ -3145,8 +3145,9 @@ background-image: url('https://cdn.statically.io/gh/saeedane/tadamseFileAsset/a0
      border-bottom-left-radius: 100px;
              display: flex;
     flex-direction: column;
-    height:100%;
-    background-size: cover;
+    height:520px;
+        background-size: cover;
+
 
 }
 .category-opinion .article-list  .card__art h4{
