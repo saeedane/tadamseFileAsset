@@ -192,10 +192,6 @@ body.oveflow {
     display: flex;
 }
 
-.is_scroll{
-   overflow-y: hidden;
-
-}
 
 
 .header-top .header__links .nav, .header-top  .header__social .nav{
@@ -3830,6 +3826,12 @@ padding-right: 20px;
     margin-right: -38px;
     margin-left: -38px;
 }
+
+.is_scroll{
+   overflow-y: hidden;
+
+}
+
 
 
 /* tradingview for mobile */
