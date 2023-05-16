@@ -4737,6 +4737,17 @@ color: #03cab8;
     }
 
 
+    .footer-wrapper .footerWidgetColum h6, .footer-wrapper .titleWidgetCat{
+            font-size: 21px;
+
+    }
+
+    .footer-wrapper .footerWidgetColum:nth-child(3){
+        margin: 20px 0px !important;
+    margin-bottom: 0px !important;
+    }
+
+
 
 }
 
