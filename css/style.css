@@ -4660,6 +4660,11 @@ color: #03cab8;
     padding-left: 14px;
  }
 
+ .post-content .entry-content .shortlinks{
+        margin-right: -20px;
+    margin-left: -20px;
+ }
+
 
  /* comment for mobile */
 
