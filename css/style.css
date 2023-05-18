@@ -4750,7 +4750,9 @@ color: #03cab8;
 }
 
 
-  
+    .banarSectionSquare .article-list .card__art img, .banarSectionVideo .article-list .card__art img {
+       height: 220px !important;
+    }
 
 
     /* footer for tablet */
