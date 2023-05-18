@@ -2217,11 +2217,12 @@ padding-right: 15px;
         font-family: 'tadamsa-normal';
 
 }
-.post-content .entry-content .shortlinks .bunh{
-    color: #31b7bc;
-text-decoration: underline;
+.post-content .entry-content .shortlinks .bunh {
+    color: #002e5f;
+    text-decoration: underline;
     text-decoration-color: #31b7bc75;
     text-decoration-thickness: 2px;
+    font-weight: 900;
 }
 
 /*single slide news right  */
