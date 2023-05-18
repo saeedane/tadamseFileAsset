@@ -2207,6 +2207,22 @@ font-family: 'tadamsa-normal';
 
 
 
+.post-content .entry-content .shortlinks{
+
+padding-right: 15px;
+    background-image: linear-gradient(to right, #e71d2500, rgb(0 0 0 / 8%),#db1d2405);  
+} 
+
+.post-content .entry-content .shortlinks span{
+        font-family: 'tadamsa-normal';
+
+}
+.post-content .entry-content .shortlinks .bunh{
+    color: #31b7bc;
+text-decoration: underline;
+    text-decoration-color: #dc3545;
+    text-decoration-thickness: 2px;
+}
 
 /*single slide news right  */
 .slide-top{
@@ -4758,6 +4774,10 @@ color: #03cab8;
 
 
     }
+
+    .footer-wrapper .footerWidgetColum .widget-category p {
+    width: 50% !important;
+}
 
 
 }
