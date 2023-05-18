@@ -25,7 +25,7 @@ var swiper = new Swiper(".categoryCont", {
           clickable: true,
         },
             slidesPerView: 6,
-                breakpoints: { 320: { slidesPerView: 2, spaceBetween: 10 },   1200: { slidesPerView: 4},600:{slidesPerView: 3} },
+                breakpoints: { 320: { slidesPerView: 2, spaceBetween: 10 },   1200: { slidesPerView: 4},600:{slidesPerView: 2},768:{slidesPerView: 3} },
 
 
       });
