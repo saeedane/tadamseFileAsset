@@ -111,9 +111,9 @@ jQuery(window).scroll(function() {
 
  let body = jQuery('body');
 
-     jQuery(".header__layout .dropdown-item").click(function (e) {
-              jQuery('.header__layout .dropdown-item').removeClass("active");
-              jQuery(this).addClass("active");
+jQuery(".header__layout .dropdown-item").click(function (e) {
+jQuery('.header__layout .dropdown-item').removeClass("active");
+jQuery(this).addClass("active");
 
 
               // Dark mode
@@ -130,11 +130,11 @@ jQuery(window).scroll(function() {
     
     jQuery(".switch__dark").click(function (e) {
     
-    
+        jQuery(this).toggleClass('dark-mode');
+
               // Dark mode
     if (body.hasClass('dark-mode')) {
         body.removeClass('dark-mode');
-        
         deleteCookie('__dark-mode', '/');
     } else { // Light mode
         body.addClass('dark-mode');
