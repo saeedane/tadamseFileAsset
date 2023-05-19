@@ -111,7 +111,7 @@ jQuery(window).scroll(function() {
 
  let body = jQuery('body');
 
-jQuery(".header__layout .dropdown-item").click(function (e) {
+jQuery(".header__layout .dropdown-item,.switch__dark").click(function (e) {
 jQuery('.header__layout .dropdown-item').removeClass("active");
 jQuery(this).addClass("active");
 
