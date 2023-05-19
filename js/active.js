@@ -131,7 +131,6 @@ jQuery(this).addClass("active");
         deleteCookie('dark', '/');
     } else { // Light mode
         body.addClass('dark-mode');
-
         setCookie('dark', 'DARK');
     }
     
