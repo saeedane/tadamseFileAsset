@@ -115,15 +115,7 @@ jQuery(".header__layout .dropdown-item").click(function (e) {
 jQuery('.header__layout .dropdown-item').removeClass("active");
 jQuery(this).addClass("active");
 
-
-
-         e.stopImmediatePropagation();
-    return false;
-    });
-    
-    jQuery(".switch__dark").click(function (e) {
-    
-        jQuery(this).toggleClass('dark-mode');
+     jQuery(this).toggleClass('dark-mode');
 
               // Dark mode
     if (body.hasClass('dark-mode')) {
@@ -131,12 +123,15 @@ jQuery(this).addClass("active");
         deleteCookie('dark', '/');
     } else { // Light mode
         body.addClass('dark-mode');
+
         setCookie('dark', 'DARK');
     }
-    
-    e.stopImmediatePropagation();
+
+         e.stopImmediatePropagation();
     return false;
-    });
+});
+    
+  
     
      jQuery(".close_news").click(function () {
         jQuery(this).parent(".newsConten").addClass("d-none");
