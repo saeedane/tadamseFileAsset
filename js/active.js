@@ -116,13 +116,6 @@ jQuery('.header__layout .dropdown-item').removeClass("active");
 jQuery(this).addClass("active");
 
 
-              // Dark mode
-    if (body.hasClass('dark-mode')) {
-        body.removeClass('dark-mode');
-    } else { // Light mode
-        body.addClass('dark-mode');
-    }
-
 
          e.stopImmediatePropagation();
     return false;
@@ -135,11 +128,11 @@ jQuery(this).addClass("active");
               // Dark mode
     if (body.hasClass('dark-mode')) {
         body.removeClass('dark-mode');
-        deleteCookie('__dark-mode', '/');
+        deleteCookie('dark', '/');
     } else { // Light mode
         body.addClass('dark-mode');
 
-        setCookie('__dark-mode', 'DARK');
+        setCookie('dark', 'DARK');
     }
     
     e.stopImmediatePropagation();
