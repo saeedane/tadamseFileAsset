@@ -120,11 +120,11 @@ jQuery(window).scroll(function() {
               // Dark mode
     if (body.hasClass('dark-mode')) {
         body.removeClass('dark-mode');
-          deleteCookie('dark', '/');
+          deleteCookie('__dark', '/');
 
     } else { // Light mode
         body.addClass('dark-mode');
-                setCookie('dark', 'dark-mode');
+                setCookie('__dark', 'dark-mode');
 
     }
 
