@@ -120,7 +120,7 @@ jQuery(this).addClass("active");
               // Dark mode
     if (body.hasClass('dark-mode')) {
         body.removeClass('dark-mode');
-        deleteCookie('dark-mode', '/');
+        deleteCookie('dark', '/');
     } else { // Light mode
         body.addClass('dark-mode');
 
