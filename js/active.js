@@ -111,11 +111,31 @@ jQuery(window).scroll(function() {
 
  let body = jQuery('body');
 
-jQuery(".header__layout .dropdown-item,.switch__dark").click(function (e) {
-jQuery('.header__layout .dropdown-item,.switch__dark').removeClass("active");
+jQuery(".header__layout .dropdown-item").click(function (e) {
+jQuery('.header__layout .dropdown-item').removeClass("active");
 jQuery(this).addClass("active");
-
      jQuery(this).toggleClass('dark-mode');
+
+
+              // Dark mode
+    if (body.hasClass('dark-mode')) {
+        body.removeClass('dark-mode');
+                deleteCookie('dark', '/');
+
+    } else { // Light mode
+        body.addClass('dark-mode');
+                setCookie('dark', 'dark-mode');
+
+    }
+
+
+         e.stopImmediatePropagation();
+    return false;
+    });
+    
+    jQuery(".switch__dark").click(function (e) {
+    
+        jQuery(this).toggleClass('dark-mode');
 
               // Dark mode
     if (body.hasClass('dark-mode')) {
@@ -126,12 +146,10 @@ jQuery(this).addClass("active");
 
         setCookie('dark', 'dark-mode');
     }
-
-         e.stopImmediatePropagation();
-    return false;
-});
     
-  
+    e.stopImmediatePropagation();
+    return false;
+    });
     
      jQuery(".close_news").click(function () {
         jQuery(this).parent(".newsConten").addClass("d-none");
