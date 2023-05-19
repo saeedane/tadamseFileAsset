@@ -120,11 +120,11 @@ jQuery(this).addClass("active");
               // Dark mode
     if (body.hasClass('dark-mode')) {
         body.removeClass('dark-mode');
-        deleteCookie('dark', '/');
+        deleteCookie('dark-mode', '/');
     } else { // Light mode
         body.addClass('dark-mode');
 
-        setCookie('dark', 'DARK');
+        setCookie('dark', 'dark-mode');
     }
 
          e.stopImmediatePropagation();
