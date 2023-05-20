@@ -4796,12 +4796,12 @@ color: #03cab8;
     
 /* sidebar for desktop mobile */    
     .widgetColum .sidebarWidget,.widgetColum  .returnTaboun_wid{
-        width: 100%;
+        width: 100% !important;
     }
     
         .category-opinion .article-list .card__art{
     width: calc(100% / 4 - 10px) !important;
-                height:auto;
+                height:auto !important;
     }
     .banarSectionSquare .infographicContainer .infographicCont .swiper-button-prev, .swiper-container-rtl .swiper-button-next{
           right: 20px !important;
