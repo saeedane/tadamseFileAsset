@@ -1415,9 +1415,9 @@ border-top-right-radius: 20px ;
     font-family: tadamsa-normal;
 }
 .widgetSurveyContent .poll__rspr {
-    width: 70%;
+    width: 65%;
     border: 1px solid#002e5f;
-    padding: 4px;
+    padding: 3px;
     border-radius: 10px;
 }
 
@@ -1439,9 +1439,9 @@ border-top-right-radius: 20px ;
 
 .widgetSurveyContent .poll__rspr>div {
     height: 100%;
-    border-radius: 10px;
+    border-radius: 5px;
     background-color: #31b7bc;
-    padding: 3px;
+    padding: 2px;
 
 
 }
