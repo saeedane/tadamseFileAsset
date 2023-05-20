@@ -4188,6 +4188,13 @@ margin-top: 0px !important;
 	border-bottom-right-radius: 0px;
 }
 
+.content-archive .post-wrapper .newsBanar_Img_link{
+        border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+        border-bottom-right-radius: 0px;
+
+}
+
 .content-archive .post-content.media{
     display: unset;
 }

@@ -308,7 +308,7 @@ body.dark-mode .widgetSurveyContent .poll__list .form-check{
     border-color: black !important;
 }
 
-body.dark-mode .image-thumbnail{
+body.dark-mode .image-thumbnail,body.dark-mode .content-archive .post-wrapper .newsBanar_Img_link{
     background-color: #121111;
 }
 
