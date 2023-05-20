@@ -1417,7 +1417,7 @@ border-top-right-radius: 20px ;
 .widgetSurveyContent .poll__rspr {
     width: 65%;
     border: 1px solid#002e5f;
-    padding: 3px;
+    padding: 4px;
     border-radius: 10px;
 }
 
@@ -4224,7 +4224,9 @@ margin-top: 0px !important;
 }
 
 
-
+.widgetSurveyContent .poll__list .form-check{
+    margin-bottom: 20px;
+}
 
 
 /*
