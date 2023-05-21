@@ -3997,7 +3997,7 @@ h1.entry-title:before {
 }
 
 .newsWithSidebar .newsCont .article__hero .article__body{
-    padding-top: 10px;
+    padding-top: 10px !important;
 }
 
 
