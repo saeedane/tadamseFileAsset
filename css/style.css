@@ -2199,7 +2199,20 @@ font-family: 'tadamsa-normal';
 .entry-header .entry-title{
     
     margin-bottom: 20px;
+        padding-right: 12px;
+
 }
+
+.entry-header .entry-title:before{
+        content: "";
+    width: 10px;
+    height: 14px;
+    background: #dc3545;
+    position: absolute;
+    right: 0;
+    top: 9px;
+}
+
 
 .post-content .entry-content figure ,.post-content .entry-content img,.post-content .entry-content figure img{
     max-width: 100%;
