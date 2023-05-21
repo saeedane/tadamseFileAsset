@@ -3996,6 +3996,10 @@ h1.entry-title:before {
     height:100% !important;
 }
 
+.newsWithSidebar .newsCont .article__hero .article__body{
+    padding-top: 10px;
+}
+
 
 /* section video of mobile */
 .banarSectionVideo .card__art:first-child .article__body .article__info .article__date{
