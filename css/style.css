@@ -3942,6 +3942,8 @@ padding: 0px;
 
 h1.entry-title:before {
     right: 6px !important;
+        top: 12px !important;
+
 }
 
 
