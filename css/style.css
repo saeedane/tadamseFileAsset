@@ -1008,6 +1008,7 @@ label{
 
 .newsWithSidebar  .article__hero  .image-thumbnail{
     width: 50%;
+    height: 330px;
 }
 
 .newsWithSidebar .newsCont .article__hero .article__body .article__title:first-child{

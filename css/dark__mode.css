@@ -308,9 +308,18 @@ body.dark-mode .widgetSurveyContent .poll__list .form-check{
     border-color: black !important;
 }
 
-body.dark-mode .image-thumbnail,body.dark-mode .content-archive .post-wrapper .newsBanar_Img_link{
+body.dark-mode .image-thumbnail,body.dark-mode .content-archive .post-wrapper .newsBanar_Img_link,body.dark-mode .post-content .entry-content .shortlinks{
     background-color: #121111;
 }
+
+
+body.dark-mode .post-content .entry-content .shortlinks .bunh{
+        color: #31b7bc;
+    text-decoration-color: #31b7bc75;
+}
+
+
+
 
 /* hero section  */
 body.dark-mode .newsWithSidebar .newsCont .article__hero .article__body .article__title,body.dark-mode .newsWithSidebar .newsCont .article-list .card__art .article__title{
