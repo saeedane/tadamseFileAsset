@@ -2204,8 +2204,9 @@ font-family: 'tadamsa-normal';
 .entry-header .entry-title{
     
     margin-bottom: 20px;
-            border-bottom: 1px dotted#000;
-    padding-bottom: 15px;
+    background-image: linear-gradient(to right, #e71d2500, rgb(0 0 0 / 8%),#db1d2405);
+    background-color: transparent !important;
+    padding: 15px;
 
 }
 
@@ -3945,6 +3946,8 @@ padding: 0px;
     margin-bottom: 0px;
     border:0px;
     padding-bottom: 0px;
+        background-image: none;
+
 
 
 }
