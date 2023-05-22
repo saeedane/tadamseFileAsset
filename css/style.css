@@ -3827,7 +3827,7 @@ padding-right: 20px;
 
 .footer-wrapper .footerWidgetColum .mobileLink a:nth-child(1):after {
     content: "-";
-    margin-right: 7px;
+    margin-right: 4px;
     margin-left: 0px;
 }
 .footer-wrapper .footerWidgetColum .mobileLink a:nth-child(1){
