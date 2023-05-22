@@ -86,6 +86,11 @@ h1{
     position: relative;
 }
 
+p{
+        font-family:tadamsa-normal;
+
+}
+
 .vc-tadamsa-w1170{
     max-width: 1170px;  
 }
@@ -3577,7 +3582,11 @@ display: flex;
 /* response mobile css  */
 @media only screen and (max-width: 767px) {
 
-
+.vc_color-turquoise.vc_message_box-outline, .vc_color-turquoise.vc_message_box-solid-icon{
+        margin-left:0px !important;
+    margin-top:0px !important;
+    }
+    
 
     .widgetColum .sidebarWidget .nav-item{
     padding-bottom: 20px;
