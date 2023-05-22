@@ -2199,20 +2199,10 @@ font-family: 'tadamsa-normal';
 .entry-header .entry-title{
     
     margin-bottom: 20px;
-        padding-right: 12px;
+            border-bottom: 1px dotted#000;
+    padding-bottom: 15px;
 
 }
-
-.entry-header .entry-title:before{
-        content: "";
-    width: 10px;
-    height: 14px;
-    background: #31b7bc;
-    position: absolute;
-    right: 0;
-    top: 9px;
-}
-
 
 
 
@@ -3936,6 +3926,7 @@ padding: 0px;
     font-size: 24px;
     line-height: 2.5rem;
     margin-bottom: 0px;
+
 
 }
 
