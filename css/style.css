@@ -2203,12 +2203,24 @@ font-family: 'tadamsa-normal';
 }
 .entry-header .entry-title{
     
-    margin-bottom: 20px;
-    background-image: linear-gradient(to right, #e71d2500, rgb(0 0 0 / 8%),#db1d2405);
-    background-color: transparent !important;
-    padding: 15px;
+    margin-bottom: 0px !important;
+    padding: 15px 54px;
+    line-height: 3rem;
 
 }
+
+.content-single .entry-header .entry-title:before {
+   content: "";
+    background-image: url(https://cdn.statically.io/gh/saeedane/tadamseFileAsset/a5035185/img/icons/V%C3%A9rgule.svg);
+    background-size: cover;
+    width: 30px;
+    height: 31px;
+    top: 22px;
+    position: absolute;
+    right: 15px;
+
+}
+
 
 
 
@@ -3939,19 +3951,16 @@ padding: 0px;
     padding-left: 20px;
     font-size: 24px;
     line-height: 2.5rem;
-    margin-bottom: 0px;
+    margin-bottom: 20px;
     border:0px;
     padding-bottom: 0px;
-        background-image: none;
-
-
 
 }
 
 
-h1.entry-title:before {
-    right: 7px !important;
-        top: 12px !important;
+.content-single .entry-header .entry-title:before {
+
+     display: none;
 
 }
 
